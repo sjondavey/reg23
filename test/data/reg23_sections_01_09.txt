@@ -1,0 +1,1053 @@
+(1) The content of the return is confidential and not available for inspection by the public. (01-Regulations-part-1.pdf; pg 94)
+
+(2) The purpose of form BA 200, amongst other things: (01-Regulations-part-1.pdf; pg 94)
+    (a) is to provide an executive summary and overview of the reporting bank's exposure to and capital requirement in respect of credit risk;
+    (b) is to provide a detailed analysis of the reporting bank's exposure to credit risk, including information in respect of key credit risk parameters, counterparty credit risk and credit impairments;
+    (c) in the case of a bank that adopted the IRB approach for the measurement of its exposure to credit risk, is to provide an analysis in respect of expected loss and credit impairments, including information in respect of any related impact on qualifying capital and reserve funds;
+    (d) is to provide an analysis of any relevant exposure in respect of specialised lending, which exposure is subject to specific risk weights and specified risk grades;
+    (e) is to provide an analysis of any their assets and their relevant capital requirements
+
+(3) For the measurement of a bank's exposure to credit risk the bank shall at the discretion of the bank use one of the alternative methodologies specified below (01-Regulations-part-1.pdf; pg 94)
+    (a) The standardised approach, using one of the alternative frameworks prescribed in subregulation (5) read with the relevant provisions specified in subregulations (6) to (9)
+    (b) Subject to the prior written approval of the Registrar and such conditions as may be specified in writing by the Registrar the IRB approach, using one of the alternative frameworks prescribed in subregulation (10) read with the relevant provisions specified in subregulations (11) to (14);
+    (c) Subject to the prior written approval of the Registrar and such conditions as may be specified in writing by the Registrar, a combination of the approaches envisaged in paragraphs (a) and (b) above;
+    Provided that:
+        (i) when a bank is unable, unwilling or unprepared to comply with the relevant qualifying criteria specified in respect of the foundation of advanced IRB approach for the measurement of the bank's exposure to credit risk, the Registrar may in writing direct the bank to apply a specified method, subject to such conditions as may be specified in writing by the Registrar,
+        (ii) unless specifically otherwise provided in these Regulations or specified in writing by the Registrar, a bank shall in all cases other than the items specified below complete the form BA 200 based on the outstanding amount at the end of the reporting month, provided that in respect of those items specified below and any related eligible credit risk mitigation in respect of that specified item, instead of the outstanding amount at the end of the reporting month, the bank shall report the average daily balance of the said specified item and the average daily balance related to any eligible credit risk mitigation in respect of that specified item in respect of the reporting month,
+            (A) Any credit card or overdraft facility.
+            (B) Any corporate exposure related to working capital or an overdraft facility
+            (C) Any SME working capital facility or overdraft.
+            (D) Any money market exposure to a financial institution
+            (E) Any call or overnight loan.
+
+(4) In order to facilitate reporting on the form BA 200 and ongoing review by the Registrar of the reporting bank's exposure to credit risk, including any relevant peer group comparison, a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk- (01-Regulations-part-1.pdf; pg 95)
+    (a) shall in a mutually exclusive and jointly exhaustive manner map its internal master rating scale to the relevant rating scale and PD bands specified in the form BA 200;
+    (b) shall duly document its mapping process, including any relevant definitions applied in its mapping process.
+
+
+(5) Calculation of credit risk exposure: standardised approach (#Heading) (01-Regulations-part-1.pdf; pg 95)
+Subject to the relevant provisions of regulation 38(2) and subregulation (20), a bank that adopted the standardised approach for the measurement of the bank's exposure to credit risk
+    (a) shall calculate its exposure to credit risk, at the discretion of the bank, either in accordance with Method 1, as set out in subregulations (6) and (7), or Method 2, as set out in subregulations (8) and (9); (01-Regulations-part-1.pdf; pg 95)
+    (b) shall in a consistent manner, in accordance with the relevant requirements specified below, and in terms of the bank 's internal risk management process, apply the ratings or assessments issued by an eligible external credit assessment institution of the bank's choice, or export credit agency, to calculate the bank's risk exposure in terms of the relevant provisions contained in these Regulations, that is, the bank shall not "cherry pick" ratings or assessments issued by different external credit assessment institutions, arbitrarily change the use of eligible external credit assessment institutions of apply ratings of assessments for purposes of these Regulations differently from the bank's Internal risk management process. (01-Regulations-part-1.pdf; pg 96)
+        (i) Multiple assessments (#Heading) 
+        When a bank has a choice between-
+            (A) two assessments issued by eligible external credit assessment institutions, which assessments relate to different risk weighting categories, the higher of the two week weights shall apply,
+            (B) three or more assessments issued by eligible external credit assessment institutions, which assessments relate to different risk weighting categories, the higher of the lowest two risk weights shall apply.
+        (ii) Issuer versus issue assessment (#Heading)
+            (A) When a bank invests in
+                (i) an instrument with an tissue-specific assessment, the risk weighting of the instrument shall be based on the said specific assessment,
+                (ii) an unrated instrument issued by an obligor, which obligor is assigned:
+                    (aa) a high-quality credit assessment, that is, an assessment that results in lower risk weight than the risk weight normally applied to an unrated position, the bank may assign the lower risk weight to the said unrated position, provided that
+                        (i) the claim in respect of that unrated position shall rank pari passu or senior to the claims to which the issuer assessment relates;
+                        (ii) when the unrated position ranks junior to the claims to which the issuer assessment relates, the bank shall assign to the said position a risk weight relating to unrated positions.
+                    (bb) low-quality assessment, that is, an assessment that results in a higher risk weight than the risk weight normally applied to an unrelated position, the bank shall assign to the said unrated position the said higher risk weight if that unrated instrument ranks pari passu or is subordinated to ether the relevant senior unsecured issuer assessment or exposure assessment.
+            Provided that in all cases, irrespective whether the bank relies on an issuer of issue-specific assessment, the bank shall ensure that the relevant assessment takes into account and reflects the aggregate amount of credit exposure in respect of all amounts due, that is, the relevant principal amount and any related interest.
+            (B) A bank shall in no case use an external assessment relating to a particular entity within a corporate group to risk weight other entities within the same group.
+        (iii) Foreign currency and domestic currency assessments (#Heading)
+        When a bank assigns a risk weight to an unrated position based on the rating of an equivalent exposure to that borrower to which an issuer rating is assigned, the bank
+            (A) shall use that borrower's foreign-currency rating in respect of exposure denominated in foreign currency,
+            (B) shall use that borrower's domestic-currency rating in respect of exposure denominated in domestic currency.
+        (iv) Short term versus long term assessments (#Heading)
+            (A) Unless specifically otherwise provided in these Regulations, for the measurement of a bank's exposure to Cedi risk, a short-term credit assessment
+                (i) Shall be deemed to be issue-specific, that is, the assessment shall be used only to derive risk weights for claims arising from a rated facility. For example, when a short-term rated facility is assigned a risk weight of 50 per cent, an unrated short-term claim can not be assigned a risk weight lower than 100 per cent
+                (ii) shall in no event be used to support a risk weight for an unrated long-term claim;
+                (iii) shall only be used for short-term claims relating to banks and corporate institutions, such as a particular issuance of commercial paper.
+            (B) Subject to the provisions of subregulation (6) or (8) below, when a short-term facility of particular issuer is risk weight of 150 per cont based on the facility's credit assessment, all unrated claims of the said issuer, whether long-term or short-term, shall be assigned a risk weight of 150 percent.
+        (v) Unsolicited ratings (#Heading)
+        A bank shall not without the prior written approval of the Registrar or otherwise than in accordance with conditions approved in writing by the Registrar make use of unsolicited ratings Issued by an external credit assessment institution.
+    (c) shall duly assess all relevant credit exposures, regardless of whether the said exposures are rated or unrated, to determine whether the risk weights applied to the said exposures in terms of the provisions of subregulations (6) to (9) are appropriate, based on the respective exposures' inherent risk, provided that, when the bank determines that the inherent risk of an exposure, particularly if the exposure is unrated, significantly higher than that implied by the risk weight to which it is assigned, the bank shall consider the higher degree of credit risk in the evaluation of is overall capital adequacy; (01-Regulations-part-1.pdf; pg 98)
+    (d) shall comply with the relevant requirements specified in subregulations (6) to (9) below (01-Regulations-part-1.pdf; pg 98)
+
+(6) Method 1: Calculation of credit risk exposure in terms of the simplified standardised approach (#Heading) (01-Regulations-part-1.pdf; pg 98)
+Unless specifically otherwise provided in these Regulations, a bank that adopted the simplified standardised approach for the measurement of the bank's exposure to credit risk arising from positions held in its banking book shall risk weight its relevant exposure, net of any credit impairment, in accordance with the relevant requirements specified below:
+    (a) In the case of exposure to sovereigns, central banks, public-sector entities, banks, securities firms and corporate institutions, in accordance with the provisions of table 1 below. (01-Regulations-part-1.pdf; pg 98)
+        #Table 1 (01-Regulations-part-1.pdf; pg 99)
+        | | 0-1 | 2 | 3 | 4 to 6 | 7 |
+        ------|------|------|------|------|------|
+        Sovereigns including the Cental Bank of that country | 0% | 20% | 50% | 100% | 150% |
+        Public sector entities | 20% | 50% | 100% | 100% | 150% |
+        Banks (2,3): | 20% | 50% | 100% | 100% | 150% |
+        Securities firms (2,3,5) | 20% | 50% | 100% | 100% | 150% |
+        Banks: short-term claims (4) | 20% | 50% | 100% | 100% | 150% |
+        Secures firms : short term claims (4,5) | 20% | 50% | 100% | 100% | 150% |
+        Corporate entities (Any corporate exposure, including claims on Insurance companies) (6) | 100% | 100% | 100% | 100% | 100% |
+        1. Export Credit Agencies risk score relates to te consensus country risk scores of export credit agencies participating in the 
+        "Arrangement on Officially Supported Export Credits". The consensus country risk classification is 
+        available on the OECD website www.oecd.org, in the Export Credit arrangement web-page of the Trade Directorate.
+        2. Based on the Sovereign Rating.
+        3. No claim on an unrated bank or securities firm shall be assigned a risk weight lower than the risk weight assigned to a claim on the central government of the country in which the bank or securities firm is incorporated.
+        4. Claims with an original maturity of three months or less, excluding a claim which is renewed or rolled resulting in an effective maturity of more than three months.
+        5. Provided that such firms are subject to supervisory and regulatory arrangements comparable to the banks in the Republic. including, in particular, risk-based capital requirements and regulation and supervisions on a consolidated basis. Otherwise a securities firm shall be regarded as a corporate entity.
+        6. Any corporate exposure, including claims on insurance companies
+        #Table 1 - end
+    (b) In the case of an exposure that meets the criteria specified below, which exposure shall be regarded as forming part of the bank's retail portfolio, excluding any exposure that is overdue, at a risk weight of 75 per cent.
+        (i) Criteria relating to orientation (#Heading)
+        The exposure shall relate to an individual person or persons or to a small business.
+        (ii) Criteria relating to the product (#Heading)
+        The exposure shall be in the form of-
+            (A) a revolving credit exposure or line of credit, including exposures relating to credit cards and overdraft facilities;
+            (B) a personal term loan or lease, including instalment loans, vehicle finance and leases, student and educational loans and personal finance; or
+            (C) a small business facility or commitment,
+            provided that the exposures specified below shall at no stage form part of a bank’s retail portfolio.
+                (i) Securities such as bonds and equities, whether listed or not.
+                (ii) Mortgage loans that qualify for inclusion in the category of claims secured by residential property.
+        (iii) Criteria relating to granularity (#Heading)
+        In order to ensure that the retail portfolio of the reporting bank is sufficiently diversified, no aggregate exposure to a counterparty shall exceed 0.2% of the aggregate amount relating to the bank’s retail portfolio.
+        For the purposes of this subparagraph (iii)-
+            (A) aggregate exposure means the gross amount of all forms of debt included in the retail portfolio before any form of credit risk mitigation is taken into consideration;
+            (B) counterparty means one or more persons or entities that may be considered a single beneficiary, including small businesses affiliated to each other; and
+            (C) all retail exposures that are overdue as envisaged in paragraph (e) below shall be excluded from the aggregate amount when the bank calculates the said granularity of the retail portfolio.
+        (iv) Low value of individual exposures (#Heading)
+        An exposure to an individual person or small business shall be included in the retail portfolio only when the aggregate amount of the said exposure after the application of the relevant credit conversion factors but before the effect of any risk mitigation is taken into consideration, is less than or equal to R7,5 million.
+    (c) In the case of lending fully secured by mortgage on an occupied urban residential dwelling or occupied individual sectional title dwelling, when the exposure is not overdue for more than 90 days, and to the extent that the capital amount outstanding- (01-Regulations-part-1.pdf; pg 101)
+        (i) does not exceed 80 per cent of the current market value of the mortgaged property, at a risk weight of 35 per cent;
+        (ii) exceeds 80 per cent but is less than 100 per cent of the current market value of the mortgaged property, at a risk weight of 75 per cent;
+        (iii) is equal to or exceeds 100 per cent of the current market value of the mortgaged property, at a risk weight of 100 per cent,
+        where the terms Occupied, Urban and Dwelling are are found in Definition 1.
+        #Example 1 (01-Regulations-part-1.pdf; pg 101)
+        For example, when a bank granted and paid out a loan of R1 050 000 to a borrower, which loan is fully secured by mortgage on an occupied urban residential dwelling, the current market value of which urban residential dwelling is equal to R1 million, the bank shall risk weight the loan as follows:
+        (i) R800 000 at 35 per cent;
+        (ii) R199 999 at 75 per cent; and
+        (iii) R 50001 at 100 per cent.
+        #Example 1 - end
+
+        #Definition 1
+        Occupied
+        For the purposes of this paragraph (c), only urban residential dwellings or individual sectional title dwellings that are occupied or intended to be occupied as the principal place of residence of either the borrower or, with the consent of the borrower, a person other than the borrower shall be regarded as adhering to the requirement of being “occupied”. In this regard, although the intention of the borrower may be an important indicator, the purpose for which the dwelling is/will be utilised shall be determined with reference to objective factors and reasonability. For example, the fact that the residence may be unoccupied for short periods of time, such as when the resident is on vacation, does not change the classification. On the other hand, a residence used mainly for purposes of vacation or to conduct business activities can clearly not be regarded as the principal place of residence.
+        Urban
+        For the purposes of this paragraph (c), urban area means an area inside the boundaries of any local government area fixed by law.
+        Dwelling
+        For the purposes of this paragraph (c), dwelling means any building that-
+            (i) after its construction contains or will contain living rooms with a kitchen and the usual appurtenances and permanent provision for lighting, water supply, drainage and sewerage, whether such building is or is to be constructed as a detached or semi-detached building or is or is to be contained in a block of buildings;
+            (ii) is designed and utilised or meant to be utilised for residential purposes; and
+            (iii) is located in an area-
+                (A) in which the majority of the premises are residential premises; or
+                (B) comprising at least 100 residential premises and which is defined for this purpose by means of cadastral boundaries, as shown on the compilation maps of the Surveyor General.
+        #Definition 1 - end
+
+    (d) In the case of lending fully secured by mortgage on commercial real estate, at a risk weight of 100 per cent.
+    (e) In the case of an exposure, other than an exposure secured by a mortgage bond on residential property as envisaged in paragraph (c), which exposure is overdue for more than 90 days-
+        (i) the unsecured portion of the exposure shall be risk weighted as follows:
+            (A) 150 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is less than 20 per cent;
+            (B) 100 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is equal to or more than 20 per cent;
+            (C) 50 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is equal to or more than 50 per cent.
+        (ii) the secured portion of the exposure shall be risk weighted at 100 per cent, provided that the bank obtained adequate eligible collateral and raised a specific credit impairment equal to or higher than 15 per cent of the outstanding exposure.
+    (f) In the case of a loan that is fully secured by a mortgage bond on an occupied urban residential dwelling or occupied individual sectional title dwelling as envisaged in paragraph (c), which loan is overdue for more than 90 days,
+        (i) at a risk weight of 100 per cent when the specific credit impairment in respect of the loan is less than 20 per cent of the outstanding amount;
+        (ii) at a risk weight of 50 per cent when the specific credit impairment in respect of the loan is equal to or higher than 20 per cent of the outstanding amount.
+    (g) In the case of off-balance-sheet exposure other than unsettled securities or derivative contracts subject to counterparty risk as envisaged in subregulations (15) to (19), or securitisation or re-securitisation exposure as envisaged in paragraph (h) below, the bank shall convert the off-balance-sheet exposure to a credit equivalent amount by multiplying the said exposure with the credit-conversion factors specified in table 2 below:
+        #Table 2
+        Description | Credit conversion factor |
+        ------|------|
+        Any solicitation limit, that is, a facility not yet contracted | 0 per cent |
+        Any revocable commitment (1) | 0 per cent |
+        Drawn self-liquidating trade letters of credit arising from the movement of goods, that is, documentary credits collateralised by the underlying shipment, with an original maturity of up to one year, which credit conversion factor shall apply to both issuing and confirming banks | 20 per cent (2) |
+        Irrevocable commitments with an original maturity of up to 20 per cent one year, excluding any commitment which is renewed or rolled resulting in an effective maturity of more than one year | 20 per cent |
+        Drawn self-liquidating trade letters of credit arising from the movement of goods, that is, documentary credits collateralised by the underlying shipment, with an original maturity of more than one year | 50 per cent |
+        Irrevocable commitments with an original maturity of more than one year and commitment which is renewed or rolled resulting in an effective maturity of more than one year | 50 per cent |
+        Irrevocable note issuance facilities and irrevocable revolving underwriting facilities | 50 per cent |
+        Any exposure arising from a securities lending/borrowing transaction | 100 per cent |
+        Direct credit substitutes such as general guarantees of indebtedness, including standby letters of credit serving as financial guarantees, and acceptances | 100 per cent |
+        Any relevant off-balance-sheet exposure rated by an eligible external credit assessment institution | 100 per cent |
+        Off-balance-sheet exposures other than the exposures specified above | 100 per cent |
+        1. Revocable commitment includes an obligation of the reporting bank which may be cancelled at the discretion of the bank without prior notice or which provide for automatic cancellation due to deterioration in the creditworthiness of the obligor. Refer to the relevant definition contained in regulation 67.
+        2. Relates to issuing and confirming banks.
+        #Table 2 - end
+    (h) In the case of a securitisation or re-securitisation exposure, in accordance with the relevant requirements specified below:
+        (i) In the case of investment in senior commercial paper, that is, on-balance-sheet positions, the bank shall multiply the relevant position with the risk weights specified in table 3 below:
+            #Table 3  
+            Long-term rating category (1)  
+            External credit assessment | AAA to AA- | A+ to A- | BBB+ to BBB- |BB+ to BB- (2, 3) | B+ and below or unrated (3,4,5,6) |
+            ------|------|------|------|------|------|  
+            Securitisation exposure | 20% | 50% | 100% | 350% | 1250% (3,4,5) |
+            Resecuritisation exposure | 40% | 100% | 225% | 650% | 1250% (3,4,5) |
+
+            Short-term rating category (1)
+            External credit assessment | A-1/P-1 | A-2/P-2 | A-3/P-3 | All other ratings or unrated |
+            ------|------|------|------|------|  
+            Securitisation exposure | 20% | 50% | 100% | 1250% (3) |
+            Resecuritisation exposure | 40% | 100% | 225% | 1250% (3) |
+            1. The notations used in this table relate to the ratings used by a particular credit assessment institution. The use of the rating scale of a particular credit assessment institution does not mean that any preference is given to a particular credit assessment institution. The
+            assessments/ rating scales of other external credit assessment institutions, recognised as eligible institutions in South Africa, may have been used instead.
+            2. Relates to investors in a securitisation scheme other than an institution that acts as an originator.
+            3. Or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds.
+            4. Subject to the provisions of subparagraphs (iii) to (v) below, senior commercial paper rated B+ or below, or the equivalent thereof, and unrated tranches in a rated structure shall for purposes of calculating a bank's prescribed required amount of capital and reserve funds be regarded as a first-loss credit-enhancement facility: Provided that the Registrar may in the Registrar's sole discretion and subject to such conditions as may be determined by the Registrar allow a bank to assign a specified risk weight to an unrated tranche in a rated structure, instead of treating the said unrated tranche as a first-loss credit-enhancement facility.
+            5. Excluding a second loss position that complies with the relevant conditions specified in subparagraph (vi) below.
+            6. Excluding a liquidity facility that complies with the relevant conditions specified in subparagraph (vii) below.
+            #Table 3 - end
+        (ii) In the case of an off-balance-sheet position, unless specifically otherwise provided in this paragraph (h), the bank shall convert the off-balance-sheet exposure to a credit equivalent amount by multiplying the said exposure with the credit-conversion factors specified in table 4 below, before the bank risk weights the relevant exposure in accordance with the provisions of this paragraph (h).
+            #Table 4
+            Nature of exposure Credit conversion factor | Credit conversion factor |
+            ------|------|
+            Most senior position in an unrated structure | Refer to subparagraph (iii) below  |
+            Any unrated second loss position provided by a bank that acts as a sponsor in respect of an ABCP programme | Refer to subparagraph (iv) below |
+            First-loss credit enhancement facilities | Refer to subparagraph (v) below |
+            Second-loss credit enhancement facilities | Refer to subparagraph (vi) below |
+            Eligible liquidity facilities | Refer to subparagraph (vii) below |
+            Eligible servicer cash advance facilities | Refer to subparagraph (viii) below |
+            Facilities that overlap | Refer to subparagraph (ix) below |
+            Securitisation of revolving facilities with early amortisation features | Refer to subparagraph (xi) below |
+            Any other rated exposure | 100 per cent |
+            Other exposure | 100 per cent |
+            #Table 4 - end
+        (iii) In the case of the most senior securitisation exposure, which most senior securitisation exposure is unrated, the bank shall determine its risk- weighted exposure in accordance with the relevant requirements specified below:
+            (A) When a bank invests in or guarantees the most senior position in a traditional or synthetic securitisation scheme, which most senior position is unrated, the bank shall, provided that the composition of the underlying or reference pool is known at all times, apply the "look-through" approach specified in item (B) below.
+            (B) When purchased or guaranteed by a bank, the most senior unrated securitisation exposure shall be assigned the risk weight applicable to the assets transferred in terms of a traditional securitisation scheme or risk transferred in terms of a synthetic securitisation scheme regardless whether such bank is also acting in a primary role, provided that-
+                (i) when the transferred assets or risks are subject to different risk weights, the unrated most senior securitisation exposure shall be assigned the average risk weight of the relevant assets or risk exposures;
+                (ii) when the bank is unable to determine the risk weights assigned to the underlying assets or credit exposures, the bank shall assign to the relevant amount related to the said unrated mostsenior position a risk weight of 1250 per cent, or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds.
+            (C) Any investment in or guarantee in respect of any other unrated securitisation exposure, other than the most senior unrated securitisation exposure in a traditional or synthetic securitisation scheme, shall for purposes of calculating the bank's prescribed required amount of capital and reserve funds be regarded as a first- loss credit enhancement facility.
+        (iv) In the case of an exposure relating to an ABCP programme, which exposure constitutes a second loss position or better, a bank shall determine its risk-weighted exposure in accordance with the relevant requirements specified below:
+        When the bank grants an unrated facility to an ABCP programme, which bank acts as a sponsor in respect of the said ABCP programme, the bank shall assign to the unrated facility a risk weight equal to the higher of-
+            (A) 100 per cent; or
+            (B) the highest risk weight assigned to any of the underlying exposures covered by the facility,
+            provided that-
+                (i) economically, the bank's exposure shall be in a second loss position, or better;
+                (ii) the first loss position shall provide significant credit protection to the second loss position;
+                (iii) the credit risk associated with the exposure shall be equivalent to investment grade, or better;
+                (iv) the bank that acts as a sponsor and that holds the unrated position shall not provide any first loss protection to the relevant securitisation scheme.
+        (v) In the case of a first-loss credit enhancement facility the bank shall risk weight the relevant exposure amount in accordance with the relevant requirements specified in paragraph (j) below;
+        (vi) In the case of a second-loss credit enhancement facility other than a second loss position in an ABCP programme provided by a bank that acts as a sponsor, the bank shall treat the second-loss credit enhancement facility as a direct credit substitute and assign to the said facility a risk weight of 100 per cent, provided that-
+            (A) the associated credit risk of the second-loss credit enhancement facility shall be the equivalent to investment grade, that is, a rating of BBB- or an equivalent rating, or better;
+            (B) a second-loss credit enhancement facility that does not meet the aforesaid criteria shall for purpose of calculating the bank's required amount of capital and reserve funds be risk weighted in accordance with the relevant requirements specified in subparagraph (v) above;
+            (C) the aggregate amount of capital maintained by a bank in terms of subparagraphs (v) and (vi) shall be limited to the amount of capital that the bank would have been required to maintain in respect of all the assets or credit risk inherent in the assets transferred had it not been for the securitisation scheme.
+        (vii) In the case of eligible liquidity facilities the bank shall determine its risk- weighted exposure in accordance with the relevant requirements specified below, provided that a bank that acts as an originator shall in no case provide any liquidity facility in respect of the securitisation scheme in respect of which that bank acts as such an originator.
+            (A) When a bank or another institution within a banking group of which such a bank is a member, acting as a servicing agent, a repackager or a sponsor in respect of a securitisation scheme or re-securitisation exposure, provides an eligible liquidity facility in respect of such a
+            securitisation scheme, that is, a facility that complies with the conditions specified in paragraph 7 of the exemption notice relating to securitisation schemes, the said bank or institution shall in the case of-
+                (i) a facility with an external rating apply to the said position a credit-conversion factor of 100 per cent and the risk weight relating to the specific rating, as specified in subparagraph (i) above; 
+                (ii) a facility other than a facility with an external rating, irrespective of the maturity of the facility, apply a credit-conversion factor of 50 per cent in respect of the said eligible liquidity facility, which credit-conversion factor shall be applied to the highest risk weight assigned to any of the senior commercial paper covered by the liquidity facility.
+            (B) When a bank that provides a liquidity facility in respect of a traditional or synthetic securitisation scheme does not comply with the conditions specified in this subparagraph (vii) and the conditions specified in paragraph 7 of the exemption notice relating to securitisation schemes, the liquidity facility concerned-
+                (i) shall be regarded as a first-loss credit-enhancement facility provided to the scheme by the aforementioned bank; and
+                (ii) shall be risk weighted in accordance with the relevant requirements specified in subparagraph (v) above, provided that the aggregate amount of capital maintained by the said bank in terms of this item (B) shall be limited to the amount of capital that the bank would have been required to maintain in respect of all the assets or credit risk inherent in the assets transferred to the special-purpose institution in terms of the securitisation scheme if the said assets or credit risk inherent in the assets were actually held on the balance sheet of the bank that provided the said liquidity facility.
+        (viii) In the case of eligible servicer cash advance facilities the bank shall determine its risk-weighted exposure in accordance with the relevant requirements specified below, provided that a bank that acts as an originator shall in no case provide any servicer cash advance facility in respect of the securitisation scheme in respect of which that bank acts as such an originator.
+        When a bank or another institution within a banking group of which such a bank is a member, acting as a servicing agent, provides an eligible servicer cash advance facility in respect of a securitisation scheme, that is, a facility that, among other things, complies with the conditions specified in paragraphs 7 and 9 of the exemption notice relating to securitisation schemes, the said bank or institution may in the case of any undrawn servicer cash advance facility that is unconditionally cancellable by the said bank or institution without prior notice, apply a credit-conversion factor of nil per cent in respect of the said undrawn facility, provided that-
+            (A) the said facility shall duly state that the servicing agent is under no obligation to advance funds to investors or the special-purpose institution in terms of the servicer cash advance facility;
+            (B) any cash advance made by the servicing agent shall be at the servicing agent’s sole discretion and solely to cover an unexpected temporary shortfall that arose from delayed payments;
+            (C) the servicing agent’s rights for reimbursement in terms of the said cash advance facility shall be senior to any other claim on cash flows arising from underlying exposures or collateral held in respect of the securitisation scheme.
+        (ix) In the case of facilities or exposures that overlap the bank shall determine its risk-weighted exposure in accordance with the relevant requirements specified below:
+        When a bank or another institution within a banking group of which such a bank is a member provides several types of facilities to a special-purpose institution, which facilities overlap in the sense that the utilisation of one facility may preclude any utilisation of the other facility, and which facilities may be drawn under various conditions, the bank or said institution shall not be required to calculate and maintain a capital requirement in respect of the said overlap in facilities, provided that-
+            (A) when the facilities are subject to different credit-conversion factors, the bank shall assign to the portion of the facilities that overlaps the highest relevant credit-conversion factor;
+            (B) when the various facilities are provided by different banks, each bank shall calculate and maintain a capital requirement in respect of the full amount granted in terms of the relevant facility.
+        (x) In the case of a securitisation exposure in respect of which protection is obtained or provided, the bank shall determine its risk-weighted exposure in accordance with the relevant requirements specified in subregulation (7)(e) below.
+        (xi) In the case of a securitisation scheme with early amortisation features the bank shall determine its risk-weighted exposure in accordance with the relevant requirements specified below:
+        When a bank that acts as an originator transfers assets or risk exposures to a special-purpose institution in terms of a transaction that contains an early amortisation mechanism, which assets or exposures are of a revolving nature, the bank shall calculate and maintain capital in respect of the originator’s interest and the investors’ interest, provided that-
+            (A) the bank’s aggregate capital requirement shall duly reflect the type of mechanism through which the early amortisation is triggered;
+            (B) the bank shall not be required to calculate and maintain a capital requirement relating to early amortisation in the case of-
+                (i) a replenishment structure, in terms of which structure the underlying exposures are not of a revolving nature and the early amortisation terminates the ability of the bank to transfer any further exposures;
+                (ii)  a transaction in respect of revolving assets, which transaction contains early amortisation features that mimic a term structure, that is, the risk relating to the underlying facilities does not return to the originator;
+                (iii)  a structure in terms of which-
+                    (aa) the bank securitised one or more credit lines but the investors remain fully exposed to any future draws by the borrowers, even after an early amortisation event has occurred;
+                    (bb) the early amortisation clause is solely triggered by events unrelated to the performance of the securitised assets or the bank that transferred the assets, such as material changes in tax laws or regulations.
+            (C) when the underlying pool of exposures comprises revolving and term exposures, the bank shall apply the relevant early amortisation requirements specified in this subparagraph (xi) to the portion of the underlying pool that contains revolving exposures;
+            (D) the capital requirement to be maintained by the originating bank in respect of the investors’ interest shall be equal to-
+                (i) the investors’ interest, multiplied by
+                (ii) the appropriate credit-conversion factor specified in item (E) below, which credit-conversion factor shall depend upon- 
+                    (aa) the nature of the early amortisation mechanism, that is, based on the requirements specified in paragraph 13(2) of the exemption notice relating to securitisation schemes, whether the early amortisation mechanism is regarded as a controlled mechanism or an uncontrolled
+                    mechanism;
+                    (bb) the nature of the exposure, that is, whether the exposures that were transferred in terms of the securitisation scheme consist of-
+                        (i) uncommitted retail credit lines such as credit card receivables, that is, the credit facility is unconditional and may be cancelled without prior notice;
+                        (ii) other credit lines such as revolving corporate facilities,
+                    multiplied by
+                (iii) the risk weight relating to the underlying exposure type;
+            (E) when the early amortisation mechanism-
+                (i) complies with the requirements specified in paragraph 13(2) of the exemption notice relating to securitisation schemes, which requirements relate to a controlled early amortisation mechanism, and the underlying revolving exposure is in respect of-
+                    (aa) an uncommitted retail credit facility such as credit card receivables, the bank-
+                        (i) shall compare the three-month average excess spread to the point at which the bank is required to trap excess spread, that is, the excess spread trapping point specified in the structure, provided that when the transaction does not require excess spread to be trapped the trapping point shall be deemed to be equal to 4,5 percentage points;
+                        (ii) shall divide the excess spread level by the transactions excess spread trapping point in order to determine the appropriate segments;
+                        (iii) shall apply to the investors interest the relevant credit-conversion factors specified in table 5 below:
+                            #Table 5
+                            Controlled mechanism in respect of uncommitted retail credit facilities
+                            Segment based on 3-month Credit conversion average excess spread | Credit conversion factor |
+                            ------|------|
+                            133.33% or more of trapping point | 0% |
+                            less than 133.33% to 100% of trapping point | 1% |
+                            less than 100% to 75% of trapping point | 2% |
+                            less than 75% to 50% of trapping point | 10% | 
+                            less than 50% to 25% of trapping point | 20% |
+                            less than 25% | 40 % |
+                            #Table 5 - end
+                    (bb) committed facilities or revolving exposures other than retail exposures, the bank shall apply to the relevant off- balance-sheet exposure a credit-conversion factor of 90 per cent.
+                (ii) does not comply with the relevant requirements specified in paragraph 13(2) of the exemption notice relating to securitisation schemes, which requirements relate to a controlled early amortisation mechanism, and the underlying revolving exposures is in respect of-
+                    (aa) an uncommitted retail credit facility such as credit card receivables, the bank-
+                        (i) shall compare the three-month average excess spread to the point at which the bank is required to trap excess spread, that is, the excess spread trapping point specified in the structure, provided that when the transaction does not require excess spread to be trapped the trapping point shall be deemed to be equal to 4,5 percentage points;
+                        (ii) shall divide the excess spread level by the transaction’s excess spread trapping point in order to determine the appropriate segments;
+                        (iii) shall apply to the investors’ interest the relevant credit-conversion factors specified in table 6 below:
+                            #Table 6
+                            Uncontrolled mechanism in respect of uncommitted retail credit facilities
+                            Segment based on 3-month average excess spread factor | Credit conversion |
+                            ------|------|
+                            133.33% or more of trapping point | 0% |
+                            less than 133.33% to 100% of trapping point | 5% |
+                            less than 100% to 75% of trapping point | 15% |
+                            less than 75% to 50% of trapping point | 50% |
+                            less than 50% of trapping point | 100% |
+                            #Table 6 - end
+                    (bb) committed facilities or revolving exposures other than retail exposures, the bank shall apply to the relevant off- balance-sheet exposure a credit-conversion factor of 100 per cent.
+            (F) the aggregate amount of capital maintained by the originating bank shall be equal to the higher of-
+                (i) the capital requirement in respect of any retained exposures; or
+                (ii) the amount of capital that the bank would have been required to maintain in respect of all the assets or credit risk inherent in the assets transferred had it not been for the securitisation
+                scheme,
+                provided that the originating bank shall deduct from its common equity tier 1 capital and reserve funds the entire amount relating to any gain-on-sale included in the bank’s common equity tier 1 capital and reserve funds and any credit enhancing interest-only strip that arose from the securitisation transaction.
+            (G) for the purposes of this subparagraph (xi), retail exposure means any exposure to a person of less than R7,5 million.
+    (i) In the case of all unsettled securities or derivative contracts subject to counterparty risk, in accordance with the relevant provisions specified in subregulations (15) to (19) below.
+    (j) In the case of all other exposures, in accordance with the relevant requirements specified in table 7 below:
+            #Table 7 (01-Regulations-part-1.pdf; pg 115)
+            | Risk weight | Transactions with the following counterparties, including assets |
+            ------|------|
+            0% | Transactions with the following counterparties <br/> Central government of the RSA, provided that the relevant exposure is repayable and funded in Rand <br/> Reserve Bank, provided that the relevant exposure is repayable and funded in Rand <br/> Corporation for Public Deposits, provided that the relevant exposure is repayable and funded in Rand <br/> Bank for International Settlements (BIS) <br/> International Monetary Fund (IMF) <br/> European Central Bank (ECB) <br/> World Bank Group, including the International Bank for Reconstruction and Development (IBRD) and the International Finance Corporation (IFC) <br/> Asian Development Bank (ADB) <br/> African Development Bank (AfDB) <br/> European Bank for Reconstruction and Development (EBRD) <br/> Inter-American Development Bank (IADB)<br/> European Investment Bank (EIB)<br/> European Investment Fund (EIF)<br/> Nordic Investment Bank (NIB)<br/> Caribbean Development Bank (CDB)<br/> Islamic Development Bank (IDB)<br/> Council of Europe Development Bank (CEDB)<br/> Intragroup bank balances (1) <br/> Intragroup balances with other formally regulated financial entities with capital requirements similar to these Regulations (1) <br/> Intragroup balances with branches of foreign banks |
+            0% | Assets <br/> Cash and cash equivalents such as gold bullion |
+            20% | Transactions with the following counterparties <br/> RSA public-sector bodies, excluding exposures to the central government, SA Reserve Bank and the Corporation for Public Deposits when the said exposure is repayable and funded in Rand <br/>Banks in the RSA, provided that the claim on the bank has an original maturity of three months or less, excluding any claim on a RSA bank that is renewed or rolled resulting in an effective maturity of more than three months <br/> A securities firm in the RSA, provided that such a firm is subject to comparable supervisory and regulatory arrangements than banks in the RSA, including, in particular, risk-based capital requirements and regulation and supervision on a consolidated basis and the claim on the securities firm has an original maturity of three months or less, excluding any claim on a securities firm in the RSA that is renewed or rolled resulting in an effective maturity of more than three months |
+            20% | Assets <br/> Cash items in process of collection |
+            100% | Transactions with the following counterparties or assets <br/> An investment in a significant minority or majority owned or controlled commercial entity, which investment amounts to less than 15 per cent of the issued common equity tier 1 capital and reserve funds, additional tier 1 capital and reserve funds and tier 2 capital and reserve funds of the reporting bank, as reported in items 41, 65 and 78 of form BA 700 <br/> All other counterparties or assets not covered elsewhere in this paragraph (j) |
+            150% | Assets <br/> Venture capital<br/> Private equity |
+            1250% (2) | Transactions with the following counterparties, including assets <br/> A first-loss position, including a credit enhancement facility in respect of a securitisation or resecuritisation scheme <br/> A materiality threshold specified in a guarantee or credit- derivative contract, which materiality threshold either reduces the amount of payment or requires a given amount of loss to occur for the account of the protection buyer before the protection seller is obliged to make payment to the said protection buyer <br/>The excess amount relating to a significant investment, that is, a shareholding of 20 per cent or more, in a commercial entity, which investment is equal to or exceeds 15 per cent of the issued common equity tier 1 capital and reserve funds, additional tier 1 capital and reserve funds and tier 2 capital and reserve funds of the reporting bank, as reported in items 41, 65 and 78 of the form BA 700 <br/> The relevant excess amount when the aggregate amount of significant investments, that is, a shareholding of 20 per cent or more, in commercial entities, exceeds 60 per cent of the sum of the issued common equity tier 1 capital and reserve funds, additional tier 1 capital and reserve funds and tier 2 capital and reserve funds of the reporting bank, as reported in items 41, 65 and 78 of the form BA 700 <br/> Credit protection provided, which credit protection has a long-term rating of B+ or below or a short-term rating other than A-1/P-1, A-2/P-2 or A-3/P-3 <br/>Any unrated position in a rated structure relating to credit protection provided in terms of a credit-derivative instrument <br/> In the case of a synthetic securitisation scheme, any retained position that is unrated or rated below investment grade <br/> The net amount, that is, the amount after any specific credit impairment or provision, and any deduction directly against common equity tier 1 or additional tier 1 capital and reserve funds, have been taken into account, in respect of any credit enhancing interest-only strip relating to a securitisation transaction |
+            1. Provided that-  
+                (a) the relevant entity is managed as an integrated part of the relevant banking group;  
+                (b) the relevant entity is consolidated in accordance with the relevant requirements specified in regulation 36;  
+                (c) capital resources are freely transferable between the relevant entity and the relevant parent bank or controlling company.
+            2. Or such imputed percentage that effectively results in a risk weighted exposure amount equivalent to a deduction against capital and reserve funds.
+            #Table 7 - end
+
+(7) Credit risk mitigation: simplified standardised approach (#Heading) (01-Regulations-part-1.pdf; pg 118)
+Credit risk mitigation relates to the reduction of a bank's credit risk exposure by obtaining, for example, eligible collateral or guarantees or entering into a netting agreement with a client that maintains both debit and credit balances with the reporting bank. 
+When a bank that adopted the simplified standardised approach for the calculation of the bank’s credit exposure in its banking book obtains eligible collateral or guarantees, a reduction in the credit risk exposure of the reporting bank shall be allowed to the extent that the bank achieves an effective and verifiable transfer of risk. 
+No transaction in respect of which the reporting bank obtained credit protection shall be assigned a risk weight higher than the risk weight that applies to a similar transaction in respect of which no credit protection was obtained. 
+    (a) On-balance-sheet netting (#Heading)
+    When a client maintains both debit and credit balances with a bank and the bank enters into a netting agreement in respect of the relevant loans and deposits with the said counterparty, the bank may in the calculation of the bank's risk exposure regard the exposure as a collateralised exposure in accordance with the provisions of paragraph (b) below, provided that the bank-
+        (i) shall have a well-founded legal basis for concluding that the netting or offsetting agreement is enforceable in each relevant jurisdiction, regardless whether the counterparty is insolvent or bankrupt;
+        (ii) shall at any time be able to determine the loans and deposits with the same counterparty that are subject to the netting agreement;
+        (iii) shall monitor and control any potential roll-off risk in respect of the said debit and credit balances;
+        (iv) shall monitor and control the relevant exposures on a net basis.
+    (b) Collateral (#Heading)
+        (i) When-
+            (A) a bank’s exposure or potential exposure to credit risk is secured by the pledge of eligible collateral; and
+            (B) the bank meets the minimum requirements set out in subparagraph (iii) below,
+        the bank may in the calculation of its required amount of capital and reserve funds in terms of the provisions of subregulation (6) recognise the effect of such collateral in accordance with the relevant provisions of this paragraph (b).
+        (ii) Eligible collateral (#Heading)
+            The collateral instruments specified below shall constitute eligible collateral for risk mitigation purposes in terms of the simplified standardised approach, provided that, irrespective of its credit rating, a resecuritisation instrument shall in no case constitute an eligible instrument for risk mitigation purposes in terms of these Regulations.
+            (A) Cash on deposit with the reporting bank;
+            (B) Certificates of deposit or comparable instruments issued by the reporting bank;
+            (C) Credit-linked notes issued by the reporting bank in order to protect an exposure in the banking book;
+            (D) Gold;
+            (E) Securities issued by a sovereign, which sovereign is assigned a rating equal to or better than category 4 of table 1 above;
+            (F) Securities issued by public-sector bodies that are treated as sovereigns in their country of incorporation with a rating equal to or better than category 4 of table 1 above;
+            (G) Securities issued by the Central Government of the RSA, provided that the reporting bank’s exposure and the said securities are denominated in Rand;
+            (H) Securities issued by the Reserve Bank, provided that the reporting bank’s exposure and the said securities are denominated in Rand.
+        (iii) Minimum requirements relating to collateral (#Heading)
+            (A) General requirements (#Heading)
+            A reduction in the risk exposure of a bank shall be allowed to the extent-
+                (i) that such collateral was not already taken into account in the calculation of the reporting bank's risk exposure. For example, no reduction in the risk exposure of the reporting bank shall be allowed in respect of an exposure for which an issue specific rating was issued, which rating already reflects the effect of the risk mitigation;
+                (ii) that the bank complies with the relevant requirements relating to disclosure, prescribed in regulation 43;
+                (iii) that the bank is able to establish title to the collateral in order to liquidate it;
+                (iv) that such collateral can be realised by the reporting bank under normal market conditions, that is, the value at which the collateral can be realised in the market does not materially differ from its book value, provided that a bank shall maintain an appropriate margin of collateral in excess of the amount in respect of which a reduction in the risk exposure is allowed in order to provide for fluctuations in the market value of the relevant collateral.
+            (B) Specific requirements (#Heading)
+                (i) Legal certainty (#Heading)
+                Collateral is effective only when the legal process by which collateral is given is robust and ensures that the reporting bank has clear rights over the collateral, and may liquidate or retain it in the event of a default, insolvency or bankruptcy (or an otherwise defined credit event set out in the transaction documentation) of the obligor and, where applicable, the custodian holding the collateral.
+                A bank shall take all steps necessary to fulfil contractual requirements in respect of the enforceability of security interest, for example, by registering a security interest with an issuer or a registrar. When the collateral is held by a custodian, the bank shall seek to ensure that the custodian ensures adequate segregation of the collateral instruments and the custodian's own assets.
+                In cases of uncertainty, a bank shall obtain legal certainty by way of legal opinions confirming the enforceability of the collateral arrangements in all relevant jurisdictions, and that the bank's rights are legally well founded.
+                Legal opinions shall be updated at appropriate intervals in order to ensure continued enforceability.
+                (ii) Documentation (#Heading)
+                The collateral arrangements shall be duly documented with a clear and robust procedure in place for the timely liquidation of collateral. A bank's procedures shall be sufficiently robust to ensure that any legal conditions required for declaring the default of the client and liquidating the collateral are observed.
+                (iii) Low correlation with exposure (#Heading)
+                In order for collateral to provide effective protection, the credit quality of the obligor and the value of the collateral shall not have a material positive correlation.
+                (iv) Mismatches (#Heading)
+                No currency mismatch shall exist between the underlying exposure and the collateral.
+                Collateral obtained by the bank as security against an exposure of the bank shall be pledged as security for the full duration of the bank's exposure.
+                (v) Rating (#Heading)
+                The rating issued in respect of the collateral instrument shall not relate only to the principal amount.
+                (vi) Robust risk-management process (#Heading)
+                While collateral reduces credit risk, it simultaneously increases other risks to which a bank is exposed, such as legal risk, operational risk, liquidity risk and market risk. Therefore, a bank shall employ robust procedures and processes to control all material risks.
+                As a minimum, a robust risk-management process relating to collateral management shall include the fundamental elements specified below:
+                    (aa) Strategy (#Heading)
+                    A duly articulated strategy for the use of collateral shall form an intrinsic part of a bank's general credit strategy and overall liquidity strategy.
+                    (bb) Focus on underlying credit (#Heading)
+                    A bank shall continue to assess a collateralised exposure on the basis of the borrower's creditworthiness. A bank shall obtain and analyse sufficient financial information to determine the obligor's risk profile and its risk- management and operational capabilities.
+                    (cc) Valuation (#Heading)
+                    A bank shall mark its collateral to market and revalue its collateral at regular intervals but not less frequently than once every six months.
+                    (dd) Policies and procedures (#Heading)
+                    Clear policies and procedures shall be established and maintained in respect of collateral management, including:
+                        (i) the terms of collateral agreements, types of collateral and enforcement of collateral terms (for example, waivers of posting deadlines);
+                        (ii) the management of legal risks;
+                        (iii) the administration of agreements; and
+                        (iv) the prompt resolution of disputes, such as valuation of collateral or positions, acceptability of collateral, fulfilment of legal obligations and the interpretation of contract terms.
+                    A bank shall regularly review its policies and procedures in order to ensure that the said policies and procedures remain appropriate and effective.
+                    (ee) Systems (#Heading)
+                    A bank's policies and procedures shall be supported by collateral management systems capable of tracking the location and status of posted collateral.
+                    (ff) Concentration risk (#Heading)
+                    A bank shall have in place a duly defined policy with respect to the amount of concentration risk that it is prepared to accept, that is, a policy in respect of the taking as collateral of large quantities of instruments issued by the same obligor.
+                    A bank shall take into account collateral and purchased credit protection when it assesses the potential concentrations in its credit portfolio, including when determining its concentration risk in terms of section 73 of the Act.
+        (iv) Proportional cover (#Heading)
+        When a bank obtains collateral of which the value is less than the amount of the bank's exposure to credit risk, the bank shall recognise the credit protection on a proportional basis, that is, the protected portion of the exposure shall be risk weighted in accordance with the relevant provisions of this paragraph (b) and the remainder of the credit exposure shall be regarded as unsecured.
+        (v) Risk weighting (#Heading)
+        For the protected portion of a credit exposure, a bank may substitute the risk weight relating to the collateral for the risk weight of the counterparty or underlying exposure subject to a minimum risk weight of 20 per cent, except in the cases specified below when a lower risk weight may apply.
+        A bank shall apply the said lower risk weight relating to collateral to the outstanding amount of the relevant protected exposure.
+        (vi) Exceptions to the risk weighting floor of 20 per cent (#Heading)
+        A bank may assign a risk weight of zero per cent, or such other percentage as may be specified below, to the protected portion of a credit exposure or potential credit exposure, provided that-
+            (A) the exposure and the collateral shall be denominated in the same currency and the collateral shall consist of cash on deposit with the reporting bank;
+            (B) the exposure and the collateral shall be denominated in the same currency and the collateral shall consist of securities issued by a sovereign or central bank eligible for a risk weight of zero per cent, when the market value of the security has been reduced by 20 per cent;
+            (C) the transaction shall be an OTC derivative transaction subject to daily mark-to-market requirements, collateralised by cash, with no currency mismatch.
+            When the transaction is collateralised by a security issued by a sovereign or public sector entity that qualifies for a risk weight of zero per cent in terms of the standardised approach, instead of cash, the bank shall risk weight the protected portion of the exposure at 10 per cent;
+            (D) the collateral shall form part of a repurchase or resale agreement, which agreement shall comply with the conditions specified below:
+                (i) Both the exposure and the collateral shall consist of cash or a sovereign security or public-sector security qualifying for a zero per cent risk weight in terms of the simplified standardised approach.
+                (ii) Both the exposure and the collateral shall be denominated in the same currency.
+                (iii) The transaction shall be overnight or both the exposure and the collateral shall be marked to market on a daily basis and shall be subject to daily remargining.
+                (iv) Following the failure of a counterparty to remargin, the time that is required from the last mark-to-market adjustment, before the failure to remargin occurred, and the liquidation of the collateral, shall be no more than four business days.
+                (v) The transaction shall be settled across a settlement system proven for the relevant type of transaction.
+                (vi) The documentation covering the agreement shall be standard market documentation for the said transactions.
+                (vii) The transaction shall be governed by documentation that specifies that when the counterparty fails to satisfy an obligation to deliver cash or securities or to deliver margin, or otherwise defaults, the transaction shall be immediately terminable.
+                (vii) Upon any default event, regardless of whether the counterparty is insolvent or bankrupt, the bank shall have the unfettered legally enforceable right to immediately seize and liquidate the collateral for the bank's benefit.
+                (ix) The agreement shall be concluded with-
+                    (aa) a sovereign;
+                    (bb) a central bank;
+                    (cc) a public-sector entity;
+                    (dd) a bank or securities firm, provided that in the case of a securities firm the firm shall be subject to supervisory and regulatory arrangements comparable to banks in the Republic, including, in particular, risk-based capital requirements and regulation and supervision on a
+                    consolidated basis;
+                    (ee) another financial institution, including an insurance company, eligible for a risk weighting of 20 per cent in terms of the simplified standardised approach;
+                    (ff) regulated mutual funds that are subject to capital or leverage requirements;
+                    (gg) regulated pension funds;
+                    (hh) any clearing institution approved in writing by the Registrar.
+            When a bank complies with all of the requirements specified above but the repurchase or resale agreement was concluded with a counterparty other than the counterparties specified above, the bank may assign a risk weighting of ten per cent to the protected portion of a credit exposure or potential credit exposure.
+    (c) Guarantees (#Heading)
+        (i) Risk weighting (#Heading)
+        When a bank obtains protection against loss relating to an exposure or potential exposure to credit risk in the form of an eligible guarantee, the risk weight applicable to the guaranteed transaction or guaranteed exposure may be reduced to the risk weight applicable to the guarantor in accordance with the provisions of this paragraph (c).
+        The lower risk weight of the guarantor shall apply to the outstanding amount of the exposure protected by the guarantee, provided that all the requirements set out in this paragraph (c) are met.
+        (ii) Proportional cover (#Heading)
+        When a bank obtains a guarantee for less than the amount of the bank's exposure to credit risk, the bank shall recognise the credit protection on a proportional basis, that is, the protected portion of the exposure shall be risk weighted in accordance with the relevant provisions of this paragraph (c) and the remainder of the credit exposure shall be regarded as unsecured.
+        (iii) Eligible guarantors (#Heading)
+        Guarantors qualifying for a risk weight of 20 per cent or better, and a risk weight lower than the protected credit exposure, shall be recognised for risk mitigation purposes in terms of the simplified standardised method, provided that for purposes of calculating the minimum required amount of capital and reserve funds of a branch in terms of the provisions of the Banks Act, 1990, read with these Regulations, no guarantee received from the parent foreign institution or any other branch of the parent foreign institution in respect of an exposure incurred by the branch in the Republic shall be regarded as an eligible guarantee.
+        (iv) Minimum requirements relating to guarantees (#Heading)
+            (A) General requirements (#Heading)
+            A reduction in the risk weight of a bank's exposure to the risk weight applicable to the relevant guarantor shall be allowed only to the extent-
+                (i) that such guarantee was not already taken into account in the calculation of the reporting bank's risk exposure. For example, no reduction in the risk exposure of the reporting bank shall be allowed in respect of an exposure for which an issue specific rating was issued, which rating already reflects the effect of the guarantee;
+                (ii) that such guarantee may be realised by the reporting bank under normal market conditions;
+            (B) Specific requirements (#Heading)
+                (i) The guarantee shall be an explicitly documented obligation assumed by the guarantor.
+                (ii) The guarantee shall be legally enforceable in all relevant jurisdictions and the bank's rights in terms of the guarantee shall be legally well founded.
+                Legal opinions shall be updated at appropriate intervals in order to ensure continued enforceability of the bank's rights in terms of the guarantee.
+                (iii) Direct (#Heading)
+                The guarantee shall constitute a direct claim on the guarantor.
+                When a qualifying default or non-payment by the obligor occurs, the reporting bank shall pursue the guarantor for amounts outstanding under the loan, rather than having to continue to pursue the obligor.
+                When the guarantee provides only for the payment of principal amounts, any interest amount and other unprotected payments shall be regarded as unsecured amounts.
+                Payment by the guarantor in terms of the guarantee may grant the guarantor the right to pursue the obligor for amounts outstanding under the loan.
+                (iv) Explicit (#Heading)
+                The guarantee shall be linked to specific exposures, so that the extent of the cover is duly defined and incontrovertible.
+                (v) Irrevocable (#Heading)
+                Other than the reporting bank's non-payment of money due in respect of the guarantee, there shall be no clause in the contract that would allow the guarantor unilaterally to cancel the guarantee or increase the effective cost of the protection as a result of deterioration in the credit quality of the protected exposure.
+                (vi) Unconditional (#Heading)
+                There shall be no clause in the guarantee that could prevent the guarantor from being obliged to pay out, in a timely manner, in the event of the original obligor failing to make the payment(s) due.
+                (vii) Robust risk-management process (#Heading)
+                While guarantees reduce credit risk, they simultaneously increase other risks to which a bank is exposed, such as legal and operational risks.
+                Therefore a bank shall employ robust procedures and processes to control the aforesaid risks.
+                As a minimum, a robust risk-management process relating to guarantees shall include the fundamental elements specified below:
+                    (aa) Strategy (#Heading)
+                    A duly articulated strategy for guarantees shall form an intrinsic part of a bank's general credit strategy and overall liquidity strategy.
+                    (bb) Focus on underlying credit (#Heading)
+                    A bank shall continue to assess a guaranteed exposure on the basis of the borrower's creditworthiness. A bank shall obtain and analyse sufficient financial information to determine the obligor's risk profile and its risk- management and operational capabilities.
+                    (cc) Systems (#Heading)
+                    A bank's policies and procedures shall be supported by management systems capable of tracking the location and status of guarantees.
+                    A bank shall regularly review its policies and procedures in order to ensure that the said policies and procedures remain appropriate and effective.
+                    (dd) Concentration risk (#Heading)
+                    A bank shall have in place a duly defined policy with respect to the amount of concentration risk that it is prepared to accept.
+                    A bank shall take guaranteed positions into account when assessing the potential concentrations in its credit portfolio, including when determining its concentration risk in terms of section 73 of the Act.
+                    In order to mitigate its concentration risk a bank shall monitor general trends affecting relevant guarantors.
+                    (ee) Roll-off risks (#Heading)
+                    When a bank obtains guarantees that differ in maturity from the underlying credit exposure, the bank shall monitor and control its roll-off risks, that is, the fact that the bank will be exposed to the full amount of the credit exposure when the guarantee expires.
+                    The bank may be unable to obtain further guarantees or to maintain its capital adequacy when the guarantee expires.
+    (d) Treatment of pools of risk mitigation instruments (#Heading)
+        (i) When a bank obtains-
+            (A) multiple risk mitigation instruments that protect a single exposure, that is, the bank has obtained both collateral and guarantees partially protecting an exposure; or
+            (B) protection with differing maturities,
+            the bank shall subdivide the exposure into portions covered by the relevant types of risk mitigation instruments.
+        (ii) A bank shall separately calculate its risk-weighted exposure relating to each relevant portion in accordance with the relevant provisions of subregulation (6) read with this subregulation (7).
+
+    (e) Treatment of risk mitigation in respect of securitisation exposure (#Heading)
+    When-
+        (i) a bank obtains protection in the form of on-balance-sheet netting, collateral, guarantees or credit-derivative instruments in order to protect an exposure that arose from a transaction relating to a securitisation scheme, the bank shall recognise such protection in accordance with the relevant requirements specified below:
+        In the case of-
+            (A) collateral, only instruments that qualify as eligible collateral in terms of the provisions of subregulation (9)(b) below shall qualify as eligible collateral in respect of the relevant securitisation exposure;
+            (B) guarantees and credit-derivative instruments, protection obtained from eligible protection providers specified in subregulations (9)(c) and (9)(d) shall qualify as eligible protection providers in respect of the relevant securitisation exposure, provided that-
+                (i) the said guarantee or credit-derivative instrument shall comply with the relevant minimum requirements specified in subregulations (9)(c) and (9)(d) below;
+                (ii) no special-purpose institution involved in a  securitisation scheme shall qualify as an eligible protection provider;
+                (iii) the bank shall calculate and maintain capital requirements in respect of the protected and the unprotected portion of the relevant exposure in accordance with the relevant requirements specified in subregulations (9)(c) and (9)(d) below;
+            (C) a maturity mismatch, the bank shall calculate and maintain a capital requirement in respect of the protected portion of the relevant exposure in accordance with the relevant requirements specified in subregulation (9)(e), provided that when the securitisation exposures in respect of which protection is obtained have different maturities, the bank shall base the relevant capital requirement on the exposure with the longest time to maturity.
+        (ii) a bank other than a bank that acts as an originator provides protection in respect of a securitisation exposure, the bank shall calculate and maintain a capital requirement in respect of the relevant exposure in accordance with the relevant requirements specified in subregulation (9), provided that when the bank provides protection relating to an unrated credit- enhancement facility, the bank shall treat the exposure as if the bank directly provided an unrated credit-enhancement facility in respect of the relevant securitisation scheme.
+
+
+(8) Method 2: Calculation of credit risk exposure in terms of the standardised approach (#Heading)
+Unless specifically otherwise provided, a bank that adopted the standardised approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book shall risk weight its exposures, net of any relevant credit impairment, in accordance with the relevant requirements specified below:
+    (a) In the case of exposures to sovereigns, central banks, public-sector entities, banks, securities firms and corporate exposures, in accordance with the relevant provisions of table 8 below:
+        #Table 8 (01-Regulations-part-1.pdf; pg 132)
+        Credit assessment issued by eligible institutions (1)
+        ||AAA to AA-| A+ to A- | BBB+ to BBB- | BB+ to B- | Below B- | Unrated
+        ------|------|------|------|------|------|------|
+        Sovereigns (including the Central Bank of that Particular Country) | 0% | 20 % | 50% | 100% | 150% | 100% |
+        Public sector entities | 20% | 50% | 50% | 100% | 150% | 50% |
+        Banks (2, 4) | 20% | 50% | 50% | 100% | 150% | 50% | 
+        Securities firms (2,4,5) | 20% | 50% | 50% | 100% | 150% | 50% | 
+        Banks: short term claims (3,4) | 20% | 20% | 20% | 50% | 150% | 20% | 
+        Securities firms short-term claims (3,4,5) | 20%| 20%| 20%| 50%| 150%| 20%
+
+        ||0-1|2|3|4 to 6| 7 |
+        ------|------|------|------|------|------|
+        Export Credit Agencies: risk scores (1) | 0% | 20% | 50%|100%|150%|
+
+        ||AAA to AA-|A+ to A-|BBB+ to BB-|Below BB-| Unrated |
+        ------|------|------|------|------|------|
+        Corporate entities (6,7,8) | 20%|50%|100%|150%|100%|
+
+        ||A-1/P-1 |A-2/P-2 | A-3/P-3 | other |
+        ------|------|------|------|------|
+        Banks and corporate entities | 20%|  50%| 100% | 150%|
+
+        1. The notations used in this table relate to the ratings used by a particular credit assessment institution. The use of the rating scale of a particular credit assessment institution does not mean that any preference is given to a particular credit assessment institution. The assessments/ rating scales of other external credit assessment institutions or, in certain cases, Export Credit Agencies ("ECAs"), recognised as eligible institutions in South Africa, may have been used instead.
+        2. With the exception of short-term self-liquidating letters of credit, no claim on an unrated bank shall be assigned a risk weighting lower than the risk weighting assigned to a claim on the central government of the country in which the bank is incorporated.
+        3. Claims with an original maturity of three months or less, excluding a claim which is renewed or rolled, resulting in an effective maturity of more than three months.
+        4. Refer to subregulation (5)(b)(iv). Only relates to exposures when no specific short-term assessment was issued.
+        5. Provided that such a firm is subject to comparable supervisory and regulatory arrangements than banks in the RSA, including, in particular, risk-based capital requirements and regulation and supervision on a consolidated basis. Otherwise a securities firm shall be regarded as a corporate entity.
+        6. Including entities conducting insurance business. 
+        7. No claim in respect of an unrated corporate exposure shall be assigned a risk weight lower than the risk weight assigned to a claim on the central government of the country in which the corporate entity is incorporated.
+        8. Provided that no significant investment in a minority or majority owned or controlled commercial entity, which investment amounts to less than 15 per cent of the sum of a bank's issued tier 1 and tier 2 capital and reserve funds, as reported in items 41, 65 and 78 of the form BA 700, shall be assigned a risk weight of less than 100 per cent.
+        9. Refer to subregulation (5)(b)(iv). Only relates to claims against banks and corporate entities.
+        #Table 8 - end
+
+    (b) In the case of an exposure that meets the criteria specified in subregulation (6)(b), which exposure shall be regarded as forming part of the bank's retail portfolio, excluding any exposure that is overdue, at a risk weight of 75 per cent.
+    (c) In the case of lending fully secured by mortgage on an occupied urban residential dwelling or occupied individual sectional title dwelling, when the exposure is not overdue and to the extent that the capital amount outstanding-
+        (i) does not exceed 80 per cent of the current market value of the mortgaged property, at a risk weight of 35 per cent;
+        (ii) exceeds 80 per cent but is less than 100 per cent of the current market value of the mortgaged property, at a risk weight of 75 per cent;
+        (iii) is equal to or exceeds 100 per cent of the current market value of the mortgaged property, at a risk weight of 100 per cent,
+    #Example 2 (01-Regulations-part-1.pdf; pg 133)
+    For example, when a bank granted and paid out a loan of R1 050 000 to a borrower, which loan is fully secured by mortgage on an occupied urban residential dwelling, the current market value of which urban residential dwelling is equal to R1 million, the bank shall risk weight the loan as follows:
+        (i) R800 000 at 35 per cent;
+        (ii) R199 999 at 75 per cent; and
+        (iii) R50 001 at 100 per cent.
+    #Example 2 - end
+    For the purposes of this paragraph (c), the terms occupied, urban and dwelling shall have the same meaning as set out in subregulation (6)(c) above.
+    (d) In the case of lending fully secured by mortgage on commercial real estate, at a risk weight of 100 per cent;
+    (e) In the case of exposures, other than exposures secured by a mortgage bond on residential property as envisaged in paragraph (c), which exposures are overdue for more than 90 days-
+        (i) the unsecured portion of the exposure shall be risk weighted as follows: 
+            (A) 150 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is less than 20 per cent;
+            (B) 100 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is equal to or more than 20 per cent;
+            (C) 50 per cent when the specific credit impairment in respect of the outstanding amount of the exposure is equal to or more than 50 per cent.
+        (ii) the secured portion of the exposure shall be risk weighted at 100 per cent, provided that the bank obtained adequate eligible collateral and raised a credit impairment equal to or higher than 15 per cent of the outstanding exposure.
+    (f) In the case of a loan that is fully secured by a mortgage bond on an occupied urban residential dwelling or occupied individual sectional title dwelling, as envisaged in paragraph (c), when the exposure is overdue for more than 90 days-
+        (i) at a risk weight of 100 per cent when the specific credit impairment in respect of the loan is less than 20 per cent of the outstanding amount;
+        (ii) at a risk weight of 50 per cent when the specific credit impairment in respect of the loan is equal to or higher than 20 per cent of the outstanding amount.
+    (g) Unless specifically otherwise provided, all off-balance-sheet exposures in accordance with the provisions of subregulation (6)(g) above.
+    (h) In the case of any securitisation or resecuritisation exposure, in accordance with the relevant requirements specified in subregulation (6)(h) above;
+    (i) In the case of all unsettled securities or derivative contracts subject to counterparty risk, in accordance with the relevant requirements specified in subregulations (15) to (19).
+    (j) Unless specifically otherwise provided in this subregulation (8), in the case of all other relevant exposures, in accordance with the relevant provisions of subregulation (6)(j).
+
+
+
+(9) Credit-risk mitigation: standardised approach (#Heading) (01-Regulations-part-1.pdf; pg 135)
+When a bank that adopted the standardised approach for the measurement of its exposure to credit risk in its banking book obtains eligible collateral, guarantees or credit-derivative instruments, or enters into a netting agreement with a client that maintains both debit and credit balances with the reporting bank, a reduction in the credit risk exposure of the reporting bank shall be allowed to the extent that the bank achieves an effective and verifiable transfer of risk. 
+No transaction in respect of which the reporting bank obtained credit protection shall be assigned a risk weight higher than the risk weight that applies to a similar transaction in respect of which no credit protection was obtained. 
+    (a) On-balance-sheet netting (#Heading) (01-Regulations-part-1.pdf; pg 135)
+    When a bank entered into a netting agreement in respect of loans and deposits as envisaged in subregulation (7)(a) above, the bank-
+        (i) may in the case of loans and deposits with no maturity or currency mismatches calculate its exposure to credit risk in accordance with the relevant provisions of the simple approach specified in this subregulation (9);
+        (ii) shall in all other cases calculate its risk exposure in accordance with the relevant provisions of the comprehensive approach specified in this subregulation (9), provided that the bank shall at all times comply with the relevant conditions specified in subregulation (7)(a) above.
+    (b) Collateral (#Heading) (01-Regulations-part-1.pdf; pg 135)
+        (i) When a bank's exposure or potential exposure to credit risk is secured by the pledge of eligible financial collateral, the bank may recognise the effect of such collateral-
+            (A) in the case of exposures held in the banking book, in accordance with either the simple approach or comprehensive approach, but not both approaches;
+            (B) in the case of OTC derivative transactions, in accordance with the comprehensive approach specified in this subregulation (9);
+            (C) in the case of exposures held in the bank's trading book, in accordance with the comprehensive approach specified in this subregulation (9),
+            provided that-
+                (i) the bank shall comply with the relevant minimum requirements specified below;
+                (ii) when the bank wishes to adopt the comprehensive approach the bank shall in writing inform the Registrar of its decision, and comply with such further conditions as may be specified in writing by the Registrar.
+        (ii) Minimum requirements: general (#Heading)
+        A bank that adopted the standardised approach for the measurement of its exposure to credit risk shall in addition to the requirements specified in this subregulation (9), comply with all the relevant requirements and conditions relating to eligible collateral specified in subregulation (7) (b).
+        (iii) Eligible financial collateral: simple approach (#Heading)
+        For risk mitigation purposes, the instruments specified below shall be regarded as eligible collateral in terms of the simple approach, provided that irrespective of its credit rating, a resecuritisation instrument shall in no case constitute an eligible instrument for risk mitigation purposes in terms of these Regulations.
+            (A) Cash, including certificates of deposit or comparable instruments issued by the reporting bank, on deposit with the bank that is exposed to credit risk.
+            When cash on deposit, certificates of deposit or comparable instruments issued by the lending bank are held as collateral at a third-party bank in a non-custodial arrangement, the bank may assign the risk weight related to the third party bank to the exposure amount protected by the collateral provided that the cash/instruments are pledged/assigned to the lending bank, the pledge/assignment is unconditional and irrevocable, and the bank has applied the relevant haircut specified below in respect of currency risk.
+            (B) Credit-linked notes issued by the reporting bank in order to protect an exposure in the banking book.
+            (C) Gold.
+            (D) Debt securities rated by an eligible external credit assessment institution, which debt securities have been assigned the ratings specified below:
+                (i) BB- or better when issued by sovereigns.
+                (ii) BBB- or better when issued by other institutions, including banks and securities firms.
+                (iii) A-3/P-3 or better in respect of short-term debt instruments.
+            (E) Debt securities not rated by an eligible external credit assessment institution, which debt securities-
+                (i) were issued by a bank; and
+                (ii) are listed on a licensed exchange; and
+                (iii) are classified as senior debt,
+            including all senior instruments issued by a bank that is rated at least BBB- or A-3/P-3 and the reporting bank has no information that suggests a lower rating in respect of the said senior instrument. 
+            Provided that when the Registrar is of the opinion that the instruments are no longer sufficiently liquid, the Registrar may determine that the aforesaid instruments no longer qualify as eligible collateral.
+            (F) Equities, including convertible bonds, that are included in a main index.
+            (G) Undertakings for collective investments in transferable securities (“UCITS”) and mutual funds, provided that-
+                (i) a price for the units is publicly quoted on a daily basis; and
+                (ii) the UCITS/mutual fund may only invest in the instruments specified in this subparagraph (iii).
+            (H) Securities issued by the Central Government of the RSA, provided that the reporting bank's exposure and the said securities are denominated in Rand.
+            (I) Securities issued by the Reserve Bank, provided that the reporting bank's exposure and the said securities are denominated in Rand.
+        (iv) Eligible financial collateral: comprehensive approach (#Heading)
+            (A) In addition to the instruments specified in subparagraph (iii) above, which instruments qualify as eligible collateral in terms of the simple approach, the instruments specified below shall be regarded as eligible collateral in terms of the comprehensive approach for the recognition of risk mitigation in respect of the bank's banking book exposures, provided that, irrespective of its credit rating, a resecuritisation instrument shall in no case constitute an eligible instrument for risk mitigation purposes in terms of these Regulations.
+                (i) Equities, including convertible bonds, which equities are not included in a main index but are listed on a licensed exchange.
+                (ii) UCITS/mutual funds which include the equities specified in sub-item (i) above.
+            (B) When a bank includes repurchase or resale agreements in the bank's trading book, any instrument obtained as collateral in respect of the bank's exposure to counterparty risk shall be regarded as eligible collateral, provided that-
+                (i) the said collateral instruments shall be included in and be managed as part of the bank's trading activities;
+                (ii) irrespective of its credit rating, a resecuritisation instrument shall in no case constitute an eligible instrument for risk mitigation purposes in terms of these Regulations;
+                (iii) in the case of a bank that applies-
+                    (aa) the standardised haircuts specified in subparagraph (xi) below, the bank shall apply the haircuts relating to non-main index equities listed on a licensed exchange;
+                    (bb) its own haircuts to collateral, the bank shall comply with the relevant minimum requirements relating to own estimates specified in subparagraphs (xii) and (xiii) below;
+                    (cc) the VaR approach for the measurement of the bank's credit exposure to credit risk, the bank shall comply with the minimum requirements relating to VaR estimates specified in subparagraph (xvii) below,
+                in respect of all collateral instruments that do not otherwise than in accordance with this item (B) qualify as eligible collateral.
+        (v) Proportional cover (#Heading)
+        In respect of both the simple approach and the comprehensive approach for the recognition of risk mitigation, when a bank obtained collateral of which the value is less than the amount of the bank's exposure to credit risk, the bank shall recognise the credit protection on a proportional basis, that is, the protected portion of the exposure shall be risk weighted in accordance with the relevant provisions of this paragraph (b) and the remainder of the credit exposure shall be regarded as unsecured.
+        (vi) Risk weighting: Simple approach (#Heading)
+        A bank that adopted the simple approach relating to credit risk mitigation shall risk weight its exposures in accordance with, and comply with, the relevant requirements specified in subregulation (7)(b).
+        (vii) Risk weighting: Comprehensive approach (#Heading) (01-Regulations-part-1.pdf; pg 139)
+        A bank that obtained eligible financial collateral and that adopted the comprehensive approach for the measurement of the bank's protected exposure-
+            (A) shall calculate an adjusted exposure in accordance with the relevant formulae set out in subparagraphs (viii) to (x) below;
+            (B) shall in the calculation of the bank's adjusted exposure-
+                (i) make use of the haircut percentage specified in table 9 in subparagraph (xi) below in order to adjust both the amount of the exposure and the value of the collateral; or
+                (ii) with the prior written approval of the Registrar and subject to the bank complying with the minimum quantitative and qualitative requirements specified in subparagraphs (xii) and (xiii) below, and such further conditions as may be specified in writing by the Registrar, rely on the bank's own estimates of market price volatility and foreign exchange volatility, provided that the bank-
+                    (aa) shall separately estimate the volatility of the collateral instrument or foreign exchange mismatch;
+                    (bb) shall not take into consideration any correlation between the unsecured exposure, the collateral or the exchange rates;
+                (iii) in the case of transactions subject to further commitment, that is, repurchase or resale agreements-
+                    (aa) apply a haircut of zero per cent, provided that the bank complies with the minimum conditions relating to a haircut of zero per cent specified in subparagraph (xv) below;
+                    (bb) recognise the effects of bilateral master netting agreements, provided that the bank complies with the minimum conditions relating to bilateral master netting agreements specified in subparagraph (xvi) below; or
+                    (cc) apply the results of a VaR model approach to reflect the price volatility of the exposure and the collateral, provided that the bank complies with the minimum conditions relating to the VaR model approach specified in subparagraph (xvii) below.
+            Notwithstanding the choice made between the standardised approach and the foundation IRB approach for the measurement of the bank's exposure to credit risk, a bank may choose to use the standard haircut percentages specified in table 9 in subparagraph (xi) below or the bank's own estimates of haircuts.
+            However, once a bank decided to use its own estimated haircuts, the bank shall apply its own haircuts to the full range of instrument types for which the bank obtained approval to use own estimates, except in the case of immaterial portfolios when the bank may use the standard haircuts prescribed in table 11 in subparagraph (xi) below.
+            (C) shall calculate its risk weighted exposure by multiplying the adjusted exposure with the risk weight of the relevant counterparty.
+        (viii) Comprehensive approach: formula for the calculation of a bank's adjusted exposure in the case of a collateralised transaction (#Heading)
+        A bank-
+            (A) shall in the case of a collateralised transaction, other than a collateralised OTC derivative transaction subject to the current exposure method, calculate its adjusted exposure through the application of the #Formula 1 specified below, which formula is designed to recognise the effect of the collateral and any volatility in the amount relating to the exposure or collateral. #Formula 1 is expressed as:
+                #Formula 1
+                $E^* = max \{0, [E \times (1 + He) - C \times (1 - H - Hfx)]\}$
+                where:
+                $E^*$ is the amount of the exposure after the effect of the collateral is taken into consideration, that is, the adjusted exposure
+                $E$ is the current value of the exposure before the effect of the collateral is taken into consideration
+                $He$ is the relevant haircut that relates to the exposure
+                $C$ is the current value of the collateral obtained by the bank
+                $Hc$ is the haircut that relates to the collateral
+                $Hfx$ is the haircut that relates to any currency mismatch between the collateral and the exposure
+                The haircut that relates to currency risk shall be 8 per cent, based on a ten business day holding period and daily mark-to-market.
+                #Formula 1 - end
+            (B) shall in the case of a collateralised OTC derivative transaction subject to the current exposure method, calculate its adjusted exposure in accordance with the relevant formula and requirements specified in subregulation (17).
+        (ix) Comprehensive approach: formula for the calculation of a bank's adjusted exposure when the effect of a master netting agreement is taken into consideration (#Heading)
+        A bank that applies the standard haircuts specified in subparagraph (xi) below, or its own estimated haircuts, which bank wishes to recognise the effects of bilateral master netting agreements, shall calculate its adjusted exposure through the application of #Formula 2 specified below, provided that the bank shall comply with the minimum requirements relating to bilateral netting agreements specified in subparagraph (xvi) below. #Formula 2 is expressed as:
+            #Formula 2
+            $E^* = max\{0,[(\sum E - \sum C) + \sum(Es \times Hs) + \sum(Efx \times Hfx)] \}$
+            where:
+            $E^*$ is the adjusted exposure after the effect of risk mitigation is taken into consideration
+            $E$ is the relevant current value of the exposure
+            $C$ is the value of the relevant collateral
+            $Es$ is the absolute value of the net position in a given instrument
+            $Hs$ is the relevant haircut that relates to Es, that is, the net long or short position of each instrument included in the netting agreement shall be multiplied with the appropriate haircut
+            $Efx$ is the absolute value of the net position in a currency that differs from the settlement currency
+            $Hfx$ is the haircut in respect of the currency mismatch
+            The haircut that relates to currency risk shall be 8 per cent, based on a ten business day holding period and daily mark-to-market.
+            #Formula 2 - end
+        (x) Comprehensive approach: formula for the calculation of a bank's adjusted exposure based on a VaR model approach  (#Heading)
+        A bank that uses a VaR model approach to reflect the price volatility of the exposure and the collateral shall calculate its adjusted exposure through the application of #Formula 3 specified below:
+            #Formula 3
+            $E^*= max \{0, [(\sum E - \sum C) + VaR ] \}$
+            where:
+            $E^*$ is the adjusted exposure after the effect of risk mitigation is taken into consideration
+            $E$ is the relevant current value of the exposure
+            $C$ is the relevant value of the collateral
+            $VaR$ is the previous business day's VaR amount from the internal model
+            #Formula 3 - end
+        (xi) Comprehensive approach: standard haircuts (#Heading)
+            #Table 9: Standard haircut (1)
+
+            Issue rating in respect of debt securities | Residual maturity |  Sovereigns (2) | Other Issuers | Securitisation exposure |
+            ------|------|------|------|------|
+            AAA to AA/A-1 | $\le$ 1 year | 0.5 | 1 | 2 |
+            AAA to AA/A-1 | $>$ 1 year; $\le$ 5 years | 2 | 4 | 8 |
+            AAA to AA/A-1 | $\ge$ 5 year | 4 | 8 | 16 |
+            A+ to BBB-/A-2/A-3/P-3 (*) | $\le$ 1 year | 1 | 2 | 4 |
+            A+ to BBB-/A-2/A-3/P-3 (*) | $>$ 1 year; $\le$ 5 years | 3 | 6 | 12 |
+            A+ to BBB-/A-2/A-3/P-3 (*) | $\ge$ 5 year | 6 | 12 | 24 |
+            BB+ to BB- | All | 15 | na | na | na |
+
+            (*) includes unrated bank securities qualifying as eligible collateral in terms of the simple approach
+
+            Central Government of the RSA of Reserve Bank | Haircut |
+            ------|------|
+            $\le$ 1 year | 1 |
+            $>$ 1 year; $\le$ 5 years | 3 |
+            $\ge$ 5 year | 6 |
+
+            Instruments without tenor | Haircut |
+            ------|------|
+            Main index equities, including convertible bonds, and gold | 15 |
+            Other equities, including convertible bonds, recognised on a licensed exchange | 25 (3) |
+            UCITS/ Mutual funds | Highest haircut applicable to any security in which the fund may invest |
+            Cash in the same currency (4) | 0 |
+
+            1. Based on daily mark-to-market adjustments, daily remargining and a ten business day holding period, expressed as a percentage.
+            2. Including multilateral development banks or public-sector entities that qualify for a risk weight of zero per cent.
+            3. Also relates to instruments that are not recognised as eligible collateral in respect of exposures included in the banking book but qualify as eligible collateral for repurchase or resale agreements included in the bank's trading book's trading book - refer to subparagraph (iv)(B) above.
+            4. Including cash collateral instruments qualifying as eligible collateral in terms of subparagraphs (iii)(A) and (iii)(B) above.
+            #Table 9: Standard haircut (1) - end
+
+        When a bank obtained collateral that consists of a basket of instruments, the haircut in respect of the basket of instruments shall be calculated in accordance with #Formula 4 specified below, which formula is designed to weight the collateral in the basket.
+            #Formula 4
+            $H = \sum a_i H_i$
+            where:
+            $a_i$ is the relevant weight of the asset, measured in terms of the relevant currency units, in the basket
+            $H_i$ is the haircut applicable to the relevant asset
+            #Formula 4 - end
+        (xii) Comprehensive approach: quantitative criteria relating to own estimates of haircuts (#Heading)
+            As a minimum, a bank that wishes to calculate its own haircuts for purposes of calculating the bank's adjusted exposure-
+            (A) shall use a 99th percentile, one-tailed confidence interval;
+            (B) shall base its calculations on the relevant requirements specified in table 10 in subparagraph (xiv) below in respect of the type of transaction, the minimum holding period and the frequency of remargining and marking to market, provided that when a bank's own estimates of haircuts are based on shorter or longer holding periods than the minimum holding periods specified in table 10, the bank shall use the relevant square root of time formula to scale the
+            relevant haircuts up or down to the appropriate minimum holding period;
+            (C) shall take into account the lack of liquidity of lower quality assets, that is, the bank shall adjust the holding period upwards in cases where the holding period is regarded as inappropriate based on the liquidity of the collateral;
+            (D) shall identify any situations in which historical data may understate potential volatility, such as in the case of a pegged currency, in which case the bank shall subject the data to stress tests;
+            (E) shall apply a historical observation period for the calculation of haircuts of no less than one year.
+            When a bank uses a weighting scheme or other method for the historical observation period, the effective observation period shall be at least one year, that is, the weighted average time lag of the individual observations shall not be less than 6 months.
+            (F) shall update its data sets at least once every three months;
+            (G) shall reassess the data whenever market prices are subject to material change.
+        (xiii) Comprehensive approach: qualitative criteria relating to own estimates of haircuts (#Heading)
+        As a minimum, a bank that wishes to calculate its own haircuts for purposes of calculating the bank's adjusted exposure-
+            (A) shall use the estimated volatility data, including the holding period, in the day-to-day risk management process of the bank;
+            (B) shall have in place a robust process in order to ensure compliance with the bank's documented set of internal policies, controls and procedures relating to the operation of the risk measurement system;
+            (C) shall use its risk measurement system in conjunction with internal exposure limits;
+            (D) shall on a regular basis conduct an independent review of its risk measurement system as part of the bank's own internal auditing process;
+            (E) shall at regular intervals, but not less frequently than once a year, conduct a comprehensive review of the bank's overall risk management process, which review, as a minimum, shall address-
+                (i) the integration of the bank's risk measures into its daily risk management process;
+                (ii) the validation of any significant change in the bank's risk measurement process;
+                (iii) the accuracy and completeness of any position data;
+                (iv) the verification of the consistency, timeliness and reliability of data sources used in the application of the bank's internal models, including the independence of such data sources;
+                (v) the accuracy and appropriateness of assumptions relating to volatility.
+        (xiv) Comprehensive approach: requirements related to adjustments for different holding periods and non daily mark-to-market or remargining (#Heading)
+            (A) The framework for collateral haircuts applied in these Regulations in respect of the comprehensive approach-
+                (i) distinguishes between-
+                    (aa) repo-style transactions, that is, transactions such as repurchase or resale agreements, and securities lending or borrowing transactions;
+                    (bb) other  capital-market-driven transactions, that is, transactions such as OTC derivatives and margin lending; and
+                    (cc) secured lending;
+                (ii) is summarised in table 10 below, also specifying the relevant respective minimum holding periods:
+                    #Table 10
+                    Transaction type Minimum holding Condition | Minimum holding period | Condition | 
+                    ------|------|------|
+                    Repo-style transaction | Five business days | Daily remargining | 
+                    Other capital market | Ten business days | Daily remargining | 
+                    Secured lending | Twenty business | Daily revaluation | 
+                    #Table 10 - end
+
+            (B) When-
+                (i) a bank entered into a transaction or has a netting set that meets the relevant criteria specified in subregulations (19)(e)(ii)(A) to (19)(e)(ii)(D), the relevant minimum holding period specified in table 10 shall be adjusted to be equivalent to the relevant margin period of risk envisaged in subregulation (19)(e) (ii);
+                (ii) the frequency of remargining or revaluation is longer than the minimum period specified in table 10 above, the relevant percentage in respect of the relevant specified minimum haircut shall be scaled up depending on the actual number of business days between remargining or revaluation, using the square root of time specified below in #Formula 5:
+                    #Formula 5
+                    $N = \sqrt{\frac{N_R + (T_M-1)}{T_M}} $
+                    where:
+                    $H$ is the relevant haircut
+                    $H_M$ is the relevant haircut in respect of the minimum holding period
+                    $T_M$ is the relevant minimum holding period for the type of transaction
+                    $N_R$ is the actual number of business days between remargining for capital market transactions or revaluation in respect of secured transactions
+                    #Formula 5 - end
+                For example, when a bank calculates the volatility on a $T_N$ day holding period which is different from the specified minimum holding period $T_M$, the bank shall calculate the relevant haircut $H_M$ using the square root of time specified in #Formula 6 below:
+                    #Formula 6
+                    $H_M = H_N \sqrt{\frac{T_M}{T_N}}$
+                    where:
+                    $H_M$ is the adjusted haircut
+                    $T_N$ is the holding period used by the bank for deriving $H_N$
+                    $H_N$ is the haircut based on the holding period $T_N$
+                    #Formula 6 - end
+                Similarly, when the frequency of remargining or revaluation is longer than the minimum period specified in table 10 above, the relevant percentage in respect of the minimum haircut shall be scaled up depending on the actual number of business days between remargining or revaluation, using the relevant square root of time formula.
+                For example, based on the relevant specified square root of time formula, a bank that uses the standard haircuts specified in table 9 in subparagraph (xi) above shall use the relevant ten business day haircut percentages specified in the table as a basis in scaling the said haircut percentages up or down depending on the type of transaction and the frequency of remargining or revaluation, as specified in #Formula 7 below:
+                    #Formula 7
+                    $H=H_{10} \sqrt{\frac{N_R + (T_M-1)}{10}}$
+                    where:
+                    $H$ = adjusted haircut
+                    $H_{10}$ = the ten business day standard haircut in respect of the instrument, specified in table 9 in subparagraph (xi) above
+                    $N_R$ = the actual number of business days between remargining for capital market transactions or revaluation for secured transactions
+                    $T_M$= the minimum holding period for the type of transaction
+                    #Formula 7 - end
+        (xv) Comprehensive approach: Minimum conditions relating to a haircut of zero per cent in the case of repo-style transactions (#Heading)
+        In the case of any repo-style transaction, a bank other than a bank that obtained the approval of the Registrar to apply its VaR model to reflect price volatility as envisaged in subparagraph (xvii) below may apply a haircut of zero per cent, provided that-
+            (A) both the exposure and the collateral shall consist of cash or a sovereign security or public-sector security qualifying for a zero per cent risk weight in terms of the standardised approach;
+            (B) both the exposure and the collateral shall be denominated in the same currency;
+            (C) the transaction shall be overnight or both the exposure and the collateral shall be marked to market on a daily basis and shall be subject to daily remargining; 
+            (D) following the failure of the counterparty to remargin, the time that is required from the last mark-to-market adjustment, before the failure to remargin occurred, and the liquidation of the collateral, shall be no more than four business days;
+            (E) the transaction shall be settled across a settlement system proven for the said type of transaction;
+            (F) the documentation in respect of the agreement shall be standard market documentation for the said transactions;
+            (G) the transaction shall be governed by documentation that specifies that when the counterparty fails to satisfy an obligation to deliver cash or securities or to deliver margin, or otherwise defaults, the transaction shall be immediately terminable;
+            (H) upon any default event, regardless whether the counterparty is insolvent or bankrupt, the bank shall have the unfettered, legally enforceable right to immediately seize and liquidate the collateral for the bank's benefit;
+            (I) the agreement shall be concluded with-
+                (i) a sovereign;
+                (ii) a central bank;
+                (iii) a public-sector entity;
+                (iv) a bank or securities firm provided that in the case of a securities firm the firm shall be subject to supervisory and regulatory arrangements comparable to banks in the Republic, including, in particular, risk-based capital requirements and regulation and supervision on a consolidated basis;
+                (v) other financial institutions, including an insurance company, eligible for a risk weight of 20 per cent in terms of the standardised approach;
+                (vi) a regulated mutual fund specified in writing by the Registrar provided that the said mutual fund shall be subject to capital or leverage requirements;
+                (vii) a regulated pension fund specified in writing by the Registrar;
+                (viii) a clearing institution specified in writing by the Registrar;
+                (ix) subject to such conditions as may be specified in writing by the Registrar, such other person or institution as may be determined by the Registrar.        
+        (xvi) Comprehensive approach: Minimum conditions relating to bilateral master netting agreements (#Heading)
+        A bank-
+            (A) That concludes a repo-style agreement or transaction with a counterparty, which agreement or transaction is included in a bilateral master netting agreement, may recognise the effects of the bilateral master netting agreement, provided that the said netting agreement-
+                (i) shall be legally enforceable in each relevant jurisdiction upon the occurrence of an event of default, regardless whether the counterparty is insolvent or bankrupt.
+                In cases of legal uncertainty, the reporting bank shall obtain a legal opinion to the effect that its right to apply netting of gross claims is legally well founded and would be enforceable in the
+                liquidation, default or bankruptcy of the counterparty or the bank;
+                (ii) shall provide the non-defaulting party upon an event of default, including in the event of insolvency or bankruptcy of the counterparty, the right to terminate and close-out, in a timely
+                manner, all transactions included in the agreement;
+                (iii) shall make provision for-
+                    (aa) the netting of gains and losses relating to all transactions included in the agreement, including the value of any collateral, which transactions were terminated and closed out, resulting in a single net amount which shall be owed by the one party to the other;
+                    (bb) the prompt liquidation or set-off of collateral upon an event of default.
+            (B) may net positions held in its banking book against positions held in its trading book, provided that-
+                (i) all the relevant transactions shall be marked to market on a daily basis; and
+                (ii) the collateral instruments used in the relevant transactions shall constitute eligible financial collateral in the banking book. 
+        (xvii) Comprehensive approach: Minimum conditions relating to the use of VaR models (#Heading)
+        As an alternative to the use of the standard haircuts specified in table 9 in subparagraph (xi) above, or the calculation of own estimated haircuts, a bank that obtained the prior written approval of the Registrar for the use of risk measures derived from the bank's internal risk-management model in respect of the bank's trading activities may use a VaR-model approach to reflect the price volatility of the exposure and the collateral in respect of repurchase or resale agreements, taking into account the effects of correlation between security positions, provided that-
+            (A) subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, the bank may also apply the VaR approach to margin lending transactions and other transactions similar to repo-style transactions or securities financing transactions;
+            (B) the VaR approach shall be applied-
+                (i) only to transactions covered by bilateral master netting agreements, that is, the VaR approach shall not be applied in respect of any repurchase agreement, resale agreement or margin lending transaction unless the relevant transaction is covered by a bilateral master netting agreement, which bilateral master netting agreement shall comply with the relevant requirements specified in subparagraph (xvi) above, and the relevant requirements specified in subregulations (17) to (19) below;
+                (ii) on acounterparty-by-counterparty basis;
+            (C) the bank-
+                (i) shall at all times comply with the relevant model validation requirements and operational requirements specified in regulations 39(8) and in subregulation (19), and such further requirements as may be specified in writing by the Registrar;
+                (ii) may in the case of repurchase and resale agreements apply a minimum holding period of five business days unless a five business day holding period is inappropriate based on the liquidity of the instrument;
+            (D) when the bank entered into a repo-style or similar transaction or has a netting set that meets the relevant criteria specified in subregulation (19)(e)(ii), the relevant minimum holding period shall be adjusted to be equivalent to the relevant margin period of risk envisaged in subregulation (19) (e)(ii).
+    (c) Guarantees (#Heading) (01-Regulations-part-1.pdf; pg 152)
+        (i) Minimum requirements (#Heading)
+        As a minimum, a bank that adopted the standardised approach for risk mitigation relating to guarantees shall comply with-
+            (A) the relevant minimum requirements specified in subregulation (7)(c) above; and
+            (B) such further conditions as may be specified in writing by the Registrar.
+        (ii) Eligible guarantees/guarantors (#Heading)
+        For risk mitigation purposes in terms of these Regulations, credit protection obtained from guarantors that are assigned a risk weight lower than the protected exposure shall be recognised as eligible guarantees, including guarantees obtained from-
+            (A) sovereigns;
+            (B) central banks;
+            (C) public-sector entities;
+            (D) banks;
+            (E) multilateral development banks;
+            (F) securities firms;
+            (G) other externally rated entities assigned a risk weight lower than the protected exposure,
+            Provided that-
+                (i) when credit protection is provided in respect of a securitisation exposure, only entities that are externally rated BBB- or better at the end of the reporting month, and that were externally rated A- or better at the time that the credit protection was provided, shall constitute eligible protection for purposes of these Regulations, including any relevant credit protection provided by a parent institution, subsidiary or affiliate companies;
+                (ii) for purposes of calculating the minimum required amount of capital and reserve funds of a branch in terms of the provisions of the Banks Act, 1990, read with these Regulations, no guarantee received from the parent foreign institution or any other branch of the parent foreign institution in respect of an exposure incurred by the branch in the Republic shall be regarded as an eligible guarantee.
+        (iii) Risk weighting (#Heading)
+        When a bank that adopted the standardised approach for risk mitigation obtains protection against loss in the form of an eligible guarantee in respect of the bank's exposure or potential exposure to credit risk, the risk weight applicable to the guaranteed transaction or guaranteed exposure may be reduced to the risk weight applicable to the relevant guarantor in accordance with the provisions of this paragraph (c).
+        The lower risk weight of the guarantor shall apply to the outstanding amount of the exposure protected by the guarantee, provided that the bank shall comply with the said relevant minimum requirements.
+        The unprotected portion of the exposure shall retain the risk weight relating to the relevant counterparty.
+        (iv) Materiality thresholds (#Heading)
+        For purposes of these Regulations, a materiality threshold below which no payment will be made in the event of a loss to the reporting bank or that reduces the amount of payment by the guarantor shall be regarded as equivalent to a retained first-loss position and shall be risk weighted in accordance with the relevant provisions of subregulation (6)(j) above.
+        (v) Proportional cover (#Heading)
+        When a bank obtains a guarantee for less than the amount of the bank's exposure to credit risk, the bank shall recognise the credit protection on a proportional basis, that is, the protected portion of the exposure shall be risk weighted in accordance with the relevant provisions of this paragraph (c) and the remainder of the credit exposure shall be regarded as
+        unsecured.
+        (vi) Currency mismatches (#Heading) (01-Regulations-part-1.pdf; pg 154)
+        When a bank obtains credit protection that is denominated in a currency that differs from the currency in which the exposure is denominated, the amount of the exposure deemed to be protected shall be reduced by the application of #Formula 8 specified below, which formula is designed to recognise the effect of the currency mismatch. The formula is expressed as:
+            #Formula 8
+            $G_A= G \times (1-H_{FX}) $
+            Where
+            $G$ is the relevant nominal amount of the credit protection obtained
+            $H_{FX}$ is the haircut relating to the currency mismatch between the credit protection and the underlying obligation.
+            The haircut shall be based on a ten business day holding period and daily mark to market.
+            When a bank applies the standard haircuts, a haircut equal to 8 per cent shall apply.
+            A bank shall use the relevant square root of time formula specified in paragraph (b)(xiv) above to scale up a haircut percentage when the holding period or frequency of mark-to-market adjustment differs from the specified minimum requirements.
+            #Formula 8 - end
+    (d) Credit-derivative instruments (#Heading) (01-Regulations-part-1.pdf; pg 154)
+        (i) Risk weighting: Protection buyer (seller of credit risk) (#Heading)
+            (A) For the protected portion of a credit exposure, a bank that is a protection buyer shall substitute the risk weight relating to the eligible protection provider for the risk weight of the reference asset, reference entity or underlying asset.
+            The lower risk weight relating to the eligible protection provider shall apply to the outstanding amount of the transaction or exposure protected by the credit-derivative instrument, provided that all the relevant conditions specified in this paragraph (d) are met.
+            The unprotected portion of the exposure shall retain the risk weight relating to the relevant underlying exposure.
+            (B) When a bank hedges the credit risk relating to an exposure included in the bank's banking book with a credit-derivative instrument included in the bank's trading book, the bank shall only recognise the credit protection to the extent that the bank transferred the relevant credit risk to an eligible third party protection provider.
+            (C) In the case of-
+                (i) a first-to-default structure, the protection buyer shall recognise the credit protection in respect of the exposure with the lowest risk-weighted amount provided that the notional amount of the relevant credit exposure shall be lower than or equal to the notional amount of the credit-derivative instrument;
+                (ii) a second to default structure, the protection buyer shall recognise the protection only when the protection buyer also obtained first-to-default protection, or when one of the assets in the basket already defaulted;
+                (iii) a proportional structure, the protection buyer may proportionally recognise protection in respect of all relevant reference assets, reference entities or underlying assets.
+            (D) When a bank buys protection in the absence of an underlying exposure, or when bought protection is not eligible for recognition in the reporting bank's calculation of required capital in respect of an underlying exposure, the relevant credit-derivative instrument shall be ignored for purposes of calculating the reporting bank's capital requirements relating to banking activities.
+            (E) A materiality threshold contained in a credit-derivative contract that requires a given amount of loss to occur to the protection buyer before the protection seller is obliged to make payment to the protection buyer or reduces the amount of payment to the protection buyer shall be regarded as equivalent to a first-loss credit-enhancement facility applied in asset securitisation and synthetic securitisation structures.
+            A bank that is a protection buyer shall risk weight such a materiality threshold in accordance with the relevant provisions specified in subregulation (6)(j) above. The capital requirement in respect of such bought protection shall be limited to the capital requirement relating to the underlying asset or reference asset when no protection is recognised.
+        (ii) Risk weighting: Protection provider/seller (buyer of credit risk) (#Heading)
+            (A) A bank that is a protection provider shall treat the position arising from the credit-derivative instrument as though the bank had a direct credit exposure to the reference asset, reference entity or underlying asset.
+            (B) When a protection provider-
+                (i) provides protection in the form of a funded credit-derivative instrument, the protection seller, upon conclusion of the credit-derivative contract, is exposed to the sum of the credit risk relating to the reference asset, reference entity or underlying asset and the credit risk relating to the funds placed with the protection buyer.
+                The protection provider shall risk weight the exposure according to the risk weight applicable to the reference asset or underlying asset, or the risk weight applicable to the protection buyer, whichever risk weight is the highest.
+                The exposure at risk shall be limited to the maximum payment in terms of the credit-derivative contract.
+                (ii) entered into an unfunded credit-derivative contract, the protection seller is exposed only to the credit risk relating to the reference asset, reference entity or underlying asset.
+            (C) In the case of a first-to-default structure, the protection provider shall risk weight its exposure to credit risk in accordance with the relevant requirements specified below:
+                (i) In the case of a credit-derivative instrument with a rating assigned by an eligible institution, the protection provider shall multiply the amount of the position with the risk weight specified
+                in table 11 below:
+                    #Table 11 (01-Regulations-part-1.pdf; pg 157)
+                    Long term rating (1)
+                    External credit assessment (1) | AAA to AA- | A+ to A- | BBB+ to BBB-| BB+ to BB- | B+ and below or unrated |
+                    ------|------|------|------|------|------|
+                    Risk weight | 20% | 50 % | 100% | 350% | 1250% (2) |
+
+                    Short term rating  (1)
+                    External credit assessment (1) | A-1/P-1 | A-2/P-2 | A-3/P-3| All Other |
+                    ------|------|------|------|------|
+                    Risk weight | 20% | 50 % | 100% | 1250% (2) |
+
+                    1. The notations used in this table relate to the ratings applied by a particular credit assessment institution. The use of the rating scale of a particular credit assessment institution does not mean that any preference is given to a particular credit assessment institution and the assessments/ rating scales of other external credit assessment institutions, recognised as_ eligible institutions in South Africa, may have been used instead.
+                    2. Or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds.
+                    #Table 11 - end
+
+                (ii) In the case of unrated exposures, the protection seller shall maintain capital against each of the reference assets, reference entities or underlying assets in the basket by aggregating the risk weights of the assets included in the basket up to a maximum of 1250 per cent, or such imputed percentage as may be applicable from time to time, and multiplying the aggregated risk weight with the notional amount of the protection provided, that is, the aggregate amount of capital held by the protection provider shall not exceed an amount equal to a deduction from capital.
+            (D) In the case of a second-to-default structure, the protection seller shall risk weight its exposure to credit risk in a manner similar to the method set out in item (C) above, which item (C) relates to a first-to- default structure, provided that in aggregating the risk weights relating to unrated exposures, the protection seller shall exclude from the aggregated risk weight the exposure with the lowest risk weight.
+            (E) In the case of a proportional structure, the protection seller shall proportionally attribute the relevant risk weights to all relevant reference assets, reference entities or underlying assets.
+        (iii) Eligible protection providers (#Heading)
+        For risk-mitigation purposes in terms of these Regulations, credit protection obtained from protection providers that are assigned a risk weight lower than the protected exposure shall be recognised as eligible protection providers, including protection obtained from:
+            (A) sovereigns;
+            (B) central banks;
+            (C) public-sector entities;
+            (D) banks;
+            (E) securities firms;
+            (F) other externally rated entities that are assigned a risk weight lower than the protected exposure,
+        Provided that when credit protection is provided in respect of a securitisation exposure, only entities that are externally rated BBB- or better at the end of the reporting month, and that were externally rated A- or better at the time the credit protection was provided, shall constitute eligible protection for purposes of these Regulations, including any relevant credit protection provided by a parent institution, subsidiary or affiliate companies.     
+        (iv) Funded credit-derivative instruments (#Heading)
+        A bank may issue cash instruments, such as credit-linked notes, in respect of which instruments the repayment of the principal amount is linked to the credit standing of a reference asset, reference entity or underlying asset.
+        For risk-mitigation purposes, a bank shall treat credit-linked notes in a manner similar to cash-collateralised transactions.
+        (v) Unfunded credit-derivative instruments (#Heading)
+            (A) The capital treatment of the different credit risk-mitigation instruments recognized in terms of these Regulations shall be based on the economic effects of the instruments and not the legal construction of the said instruments.
+            Although the legal construction of guarantees may differ from credit- derivative instruments, only credit-default swaps and total-return swaps that provide credit protection equivalent to guarantees shall be recognised as credit risk-mitigation instruments, in addition to credit-linked notes, in terms of these Regulations.
+            (B) When a bank buys credit protection through a total-return swap and records the net payments received on the swap as net income, but does not record the offsetting deterioration in the value of the asset that is protected, either through a reduction in fair value or an adjustment to reserves, the credit protection shall not be recognised.
+        (vi) Materiality thresholds (#Heading)
+            (A) Normally, a materiality threshold is specified in a credit-derivative contract in order to ensure that the protection seller is obliged only to make payment in terms of the credit-derivative contract once a material default has occurred in respect of an underlying asset, reference asset or reference entity.
+            However, the economic effect of a materiality threshold specified in a credit-derivative contract may be that the protection buyer will suffer a specified amount of loss before payment in terms of the credit-derivative contract is triggered or the amount of payment by the protection seller to the protection buyer may even be reduced.
+            Materiality thresholds specified in a credit-derivative contract may therefore result in a significant loss being incurred by the protection buyer on an underlying asset or reference asset without a credit-event payment being made.
+            (B) Materiality thresholds below which no payment will be made in the event of a loss to the protection buyer or that reduce the amount of payment by the protection seller to the protection buyer shall for purposes of these Regulations be regarded as equivalent to a retained first-loss position and shall be risk weighted in accordance with the relevant provisions specified in subregulation (6)(j) above.
+            (C) A credit-derivative instrument with a materiality threshold that requires a high percentage of loss to occur before the protection seller is obliged to make payment to the protection buyer shall not be recognised for credit-risk mitigation purposes in terms of these Regulations.
+        (vii) Multiple-name instruments (#Heading)
+            (A) Multiple-name instruments refer to credit-derivative instruments that reference more than one reference asset, reference entity or underlying asset, that is, a basket of instruments. Multiple-name structures generally include-
+                (i) first-to-default structures, that is, the first default amongst the reference names triggers the credit protection and the credit event also terminates the protection;
+                (ii) second-to-default structures, that is, the second default amongst the reference names triggers the credit protection and the credit event also terminates the protection.
+            (B) When the number of exposures in a basket is significant, the transaction will be regarded as a synthetic securitisation scheme. Such transactions shall be subject to the provisions of the exemption notice relating to securitisation schemes.
+            (C) For the purposes of these Regulations, the number of exposures in a basket shall be regarded as significant when the envisaged transaction will cause-
+                (i) the capital requirement of the reporting bank to increase or decrease by 5 per cent or more; or
+                (ii) the amount of the relevant portfolio of the reporting bank in respect of which the transaction will be concluded to increase or decrease by 5 per cent or more.
+        (viii) Settlement (#Heading) (01-Regulations-part-1.pdf; pg 160)
+            (A) Normally, credit-derivative instruments provide for either physical settlement or cash settlement.
+            (B) Some credit-derivative instruments provide for pre-agreed amounts to be paid when a credit event occurs. These contracts are generally referred to as binary or digital contracts.
+            When the payment in terms of a credit-derivative instrument is a fixed amount, that is, a binary payment, the amount of protection shall be the amount of the fixed payment.
+            (C) Physical settlement, for example, involves the delivery by a protection buyer of an obligation of the reference entity specified in the contract in return for cash settlement by the protection seller of the reference amount.
+            When obligations in terms of credit-derivative instruments are physically settled, problems associated with the valuation of the reference asset, reference entity or underlying asset following a credit event are avoided.
+            (D) Cash settlement requires a cash settlement amount to be calculated by a calculating agent specified in the contract. Following the occurrence of a credit event in respect of the reference asset, reference entity or underlying asset, the cash settlement amount is normally calculated as-
+            - the nominal amount of protection purchased; multiplied by
+            - the value of the reference asset, reference entity or underlying asset at inception (the value is normally expressed as a percentage, for example, 100 per cent); less
+            - the “final value", which value is normally expressed as a percentage of the reference asset, reference entity or underlying asset on the cash-settlement date.
+        (ix) Foreign-currency positions (#Heading) (02-Regulations-part-2.pdf; pg 2)
+        A bank shall include in the forms BA 320 and BA 325 all relevant foreign-currency positions created by credit-derivative instruments when the bank calculates its aggregate effective net open foreign-currency position.
+        (x) Proportional cover (#Heading)
+        When a bank obtains credit protection for less than the amount of the bank's exposure to credit risk, the bank shall recognise the credit protection on a proportional basis, that is, the protected portion of the exposure shall be risk weighted in accordance with the provisions of this paragraph (d) and the remainder of the credit exposure shall be regarded as unsecured.
+        (xi) Minimum requirements relating to credit-derivative instruments (#Heading)
+            (A) General requirement (#Heading)
+                (i)  Notwithstanding the provisions of these Regulations, a bank that wishes to engage in credit-derivative transactions-
+                    (aa) shall obtain the prior written approval of the Financial Surveillance Department of the Reserve Bank in respect of any such transaction involving a non-resident person;
+                    Should the Financial Surveillance Department of the Reserve Bank grant its approval to the said transaction, the bank shall adhere to such rules, conditions or such regulations as may be specified by the Financial Surveillance Department of the Reserve Bank relating to such credit-derivative instruments;
+                    (bb) shall comply with such rules, conditions or such regulations as may be specified by the Financial Surveillance Department of the Reserve Bank relating to credit-derivative instruments.
+                (ii)  Protection from a credit-derivative contract shall be recognised in terms of these Regulations to the extent-
+                    (aa) that such protection was not already taken into consideration in the calculation of the reporting bank's required amount of capital and reserve funds;
+                    (bb) that such protection can be realised by the reporting bank under normal market conditions, that is, the value at which the protection can be realised shall not differ materially from its book value.
+            (B) Specific requirements (#Heading)
+            A bank that wishes to recognise the risk-mitigation effect of protection obtained in the form of a credit-derivative instrument in the calculation of the bank's credit exposure shall comply with the requirements specified below:
+                (i) Direct (#Heading)
+                The credit protection shall constitute a direct claim on the protection seller.
+                (ii) Explicit  (#Heading)
+                The credit protection shall be linked to specific credit exposures, so that the extent of the cover is duly defined and incontrovertible.
+                (iii) Irrevocable (#Heading)
+                Other than a protection buyer's non-payment of money due in respect of the credit protection contract, there shall be no clause in the contract that would allow the protection seller unilaterally to cancel the credit protection or increase the effective cost of the protection as a result of deterioration in the credit quality of the protected exposure.
+                (iv) Unconditional (#Heading)
+                There shall be no clause in the contract other than clauses relating to procedural requirements that could prevent the protection seller from being obliged to make payment in a timely manner should a credit event occur in respect of an underlying asset, reference entity or reference asset.
+                (v) The credit protection shall be legally enforceable in all relevant jurisdictions
+                In cases of uncertainty, a bank shall obtain legal opinion confirming the enforceability of the credit protection in all relevant jurisdictions and that the bank's rights are legally well founded. Legal opinions shall be updated at appropriate intervals in order to ensure continuing enforceability.
+                (vi) The protection seller shall not have any formal recourse to the protection buyer in respect of losses incurred by the protection seller.
+                (vii) In the case of a funded single-name credit-derivative contract, the protection buyer shall not be obliged to repay any funds received from the protection seller in terms of the credit-derivative contract, except at the maturity date of the contract, provided that no credit event has occurred during the period of bought protection or as a result of a defined credit event, and then in accordance with the terms of payment defined in the contract.
+                (viii) In order to obtain full recognition of the protection obtained, the base currency of a credit-derivative instrument shall be the same currency as the currency in which the credit exposure that is protected is denominated.
+                When a credit-derivative instrument is denominated in a currency that differs from the currency in which the credit exposure is denominated, that is, when there is a currency mismatch, the bought protection may be less than expected owing to fluctuations in the exchange rates.
+                When a bank obtains credit protection that is denominated in a currency that differs from the currency in which the exposure is denominated, the amount of the exposure deemed to be protected shall be reduced by the application of #Formula 9 specified below, which formula is designed to recognise the effect of the currency mismatch. The formula is expressed as:
+                    #Formula 9
+                    $G_{A}=G \times (1-H_{FX})$
+                    where:
+                    $G_{A}$  is the relevant adjusted value of the protection
+                    $G$ is the relevant nominal amount of the credit protection obtained
+                    $H_{FX}$ is the haircut relating to the currency mismatch between the credit protection and the underlying obligation.
+                    The haircut shall be based on a ten business day holding period and daily mark to market.
+                    When a bank applies the standard haircuts, a haircut equal to 8 per cent shall apply.
+                    A bank shall use the relevant square root of time formula specified in paragraph (b) (xiv) above to scale up a haircut percentage when the holding period or frequency of mark-to-market adjustment differs from the specified minimum requirements.
+                    #Formula 9 - end
+                (ix) Robust risk-management process (#Heading)
+                While credit-derivative instruments reduce credit risk, they simultaneously increase other risks to which a bank is exposed, such as legal and operational risks.
+                Therefore, a bank shall employ robust procedures and processes to control the aforesaid risks.
+                As a minimum, a robust risk-management process relating to credit-derivative instruments shall include the fundamental elements specified below:
+                    (aa) Strategy (#Heading)
+                    A duly articulated strategy for credit-derivative instruments shall form an intrinsic part of a bank's general credit strategy and overall liquidity strategy.
+                    (bb) Focus on underlying credit (#Heading)
+                    A bank shall continue to assess an exposure that is hedged by a credit-derivative instrument on the basis of the borrower's creditworthiness. A bank shall obtain and analyse sufficient financial information to determine the obligor's risk profile and its risk management and operational capabilities.
+                    (cc) Systems (#Heading)
+                    A bank's policies and procedures shall be supported by management systems capable of tracking the location and status of its credit-derivative instruments.
+                    (dd) Concentration risk (#Heading)
+                    A bank shall have in place a duly defined policy with respect to the amount of concentration risk that it is prepared to accept.
+                    A bank shall take into account purchased credit protection when assessing the potential concentrations in its credit portfolio, including when the bank determines its concentration risk in terms of section 73 of the Act.
+                    A bank shall monitor general trends affecting its credit-protection sellers, in order to mitigate its concentration risk.
+                    (ee) Roll-off risks (#Heading)
+                    When a bank obtains credit protection that differs in maturity from the underlying credit exposure, the bank shall monitor and control its roll-off risks, that is, the fact that the bank will be exposed to the full amount of the credit exposure when the credit protection expires.
+                (x) As a minimum, the risk management systems of the reporting bank shall be adequate-
+                    (aa) to capture the credit risk relating to a reference asset, reference entity or underlying asset acquired through a credit-derivative contract and any counterparty risk arising from an unfunded over-the-counter credit-derivative contract within the normal credit approval and credit monitoring processes;
+                    (bb) to assess the probability of default correlation between the reference asset, reference entity or underlying asset and the protection provider;
+                    (cc) to provide valuation procedures, including assessment and monitoring of the liquidity of the credit-derivative instrument and the reference asset or underlying asset. This is particularly important for credit-derivative contracts when the reference asset or underlying asset is illiquid,
+                    for example, a loan, or when the derivative instrument has multiple reference assets, reference entities or underlying assets;
+                    (dd) to assess the impact on liquidity risk when the reporting bank has transferred a significant amount of credit risk through the use of funded credit-derivative instruments with a shorter maturity than the underlying credit exposure;
+                    (ee) to assess the impact on capital adequacy when the reporting bank has transferred a significant amount of credit risk through the use of unfunded credit-derivative instruments and when a replacement contract may not be available when the credit protection expires;
+                    (ff) to assess the change in the risk profile of the remaining credit exposures in terms of both the quality and the spread of the portfolio, when the reporting bank makes extensive use of credit-derivative instruments to transfer risk;
+                    (gg) to assess the basis risk between the reference asset exposure and the underlying asset exposure when these exposures are not the same;
+                    (hh) to monitor the legal and reputational risk associated with credit-derivative instruments; to monitor the credit risk on an ongoing basis.
+                (xi) As a minimum, the credit events relating to non-sovereign debt, specified by the contracting parties shall include: (02-Regulations-part-2.pdf; pg 8)
+                    (aa) Bankruptcy or insolvency.
+                    (bb) Any application for protection from creditors.
+                    (cc) Payment default, that is, failure to pay the principal amount or related interest amounts due.
+                    (dd) Any restructuring of the underlying obligation that results in a credit loss event such as a credit impairment or other similar debit being raised, including-
+                        (i) a reduction in the rate or amount of interest payable or the amount of scheduled interest accruals;
+                        (ii) a reduction in the amount of principal, fees or premium payable at maturity or at the scheduled redemption dates;
+                        (iii) a change in the ranking in the priority of payment of any obligation, causing the subordination of such obligation;
+                        (iv) a postponement or other deferral of a date or dates for either the payment or accrual of interest or the payment of the principal amount or premium.
+                    When the credit-derivative instrument does not include the restructuring of the underlying obligation as a credit event, it shall be deemed that the bank obtained protection equal to a maximum of sixty per cent of the amount covered in terms of the credit-derivative instrument.
+                (xii) As a minimum, the credit events relating to sovereign debt, specified by the contracting parties shall include:
+                    (aa) Any moratorium on the repayment of the principal amount or related interest amounts due.
+                    (bb) Repudiation.
+                    (cc) Payment default, that is, failure to pay the principal or related interest amounts due.
+                    (dd) Any restructuring of the underlying obligation that results in a credit loss event such as a credit impairment or other similar debit being raised, including-
+                        (i) a reduction in the rate or amount of interest payable or the amount of scheduled interest accruals;
+                        (ii) a reduction in the amount of principal, fees or premium payable at maturity or at the scheduled redemption dates;
+                        (iii) a postponement or other deferral of a date or dates for either the payment or accrual of interest or the payment of the principal amount or premium;                 
+                    When the credit-derivative instrument does not include the restructuring of the underlying obligation as a credit event, it shall be deemed that the bank obtained protection equal to a maximum of sixty per cent of the amount covered in terms of the credit-derivative instrument.
+                (xiii) Contracts allowing for cash settlement will be recognised for risk-mitigation purposes, provided that a robust valuation process is in place in order to estimate loss reliably. There shall be a duly specified period for obtaining post credit-event valuations of the reference asset or underlying obligation, typically not more than 30 days.
+                (xiv) The grace period specified in the credit-derivative contract shall not be longer than the relevant grace period provided for failure to pay in terms of the underlying obligation.
+                (xv) The protection buyer shall have the right and ability to transfer the underlying obligation or reference asset to the protection seller, if such underlying obligation or reference asset is required for settlement.
+                (xvi) The delivery of the underlying obligation or reference asset shall not contravene any term or condition relating to the underlying asset or reference asset, and consent shall be obtained when necessary.
+                (xvii) The identity of the person(s) responsible for determining whether a credit event has occurred, and the sources to be used, shall be duly defined. This determination shall not be the sole responsibility of the protection seller. The protection buyer shall have the right and ability to inform the protection seller of the occurrence of a credit event.
+                (xviii) Asset mismatch (#Heading)
+                When the reference asset and the underlying asset being hedged differ the protection buyer may suffer a loss on the underlying credit exposure that will not be fully compensated by an equivalent claim against the protection seller. 
+                When there is an asset mismatch between the underlying exposure and the reference asset the protection buyer will be allowed to reduce the credit exposure provided that-
+                    (aa) the reference asset and the underlying exposure relate to the same obligor, that is, the same legal entity;
+                    (bb) the reference asset ranks pari passu with or more junior than the underlying asset in the event of bankruptcy;
+                    (cc) legally effective cross-default clauses, for example, cross-default or cross-acceleration clauses apply; and
+                    (dd) the terms and conditions of the credit-derivative contract do not contravene the terms and conditions of the underlying asset or reference asset.
+    (e) Maturity mismatches (#Heading) (02-Regulations-part-2.pdf; pg 11)
+        (i) A maturity mismatch occurs when the residual maturity of the credit protection obtained in the form of eligible collateral, guarantees or credit-derivative instruments, or in terms of a netting agreement, is less than the residual maturity of the underlying credit exposure, that is, when the residual maturity of the credit protection is-
+            (A) less than the residual maturity of the underlying credit exposure a maturity mismatch exists and the bank shall treat the relevant positions in accordance with the relevant requirements of this paragraph (e);
+            (B) longer than the residual maturity of the underlying credit exposure, the position shall be regarded as fully protected.
+        (ii) A bank shall conservatively define the maturity of the underlying exposure and the maturity of the credit protection.
+        The effective maturity of the underlying exposure shall be the longest possible remaining time before the obligor is scheduled to fulfil its obligation.
+        Embedded options that may reduce the term of the credit protection shall be taken into account when the effective maturity of the credit protection is determined so that the shortest possible effective maturity is used. For example, the effective maturity of credit protection with step-up and call features will be the remaining time to the first call.
+        (iii) In the case of maturity mismatched credit protection in respect of which the original maturity of the relevant credit protection is less than one year such credit protection shall not be recognised for credit-risk mitigation purposes in terms of these Regulations unless the said credit protection has a matching maturity with the underlying credit exposure(s), that is, credit
+        protection with an original maturity of less than one year shall be recognised only when-
+            (A) the maturity of the protection and the maturity of the exposure is matched; or
+            (B) the residual maturity of the protection is longer than the residual maturity of the exposure,
+        provided that in the calculation of its minimum required amount of capital and reserve funds a bank shall in no case recognise credit protection obtained when the residual maturity of such credit protection is less than or equal to three months.
+        (iv) When a bank obtained eligible protection, which bank adopted-
+            (A) the simple approach for the recognition of risk mitigation relating to collateral, a reduction in the risk exposure of the bank shall be allowed only when the maturity of the collateral and the maturity of the exposure is matched, that is, collateral obtained by the bank as security against an exposure of the bank shall be pledged as security for the full duration of the bank's exposure;
+            (B) the comprehensive approach for the recognition of risk mitigation relating to netting, collateral, guarantees or credit-derivative instruments, shall recognise the effect of mismatches between the maturity of the bank's underlying exposure and the protection obtained through the application of #Formula 10 specified below, which formula is designed to recognise the effect of the maturity mismatch. The formula is expressed as:
+                #Formula 10
+                $P_a = P x (t-0.25)/(T-0.25)$
+                where:
+                $P_a$ is the relevant value of the credit protection obtained, adjusted for the maturity mismatch
+                $P$ is the relevant amount of credit protection obtained, adjusted for any haircuts
+                $t$  is min (T, residual maturity of the credit protection arrangement), expressed in years
+                $T$ is min (5, residual maturity of the exposure), expressed in years
+                #Formula 10 - end
+        (v) When a bank obtains protection that differs in maturity from the underlying credit exposure the bank shall monitor and control its roll-off risks, that is, the fact that the bank will be exposed to the full amount of the credit exposure when the protection expires.
+        The bank may be unable to obtain further protection or to maintain its capital adequacy when the protection expires.
+    (f) Treatment of pools of risk mitigation instruments (#Heading) (02-Regulations-part-2.pdf; pg 13)
+        (i) When a bank obtains-
+            (A) multiple risk mitigation instruments in order to protect a single exposure, that is, the bank has obtained, for example, collateral, guarantees and credit-derivative instruments partially protecting an exposure; or
+            (B) protection with differing maturities,
+        the bank shall subdivide the exposure into portions covered by the relevant types of risk mitigation instruments.
+        (ii) A bank shall separately calculate its risk-weighted exposure relating to each relevant portion envisaged in subparagraph (i) above.
+    (g) Risk mitigation in respect of a securitisation exposure (#Heading) (02-Regulations-part-2.pdf; pg 13)
+    When a bank that adopted the standardised approach for the measurement of the bank's exposure to credit risk obtains protection in respect of a securitisation exposure the bank shall calculate its risk weighted exposure in respect of the said exposure in accordance with the relevant requirements specified in subregulation (7)(e) read with the relevant requirements specified in this subregulation (9).
+    (h) Tranched cover (#Heading) (02-Regulations-part-2.pdf; pg 14)
+    When a bank transfers to a protection seller or sellers a portion of the risk arising from an exposure in one or more tranches whilst the said bank retains some level of risk, and the risk transferred and the risk retained are of different seniority, the bank may obtain credit protection, for example, in respect of the more senior tranches, such as the second loss position, provided that in all cases the bank shall apply the relevant rules and requirements relating to securitisation exposures specified in the exemption notice relating to securitisation schemes read with the relevant requirements specified in subregulations (6)(h), (6)(j), (7)(e) and (8)(h) above.
+
+

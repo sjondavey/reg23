@@ -1,0 +1,1254 @@
+(10) Calculation of credit risk exposure: IRB approach (#Heading) (02-Regulations-part-2.pdf; pg 14)
+Subject to the relevant provisions of regulation 38(2) and subregulation (20), a bank that wishes to adopt the IRB approach for the measurement of the bank's exposure to credit risk-
+    (a) shall obtain the prior written approval of the Registrar;
+    Should the Registrar grant his/her approval, the bank shall in addition to the minimum requirements relating to the IRB approach specified in subregulation (11)(b) below, continuously comply with such conditions as may be specified in writing by the Registrar;
+    (b) shall calculate its exposure to credit risk, at the discretion of the bank, either in accordance with the provisions of Method 1, as set out in subregulations (11) and (12) below, or Method 2, as set out in subregulations (13) and (14) below, or, subject to such conditions as may be specified in writing by the Registrar, a combination of the said methods.
+
+(11) Method 1: Calculation of credit risk exposure in terms of the foundation IRB approach (#Heading) (02-Regulations-part-2.pdf; pg 14)
+    (a) Unless specifically otherwise provided, a bank that obtained the prior written approval of the Registrar to adopt the foundation IRB approach to calculate the bank's exposure to credit risk in respect of positions held in the bank's banking book- (02-Regulations-part-2.pdf; pg 14)
+        (i) shall continuously comply with the relevant minimum requirements specified in paragraph (b) below and such further conditions as may be specified in writing by the Registrar in respect of any asset class subject to the IRB approach;
+        (ii) shall continuously comply with the relevant minimum disclosure requirements specified in regulation 43(2);
+        (iii) shall categorise its exposures in accordance with the relevant requirements specified in paragraph (c) below;
+        (iv) shall calculate its risk-weighted exposures in accordance with the relevant requirements and risk components specified in paragraph (d) below;
+        (v) shall apply the IRB approach for the measurement of the bank's securitisation or resecuritisation exposure, that is, a bank shall not use the IRB approach for the measurement of the bank's securitisation or resecuritisation exposure unless the bank obtained the prior written approval of the Registrar to apply the IRB approach for the measurement of the bank's exposure to underlying credit exposure, provided that the bank shall in respect of the said securitisation or resecuritisation exposures comply with the relevant requirements specified in paragraph (b) (xii) below.
+        (vi) shall calculate any relevant credit impairment, amongst other things, in accordance with the relevant requirements specified in subregulation (22);
+        (vii) shall deduct from the bank's capital and reserve funds, or risk weight such amounts, as may be specified in paragraph (q) below.
+    (b) Minimum requirements (#Heading) (02-Regulations-part-2.pdf; pg 15)
+        (i) Subject to such conditions as may be specified in writing by the Registrar, a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book shall apply the said approach in respect of all the bank's material asset classes and business units.
+        (ii) For a minimum period of three years or such lesser minimum period as may be specified in writing by the Registrar, prior to a bank's implementation of the foundation IRB approach for the measurement of the bank's exposure to credit risk, the rating and risk estimation systems and processes of the bank should have-
+            (A) provided a meaningful assessment of borrower and transaction characteristics;
+            (B) provided a meaningful differentiation of risk;
+            (C) provided materially accurate and consistent quantitative estimates of risk;
+            (D) produced internal ratings and default and loss estimates that formed an integral part of the bank's-
+                (i) credit approval process;
+                (ii) risk management process;
+                (iii) internal capital allocation process;
+                (iv) corporate governance process;
+            (E) been subjected to appropriate internal controls and independent review;
+            (F) been broadly in compliance with the minimum requirements specified in this subregulation (11).
+        (iii) As a minimum, a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book shall have in place a duly documented credit policy, which credit policy-
+            (A) shall be applied consistently over time for internal risk management purposes and in terms of the IRB approach;
+            (B) shall in the case of exposures relating to corporate institutions, sovereigns or banks duly specify the relationship between borrower grades in terms of the level of risk that each grade implies, that is, the perceived and measured risk shall increase as the credit quality of an exposure declines from one grade to the next;
+            (C) shall in the case of exposures relating to corporate institutions, sovereigns or banks duly specify the risk represented in each risk grade in terms of both a description of the probability of default risk typical for obligors assigned to the specific grade and the criteria used to distinguish that level of credit risk;
+            (D) shall be sufficiently robust to ensure that-
+                (i) each relevant individual legal entity or person to which the bank is exposed is separately rated;
+                (ii) the bank duly specifies the treatment of individual entities in a connected group, including the circumstances under which the same rating may or may not be assigned to all or some related entities;
+                (iii) the bank develops and maintains a robust process for the identification of specific wrong way risk for each relevant person or legal entity to which the bank is exposed;
+                (iv) transactions with counterparties where specific wrong way risk has been identified are appropriately treated in accordance with the relevant requirements specified in these Regulations;
+            (E) shall reinforce and foster the independence of the rating process;
+            (F) shall duly specify the bank's process relating to the assignment of ratings to credit exposures;
+            (G) shall duly specify the situations in which the senior management of the bank may override the output of the rating process, including how and to what extent such overrides may be used, and the names of senior management who may approve overrides of the modelobligor's output;
+            (H)  shall contain comprehensive requirements to assess the creditworthiness of persons with overdraft facilities;
+            (I) shall comprehensively deal with-
+                (i) overdue amounts, including the manner in which the bank determines the number of past due days in respect of credit exposures;
+                (ii) exposures that are in default;
+                (iii) re-ageing of facilities or exposures, which re-aging, amongst other things, shall comprehensively deal with-
+                    (aa) persons responsible for approval;
+                    (bb) reporting requirements;
+                    (cc) the minimum age of a facility or exposure before it is eligible for re-ageing;
+                    (dd) the delinquency levels of facilities or exposures that are eligible for re-ageing;
+                    (ee) the maximum number of exposures per facility, eligible for re-ageing;
+                    (ff) a reassessment of the borrower's capacity to repay amounts due;
+                (iv) the granting of extensions, deferrals, renewals or rewrites in respect of existing accounts.
+        (iv) A bank that uses multiple systems to support its assessment of credit risk- (02-Regulations-part-2.pdf; pg 18)
+            (A) shall duly document-
+                (i) the rationale for assigning a particular obligor to a particular rating system;
+                (ii) the specific industries or market segments to which a particular rating system applies;
+            (B) shall allocate the bank's obligors to a rating system in a manner that best reflects the level of risk of a particular obligor.
+        (v) Without derogating from the provisions of subparagraphs (i) to (iv) above, the rating and risk estimation systems and processes of a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book-
+            (A) shall in the case of exposures to corporate institutions, sovereigns or banks, excluding any exposures relating to specialised lending that were mapped into the standardised rating categories specified in paragraph (d)(iii)(C) below, have separate and distinct dimensions relating to-
+                (i) the risk of borrower default, that is, separate exposures to the same obligor shall be assigned to the same borrower grade, irrespective of any differences in the nature of each specific transaction unless-
+                    (aa) the one exposure is denominated in local currency whilst the other exposure is denominated in foreign currency; or
+                    (bb) protection was obtained in the form of a guarantee, which protection resulted in an adjusted borrower grade,
+                in which case separate exposures may result in multiple grades in respect of the same obligor.
+                (ii) transaction-specific factors such as collateral, seniority and product type, provided that-
+                    (aa) when the rating system of a bank that adopted the foundation IRB approach contains a facility dimension, which facility dimension reflects both borrower and transaction-specific factors, that is, the rating dimension reflects expected loss by incorporating both borrower strength (PD) and loss severity (LGD) considerations, the rating system shall be deemed to comply with the requirements of this item (A);
+                    (bb) a separate rating system that exclusively reflects LGD ratios shall be deemed to comply with the relevant requirements of this item (A);
+                    (cc) when the rating dimension reflects expected loss but it does not separately quantify the LGD ratio in respect of the said exposure, the bank shall apply the LGD estimates determined by the Registrar.
+            (B) shall in the case of exposures to corporate institutions, sovereigns or banks ensure a meaningful distribution of exposures across risk grades, that is, the bank shall not have excessive concentrations of exposure in any one of the bank's borrower rating or facility rating scales.
+            As a minimum, a bank that adopted the IRB approach-
+                (i) shall in the case of exposures other than specialised lending that were mapped into the standardised rating categories specified in paragraph (d)(iii)(C) below, have no less than seven borrower grades in respect of borrowers that are not in default and one grade for borrowers that have defaulted, provided that-
+                    (aa) the bank shall in the case of concentrations within a single grade have empirical evidence that-
+                        (i) the grades cover sufficiently narrow PD bands;
+                        (ii) the default risk posed by borrowers in a particular grade falls within the specific band;
+                    (bb) the Registrar may require a bank with a diverse portfolio of credit exposure to have more borrower grades than the minimum number of borrower grades specified in this sub-item (i);
+                (ii) shall in the case of exposures relating to specialised lending, which exposures were mapped into the standardised rating categories specified in paragraph (d)(iii)(C) below, have no less than four borrower grades in respect of borrowers that are not in default and one grade for borrowers that have defaulted;
+                (iii) shall assign a rating to each obligor and all eligible guarantors, which rating shall be reviewed or approved by a person who does not directly benefit from the extension of credit;
+                (iv) shall associate each exposure with a facility rating as part of the loan approval process;
+                (v) shall review assigned borrower and facility ratings on a regular basis, but not less frequently than once a year, provided that the bank shall review all relevant ratings as soon as material new information comes to the attention of the bank;
+                (vi) shall have in place an effective process in order to obtain and update all relevant information;
+            (C) may in the case of exposures relating to specialised lending, which exposures were mapped into the standardised rating categories specified in paragraph (d)(iii)(C) below, have a single rating dimension, which rating dimension reflects expected loss by incorporating both borrower strength, that is, PD, and loss severity, that is, LGD;
+            (D) shall in the case of retail exposures- (02-Regulations-part-2.pdf; pg 20)
+                (i) be oriented towards and comprehensively capture-
+                    (aa) borrower risk, which borrower risk shall include matters such as borrower type and demographics such as age or occupation; and
+                    (bb) transaction risk, which transaction risk shall include matters relating to product and collateral types such as loan-to-value or lending-to-value measures, guarantees and seniority;
+                    (cc) the delinquency status of all relevant exposures, that is, the bank shall separately identify exposures that are delinquent and exposures that are not delinquent;
+                (ii) be sufficiently robust to ensure that the bank assigns each retail exposure to a relevant pool of retail exposures as part of the bank's loan approval process, which loan approval process shall make provision for-
+                    (aa) a meaningful differentiation of risk, that is, there shall be a meaningful distribution of borrowers and exposures across the relevant retail pools of exposure in order to ensure that no single pool of exposures results in undue concentration in relation to the bank's total retail exposure;
+                    (bb) a grouping of sufficiently homogenous exposures provided that the bank shall consider the risk drivers in respect of borrower risk, transaction risk and the delinquency status of retail exposures when the bank assigns a particular exposure to a particular retail pool of exposures;
+                    (cc) accurate and consistent estimates of loss characteristics at a pool level, that is, for each pool of retail exposures, the bank shall estimate the risk components of PD, LGD and EAD, provided that the number of exposures in a particular exposure pool shall be sufficient to allow for a meaningful quantification and validation of the loss characteristics at the pool level;
+                    (dd) regular review, but not less frequently than once a year, of the status of individual borrowers within each pool and the loss characteristics and delinquency status of each relevant pool, provided that the bank-
+                        (i) shall review all relevant risk characteristics as soon as material new information comes to the attention of the bank;
+                        (ii) may make use of a representative sample to review the status of individual borrowers within each pool;
+            (E) shall make provision for specific rating definitions and criteria in order to assign exposures to relevant risk grades, which definitions and criteria- (02-Regulations-part-2.pdf; pg 22)
+                (i) shall be plausible and intuitive in order to ensure a meaningful differentiation of risk;
+                (ii) shall be sufficiently detailed to allow-
+                    (aa) persons responsible for assigning of ratings to consistently assign borrowers or facilities that pose similar risk to the same grade;
+                    (bb) third parties such as the internal audit department or an equally independent function, and the Registrar, to understand the assignment of ratings and to evaluate the appropriateness of the grade or pool assignments;
+                (iii) shall be duly documented;
+                (iv) shall be consistent with the bank's internal lending standards;
+                (v) shall take into consideration all relevant and material information;
+                (vi) shall periodically be reviewed in order to ensure that the definitions and criteria remain relevant and current.
+            (F) shall incorporate an appropriate time horizon in order to assign a risk rating to a borrower, which rating shall be based on a sufficiently long time horizon-
+                (i) to estimate an obligor's probability of default;
+                (ii) to represent the borrower's ability and willingness to repay contractual obligations despite adverse economic conditions or the occurrence of unexpected events;
+            (G) shall be sufficiently robust to ensure that all relevant PD estimates of highly leveraged borrowers, or borrowers of which the assets consist predominantly of traded assets, reflect the performance of the relevant underlying assets based on periods of stressed volatilities;
+            (H) may include statistical models and mechanical methods to assign borrower and facility ratings or estimate PD ratios, LGD ratios and EAD amounts, which models and methods-
+                (i) shall take into account all relevant and material information;
+                (ii) shall be used appropriately;
+                (iii) shall have good predictive power;
+                (iv) shall incorporate a reasonable set of risk predictors and the bank shall have in place clear guidelines and processes to monitor situations in which variables or risk inputs were altered;
+                (v) shall be materially accurate across a range of borrowers or facilities;
+                (vi) shall not contain any known material biases;
+                (vii) shall be subject to a regular validation process of data inputs, including an assessment of accuracy, completeness and appropriateness;
+                (viii) shall be subject to written policies and procedures for human review and judgement, provided that when human judgement is used to override the obligor's output, the bank shall separately keep track of the performance of the relevant exposure;
+                (ix) shall be subject to regular backtesting.
+            (I) shall be duly documented, which documentation, as a minimum- (02-Regulations-part-2.pdf; pg 23)
+                (i) shall address matters such as-
+                    (aa) specific definitions of default and loss, which definitions shall materially be consistent with the definitions contained in this subregulation (11) and in regulation 67;
+                    (bb) portfolio differentiation; 
+                    (cc) rating criteria and the rationale for the bank's choice of particular internal rating criteria, provided that the bank shall be able to demonstrate to the satisfaction of the Registrar that the selected rating criteria and procedures are likely to result in ratings that meaningfully differentiate risk;
+                    (dd) the responsibilities of persons responsible for the rating of borrowers and facilities;
+                    (ee) definitions relating to rating exceptions and the persons authorised to approve any rating exceptions;
+                    (ff) the frequency of rating reviews;
+                    (gg) management oversight and the bank's internal control structure;
+                    (hh) the history of major changes in the bank's risk rating process;
+                (ii) shall provide adequate evidence of the bank's compliance with all relevant minimum requirements;
+                (iii) shall duly indicate any differences between the bank's risk estimates for purposes of complying with the IRB approach and for internal risk management purposes, such as pricing;
+                (iv) shall in the case of statistical models used in the bank's rating process, comprehensively deal with-
+                    (aa) the relevant methodologies, including a detailed outline of the theory, assumptions and/ or mathematical and empirical basis to assign risk estimate to risk grades, individual obligors, exposures or pools;
+                    (bb) the data sources used;
+                    (cc) the process to validate the model;
+                    (dd) any circumstances under which the model does not work effectively.
+            (J) shall be subject to appropriate independent review.
+        (vi) Risk quantification (#Heading) (02-Regulations-part-2.pdf; pg 24)
+            (A) Unless specifically otherwise provided, a bank shall in the case of exposures to corporate institutions, sovereigns or banks, estimate a PD ratio in respect of each internal borrower grade, which PD estimate-
+                (i) may be based on one or more of the three techniques specified below, provided that the underlying historical observation period shall be a minimum period of five years in respect of at least one of the said techniques. 
+                    (aa) Internal default experience
+                    A bank-
+                        (i) shall demonstrate that the PD estimates are based on the bank's underwriting standards and sufficiently reflect any differences between the rating system that generated the data and the bank's current rating system.
+                        (ii) may use pooled data provided that the bank shall demonstrate to the satisfaction of the Registrar that the internal rating systems and criteria of the other banks in the pool are comparable with the bank's own internal rating systems and criteria.
+                    (bb) Mapping to external data, that is, the bank may map its internal risk grades to a risk scale used by an eligible external credit assessment institution and then attribute the default rate observed in respect of the external credit assessment institution's grades to the bank's grades, provided that-
+                        (i)  the bank shall compare and avoid any biases or inconsistencies between the bank's internal rating criteria and the criteria used by the external institution;
+                        (ii) the bank shall compare and avoid any biases or inconsistencies between the internal and external ratings of any common borrowers;
+                        (iii)  the external institution’s criteria underlying quantification shall be oriented to the risk of borrower default and shall not reflect transaction characteristics;
+                        (iv) the bank shall compare and avoid any biases or inconsistencies between the definitions used in respect of default;
+                        (v) the bank shall document the basis on which the mapping was done.
+                    (cc) Statistical default models, that is, the bank may use a simple average of default-probability estimates in respect of individual borrowers assigned to a particular grade, which estimates were generated by statistical default prediction models, provided that the statistical model shall comply with the relevant minimum requirements specified in subparagraph (v)(G) above;
+                (ii) shall be based on the definition of default, specified in regulation 67;
+                (iii) shall be based on a population of exposures that closely matches or is at least comparable to the bank’s existing exposures and lending standards;
+                (iv) shall be based on economic and market conditions that are relevant and current;
+                (v) shall be a long-run average of the one-year default rates relating to the borrowers in a particular grade;
+                (vi) shall incorporate all relevant and material information;
+                (vii) shall take into account any changes in lending practice or the process for pursuing recoveries over the observation period;
+                (viii) shall be reviewed on a regular basis but not less frequently than once a year or when material new information is obtained;
+                (ix) shall be based on historical experience and empirical evidence;
+                (x) shall be based on a sufficient number of exposures and data periods that will ensure accurate and robust PD estimates;
+                (xi) shall be based on an estimation technique that performs well in out-of-sample tests;
+            (B) Unless specifically otherwise provided, a bank shall in the case of retail exposures estimate a PD ratio and a LGD ratio in respect of each retail pool of exposures, which PD estimate and LGD estimate- (02-Regulations-part-2.pdf; pg 27)
+                (i) shall be based on the bank's internal data as the primary source of information;
+                (ii) shall be based on a number of exposures in a particular exposure pool that is sufficient to allow for a meaningful quantification and validation of the loss characteristics;
+                (iii) shall be based on the definition of default, specified in regulation 67;
+                (iv) may rely on external data or statistical models for quantification provided that the bank shall demonstrate to the satisfaction of the Registrar a strong link between-
+                    (aa) the bank's process of assigning exposures to a particular pool and the process used by the external data source;
+                    (bb) the bank's internal risk profile and the composition of the external data;
+                (v) shall incorporate all relevant and material information;
+                (vi) shall be based on a population of exposures that closely matches or is at least comparable to the bank's existing exposures and lending standards;
+                (vii) shall be based on economic and market conditions that are relevant and current;
+                (viii) shall be based on an estimation technique that performs well in out-of-sample tests;
+                (ix) shall be reviewed on a regular basis but not less frequently than once a year or when material new information is obtained;
+                (x) shall be based on long-run average estimates of PD and default-weighted average loss rates given default, based on an estimate of the expected long-run loss rate, provided that-
+                    (aa) the bank may use an appropriate PD estimate to infer the long-run default-weighted average loss rate given default;
+                    (bb) the bank may use a long-run default-weighted average loss rate given default to infer the appropriate PD;
+                    (cc) the LGD ratio used to calculate the bank's IRB capital requirement shall not be less than the long-run default-weighted average loss rate given default;
+                (xi) shall, irrespective whether the bank is using external, internal, pooled data sources or a combination of the said three sources for the estimation of loss characteristics, be based on an underlying historical observation period of not less than five years, provided that the bank may with the prior written approval of the Registrar place more reliance on recent data when the said data better reflects loss rates in respect of the bank's retail exposures;
+            (C) Based on the definition of default specified in regulation 67, a bank shall record all actual defaults in respect of all exposures subject to the IRB approach; (02-Regulations-part-2.pdf; pg 28)
+            (D) When the status of a previously defaulted exposure subsequently changes, and as such no longer constitutes a defaulted exposure, the reporting bank shall rate the relevant obligor and estimate the relevant LGD ratio in a manner similar to a non-defaulted facility, provided that when the relevant exposure subsequently triggers one of the criteria relating to default, which criteria are specified in regulation 67, the relevant bank shall record a second default in respect of the said exposure;
+            (E) As a minimum, a bank-
+                (i) shall determine and specify a credit limit in respect of all authorised overdraft facilities, which credit limit-
+                    (aa) shall in writing be brought to the attention of the relevant client of the bank;
+                    (bb) shall on a continuous basis be monitored by the relevant bank for compliance with the limit by the relevant client;
+                (ii) shall assign a limit of zero to any unauthorised overdraft facility.
+            (F) Unless specifically otherwise provided, a bank that obtained the approval of the Registrar to apply the “top-down” approach for default risk and/or the IRB approach for dilution risk in respect of purchased corporate receivables or purchased retail receivables- (02-Regulations-part-2.pdf; pg 29)
+                (i) shall group the relevant receivables into sufficiently homogeneous pools in order to  accurately and in a consistent manner estimate PD ratios, LGD ratios or expected loss ratios for default risk and dilution risk;
+                (ii) shall comply with the relevant minimum risk quantification standards for retail exposures specified in item (B) above;
+                (iii) shall take into account all relevant information, including information in respect of the quality of the underlying receivables and data relating to similar pools;
+                (iv) shall establish whether or not the data provided by the seller in respect of the type, volume and on-going quality of the receivables are consistent with the bank's information;
+                (v) shall ensure that the bank maintains effective ownership and control over the cash remittances derived from the receivables, including in cases of seller or servicer distress or bankruptcy;
+                (vi) shall ensure that all relevant payments are forwarded completely and within the contractually agreed terms when the obligor makes payments directly to a seller or servicer;
+                (vii) shall be able to monitor the quality of the receivables and the financial condition of the seller or servicer;
+                (viii) shall assess any correlation between the quality of the receivables and the financial condition of the seller or servicer;
+                (ix) shall conduct periodic reviews in respect of sellers or servicers in order to-
+                    (aa) verify the accuracy of any reports received from the seller or servicer;
+                    (bb) detect any fraud or operational weaknesses;
+                    (cc) verify the quality of the seller's credit policies and servicer’s collection policies and procedures;
+                (x) shall duly document the findings of the reviews envisaged in sub-item (ix) above;
+                (xi) shall be able to assess the characteristics relating to the pool of receivable amounts, including-
+                    (aa) any relevant over-advances;
+                    (bb) the history relating to the seller's arrears, bad debts, and allowances for bad debt;
+                    (cc) payment terms;
+                    (dd) potential contra accounts;
+                (xii) shall receive timely and sufficiently detailed reports in respect of the ageing and dilution of receivable amounts in order to-
+                    (aa) ensure continuous compliance with the bank's eligibility criteria and policies relating to purchased receivables;
+                    (bb) monitor and confirm the seller's terms of sale;
+                (xiii) shall have in place clear and effective policies and procedures, and sufficiently robust information systems-
+                    (aa) to detect any concentration risk within and across pools of receivable amounts;
+                    (bb) to monitor compliance with all contractual terms of the facility, including covenants, advancing formulas, concentration limits and early amortisation triggers;
+                    (cc) to monitor compliance with the bank's internal policies in respect of advance rates;
+                    (dd) to limit inappropriate drawings;
+                    (ee) to effectively deal with financially weakened sellers or servicers and/or a deterioration in the quality of the pool of receivable amounts;
+                    (ff) to initiate legal actions or deal with problem receivables;
+                    (gg) that specify all material elements of the bank's programme relating to purchased receivables, including-
+                        (i) advance rates;
+                        (ii) eligible collateral;
+                        (iii) required documentation;
+                        (iv) concentration limits;
+                        (v) the manner in which cash receipts should be handled;
+                    (hh) that ensure that funds are advanced only when specified supporting collateral and documentation such as servicer attestations, invoices or shipping documents are received;
+                (xiv) shall have in place an effective internal control process in order to assess the bank's continued compliance with all critical policies and procedures, which internal control process shall include-
+                    (aa) regular internal and/or external audits of all critical phases of the bank's programme relating to purchased receivables;
+                    (bb) verification of the separation of duties between- 
+                        (i) the assessment of the seller or servicer and the assessment of the obligor;
+                        (ii) the assessment of the seller or servicer and the field audit of the seller or servicer;
+                    (cc) evaluations of the effectiveness of the back-office operations, with specific emphasis being placed on qualifications, experience, staffing levels and supporting systems.
+        (vii) Unless specifically otherwise provided, a bank that obtained the prior written approval of the Registrar to adopt the internal model market-based approach for the measurement of the bank's risk exposure in respect of equity instruments held in the bank's banking book shall in addition to such conditions as may be determined by the Registrar continuously comply with the quantitative and qualitative requirements specified below: (02-Regulations-part-2.pdf; pg 32)
+            (A) Quantitative requirements  (#Heading)
+            In order to calculate a bank's risk exposure relating to equity positions held in the bank's banking book in terms of the internal model market-based approach, the bank-
+                (i) may use any type of value-at-risk (“VaR”) model, including models based on variance-covariance, historical simulation or Monte Carlo, provided that the model-
+                    (aa) shall duly capture all material risks contained in the bank's equity positions, including general market risk and specific risk exposure;
+                    (bb) shall be sufficiently robust to adequately explain historical price variation;
+                    (cc) shall duly capture the magnitude of and changes in any concentration risk;
+                    (dd) shall be robust to adverse market conditions;
+                    (ee) shall be appropriate for the risk profile and complexity of the bank's equity positions, including positions in respect of non-linear instruments such as options;
+                    (ff) shall have good predictive power and shall not produce materially incorrect capital requirements;
+                    (gg) may with the prior written approval of the Registrar incorporate portfolio correlations into the bank's internal risk measures provided that the said correlations shall be based on empirical evidence and analysis;
+                (ii) may use modelling techniques such as historical scenario analysis, provided that the said modelling technique shall produce a capital requirement equivalent to a potential loss based on a 99" percentile, one-tailed confidence interval of the difference between quarterly returns and the appropriate risk-free rate computed over a long-term sample period;
+                (iii) may use single or multi-factor models, provided that- 
+                    (aa) the risk factors-
+                        (i) shall be sufficient to capture the risks inherent in the bank's equity portfolio;
+                        (ii) shall correspond to the appropriate equity market characteristics in which the bank holds significant positions;
+                    (bb) the bank shall demonstrate by way of empirical analyses, to the satisfaction of the Registrar, the appropriateness of the risk factors, including the risk factors’ ability to cover both general risk and specific risk;
+                (iv) shall calculate estimated losses, which estimated losses-
+                    (aa) shall be sufficiently robust to adverse market movements;
+                    (bb) shall be relevant to the long-term risk profile of the bank's specific equity holdings;
+                    (cc) shall incorporate all relevant and material data, information and methods;
+                    (dd) shall be based on-
+                        (i) realistic long-run experience, including a period of a reasonably severe decline in equity prices;
+                        (ii) a number of risk exposures in the sample and a data period sufficient to provide the bank with confidence in respect of the accuracy and the robustness of its estimates;
+                (v) shall use internal data and/or data from external sources, including pooled data, which data-
+                    (aa) shall reflect the longest sample period for which data are available;
+                    (bb) shall be meaningful in the sense that the data shall represent the risk profile of the bank's specific equity holdings;
+                    (cc) shall be sufficient to provide conservative, statistically reliable and robust loss estimates;
+                    (dd) shall be closely matched to or comparable with the bank's equity exposures;
+                    (ee) shall be independently reviewed.
+            (B) Qualitative requirements (#Heading)
+            A bank that adopted the internal model market-based approach for the calculation of the bank's risk exposure in respect of equity instruments held in the bank's banking book shall comply with the relevant qualitative requirements specified in regulation 39(14) (a).
+        (viii) Data maintenance (#Heading)
+        As a minimum, a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk shall collect and store data in respect of all key borrower and facility characteristics, which data-
+            (A) shall provide effective support to the bank's internal credit risk measurement and management process;
+            (B) shall be sufficiently detailed to allow retrospective re-allocation of obligors and facilities to the bank's various risk grades;
+            (C) shall in the case of corporate, sovereign or bank exposures include-
+                (i) the rating histories in respect of obligors and eligible guarantors;
+                (ii) the date on which a rating was assigned;
+                (iii) the methodology, key data and the model/person used to derive the rating;
+                (iv) the identity of borrowers and facilities that defaulted, and the timing and circumstances of such defaults;
+                (v) the PD ratios and realised default rates associated with the bank's rating grades;
+                (vi) rating migration in order to keep track of the predictive power of the rating system;
+            (D) shall in the case of retail exposures include-
+                (i) the data that was used to allocate particular exposures to particular pools, including the data relating to borrower and transaction risk characteristics;
+                (ii) the data in respect of delinquent exposures;
+                (iii) data related to the estimated PD ratios, LGD ratios and EAD amounts associated with each relevant pool of exposures;
+            (E) shall in the case of defaulted retail exposures include data in respect of the pool to which the exposure was assigned during the year preceding the default and the realised outcomes in respect of the LGD ratio and the EAD amount.
+        (ix) Stress testing (#Heading) (02-Regulations-part-2.pdf; pg 35)
+        As a minimum, a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk shall have in place a stress-testing process in respect of the bank's exposure to credit risk, which stress testing process-
+            (A) shall include an identification of possible events or future changes in economic conditions that may have an unfavourable effect on the bank's risk exposures and an assessment of the bank's ability to withstand such events or changes, which events or changes may include-
+                (i) economic or industry downturns;
+                (ii) market-risk events;
+                (iii) liquidity constraints;
+                (iv) mild recession scenarios;
+            (B) shall in the case of protected exposure subject to the double default approach envisaged in subregulation (12)(g) include an assessment of the impact of-
+                (i) a deterioration in the credit quality of protection providers, in particular the impact of protection providers falling outside the eligibility criteria specified in subregulation (12)(g) due to rating changes;
+                (ii) the default of one but not both the obligor and the protection provider, and the consequent increase in risk exposure and the required amount of capital and reserve funds at the time of the said default;
+            (C) shall be meaningful, based on the environment in which the bank conducts business;
+            (D) shall assess the effect of a recession on the bank's PD ratios, LGD ratios and EAD amounts;
+            (E) shall make provision for an internal ratings migration in respect of at least some of the bank's exposure to credit risk;
+            (F) shall appropriately evaluate evidence of rating migration in respect of external ratings.
+        (x) Validation of internal estimates (#Heading)
+        As a minimum, a bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk-
+            (A) shall have in place a robust system to validate the accuracy and consistency of the bank's rating systems and processes, including all estimates of relevant risk components, which internal assessments shall be based on long data histories, covering a range of economic conditions and ideally one or more complete business cycles;
+            (B) shall regularly compare realised default rates with estimated PD ratios in respect of each grade and shall demonstrate to the satisfaction of the Registrar that the realised default rates are within the expected range for a particular grade;
+            (C) shall duly document the data and the methods used to compare realised default rates with estimated PD ratios in respect of each grade, including the periods that were covered and any changes in the data and methods that were used, which analysis and documentation shall be updated at appropriate intervals, but not less frequently than once every year;
+            (D) shall make use of quantitative validation tools and comparisons with relevant external data sources in order to validate the bank's internal estimates of risk components;
+            (E) shall demonstrate to the satisfaction of the Registrar that the bank's quantitative testing methods and validation methods do not vary systematically with the economic cycle;
+            (F) shall have in place sufficiently robust internal standards to deal with situations where realised PD ratios deviate substantially from expected PD ratios provided that when the realised values continue to be higher than expected values the bank shall adjust its estimates of risk components upward in order to reflect the appropriate default and loss experiences.
+        (xi) Disclosure (#Heading)
+        A bank that obtained the approval of the Registrar to adopt the IRB approach for the measurement of the bank's exposure to credit risk shall disclose in its annual financial statements and other disclosures to the public sufficiently detailed qualitative and quantitative information in accordance with the relevant requirements specified in regulation 43(2).
+        (xii) Securitisation and/or resecuritisation exposures (#Heading) (02-Regulations-part-2.pdf; pg 37)
+        A bank that obtained the prior written approval of the Registrar to adopt the IRB approach for the measurement of the bank's exposure to credit risk shall apply the IRB approach for the measurement of the bank's securitisation or resecuritisation exposure, provided that-
+            (A) the bank shall in addition to such conditions as may be specified in writing by the Registrar comply with the relevant requirements specified in this subparagraph (xii) and the relevant requirements specified in paragraphs (e) to (p) below;
+            (B) unless the Registrar determines otherwise, a bank that adopted the IRB approach in respect of some underlying exposures and the standardised approach in respect of the remainder of underlying credit exposures shall apply the approach that relates to the predominant part of underlying credit exposures in respect of the bank's exposure to a securitisation scheme or resecuritisation exposure;
+            (C) when no specific IRB treatment is specified in respect of a particular underlying asset type, a bank that obtained the approval of the Registrar to adopt the IRB approach, which bank-
+                (i) acts as an originator, shall apply the standardised approach specified in subregulation (6)(h) above to calculate the bank's capital requirement in respect of the relevant securitisation or resecuritisation exposure;
+                (ii) does not act as an originator in respect of the securitised or resecuritised assets or exposures, but instead invests in an instrument issued in respect of the securitisation or resecuritisation scheme, shall apply the ratings-based approach specified in paragraph (e) below to calculate the bank's capital requirement in respect of the relevant securitisation or resecuritisation exposure.
+            (D) when-
+                (i) a securitisation or resecuritisation exposure is rated or a rating can be inferred as envisaged in paragraphs (e) and (f) below, the bank shall apply the ratings-based approach specified in
+                paragraph (e) below to the relevant securitisation or resecuritisation exposure;
+                (ii) an external or inferred rating is not available in respect of a securitisation or resecuritisation exposure, the bank shall apply the internal assessment approach or standard formula approach respectively specified in paragraphs (g) and (i) below, provided that the internal assessment approach shall be applied only to exposures that relate to an asset-backed commercial-paper programme, which exposures shall comply with the relevant requirements specified in paragraph (g) below;
+                (iii) the bank or another institution within the banking group of which such a bank is a member, acting as a servicing agent, a repackager, a sponsor in respect of a securitisation scheme other than an asset-backed commercial paper programme or a sponsor in respect of an asset-backed commercial paper programme provides a liquidity facility in respect of such a securitisation scheme, which liquidity facility complies with the relevant conditions specified in paragraph 7 of the exemption notice relating to securitisation schemes, the said bank or institution shall in the case of-
+                    (aa) a rated liquidity facility apply-
+                        (i) the ratings-based approach specified in paragraph (e) below;
+                        (ii) a credit-conversion factor of 100 per cent to the relevant rated liquidity facility;
+                    (bb) an unrated facility in respect of which an inferred rating is not available apply-
+                        (i) the internal assessment approach specified in paragraph (g) below, provided that the bank shall comply with the relevant requirements specified in paragraphs (g) and (h) below, or
+                        (ii) the standard formula approach specified in paragraph (i) below;
+                    (cc) an eligible liquidity facility that may only be drawn in the event of a general market disruption apply a 100 per cent credit-conversion factor in terms of the ratings-based approach when the facility is externally rated;
+                    (dd) a facility in respect of which neither the bottom-up approach nor the top-down approach can be applied to calculate the Kiags amount specified in paragraph (k) below, apply the highest risk weight assigned in terms of the standardised approach to any of the underlying individual exposures covered by the liquidity facility and a credit-conversion factor of 100 per cent;
+                    (ee) all liquidity facilities other than the liquidity facilities envisaged above, assign to the relevant notional amount of the said liquidity facility a risk weight of 1250 per cent, or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds,
+                Provided that a bank that acts as an originator shall in no case provide any liquidity facility in respect of the securitisation scheme in respect of which that bank acts as such an originator.
+                (iv) the bank or another institution within the banking group of which such a bank is a member, acting as a servicing agent, provides an eligible servicer cash advance facility in respect of a securitisation scheme, that is, a facility that, amongst other things, complies with the relevant conditions specified in paragraphs 7 and 9 of the exemption notice relating to securitisation schemes, the said bank or institution may in the case of any undrawn servicer cash advance facility that is unconditionally cancellable by the said bank or institution without prior notice, apply a credit-conversion factor of nil per cent in respect of the said undrawn facility, provided that-
+                    (aa) the said facility shall duly state that the servicing agent is under no obligation to advance funds to investors or the special-purpose institution in terms of the servicer cash advance  facility;
+                    (bb) any cash advance made by the servicing agent shall be at the servicing agent's sole discretion and solely to cover an unexpected temporary shortfall that arose from delayed payments;
+                    (cc) the servicing agent's rights for reimbursement in terms of the said cash advance facility shall be senior to any other claim on cash flows arising from underlying exposures or collateral held in respect of the securitisation scheme;
+                    (dd) a bank that acts as an originator shall in no case provide any servicer cash advance facility in respect of the securitisation scheme in respect of which that bank acts as such an originator.
+                (v) none of the approaches specified in sub-items (i) or (ii) above can be applied to a securitisation exposure other than a liquidity facility, the bank shall assign to the relevant exposure amount a risk weight of 1250 per cent, or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds.
+            (E) in all relevant cases in respect of which a bank applies the standard formula approach, a floor risk weight of-
+                (i) 7 per cent shall apply in respect of a securitisation exposure;
+                (ii) 20 per cent shall apply in respect of a resecuritisation exposure;
+            (F) the bank shall treat any exposures that overlap in accordance with the relevant requirements specified in subregulation (6)(h) above;
+            (G) the bank shall treat any exposure relating to a securitisation scheme that contains an early amortisation mechanism in accordance with the relevant requirements specified in paragraph (p) below;
+            (H) the bank shall comply with the relevant requirements specified in subregulation (12) when the bank obtains any protection in respect of a securitisation exposure;
+            (I) the maximum amount of capital to be maintained by a bank that adopted the IRB approach for the measurement of the bank's exposures relating to a securitisation scheme shall be equal to the amount of capital that the bank would have been required to maintain in respect of the underlying credit exposures had the exposures not been securitised, which amount shall be calculated in accordance with the relevant requirements specified in subregulations (10), (11) and (12), read with the relevant provisions of subregulations (21) and (22), provided that the bank shall deduct from its common equity tier 1 capital and reserve funds the entire amount included in the bank's capital and reserve funds in respect of any gain-on-sale or credit- enhancing interest-only strips that arose from the securitisation transaction.
+
+    (c) Categorisation of exposures (#Heading) (02-Regulations-part-2.pdf; pg 42)
+    A bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk shall categorise its banking book exposures into one and apply the IRB approach in respect of all material asset categories specified below:
+        (i) Corporate exposure (#Heading)
+        When a bank is engaged in specialised lending activities the bank shall subdivide any corporate exposure resulting from such specialised lending activities into one of the categories specified below:
+            (A) Project finance (#Heading)
+            Normally project finance relates to the provision of funds to a special-purpose institution for the acquisition or construction of large and complex installations such as power plants, mines or chemical processing plants, the repayment of which funds is based solely or almost exclusively on the funds generated by the relevant project and the collateral value of the project's assets, that is, the borrower of the funds has no or little independent capacity to repay the obligations arising from the borrowed funds, and in respect of which specialised lending agreement the reporting bank has a substantial degree of control over the said asset and the income produced by that asset.
+            (B) Object finance (#Heading)
+            Normally object finance relates to the provision of funds to a special-purpose institution for the acquisition of physical assets such as ships or aircrafts, the repayment of which funds is based solely or almost exclusively on the cash flows generated by the relevant asset and which assets are usually pledged as security to the lending bank, that is, the borrower of the funds has no or little independent capacity to repay the obligations arising from the borrowed funds, and in respect of which specialised lending agreement the reporting bank has a substantial degree of control over the said asset and the income produced by that asset.
+            (C) Commodity finance (#Heading)
+            Normally commodity finance relates to the provision of funds in respect of structured short-term lending in order to finance, for example, inventories or receivables from exchange-traded commodities such as crude oil, metals or crops, the repayment of which funds is based solely or almost exclusively on the proceeds derived from the sale of the commodity, that is, the borrower of the funds has no or little independent capacity to repay the obligations arising from the borrowed funds and the exposure's rating reflects its self-liquidating nature.
+            (D) Income-producing real estate (#Heading)
+            Normally income-producing real estate relates to the provision of funds for real estate such as office buildings to let, multifamily residential buildings, industrial or warehouse space and hotels, the repayment of which funds is based solely or almost exclusively on the cash flows generated by the asset, such as lease or rental payments, or the sale of the asset, that is, there is a strong positive correlation between the prospects for the repayment of the exposure and the prospects for the recovery in the event of default, with both events being materially dependent upon the cash flows generated by the relevant property.
+            (E) High-volatility commercial real estate (#Heading)
+            For the purposes of these Regulations, a bank shall classify any funding provided in respect of commercial real estate that exhibits higher loss rate volatility, that is, higher asset correlation, than other types of specialised lending as a high-volatility commercial real estate exposure, including-
+                (i) exposures in respect of commercial real estate in respect of which the sources of repayment are uncertain on the date of origination of the exposure, such as the future uncertain sale of the property;
+                (ii) such exposures relating to commercial real estate as may be specified in writing by the Registrar.
+        When the repayment of a debt obligation of a corporation, partnership or proprietorship is not solely or almost exclusively based on the cash flows envisaged in items (A) to (E) above and the bank is able to rate the credit quality of the obligor based on the obligor's broader ongoing operations and independent capacity to repay its debt obligations, the bank shall classify the said exposure as a corporate exposure instead of one of the subcategories envisaged in items (A) to (E) above.
+        (ii) Sovereign exposure (#Heading)
+        A bank shall include in the category of sovereign exposure all exposures that qualify as sovereign exposure in terms of the provisions of the standardised approach envisaged in subregulation (5) read with subregulations (6) and (8), including-
+            (A) the Central Government of a particular country;
+            (B) the Central Bank of a particular country;
+            (C) the Central Government of the RSA;
+            (D) the Central Bank of the RSA;
+            (E) the multilateral development banks that qualify for a zero per cent risk weight;
+            (F) the Bank for International Settlements (BIS);
+            (G) the International Monetary Fund (IMF);
+            (H) the European Central Bank (ECB).
+        (iii) Bank exposure (#Heading)
+        A bank shall include in this category all relevant exposures to banks, including-
+            (A) exposures to securities firms and public-sector bodies that are treated in a manner similar to exposures to banks in terms of the provisions of the standardised approach, in subregulation (5) read with the provisions of subregulations (6) and (8);
+            (B) banks in the RSA;
+            (C) multilateral development banks that do not qualify for a zero per cent risk weight in terms of the provisions of the standardised approach, in subregulation (5) read with the provisions of subregulations (6) and (8) above.
+        (iv) Retail exposure (#Heading) (02-Regulations-part-2.pdf; pg 45)
+        A bank-
+            (A) shall not classify an exposure as a retail exposure unless the relevant exposure complies with the relevant requirements specified in sub-items (i) to (iii) below and in all cases with the requirements specified in sub-item (iv) below:
+                (i) Exposure to an individual (#Heading)
+                The exposure shall be to an individual and shall relate to revolving credit or a line of credit such as a credit card receivable, an overdraft facility, a personal term loan or lease, instalment finance, a loan or lease in respect of a vehicle, a student or educational loan, personal finance, or other exposures with similar characteristics, regardless of the extent of the exposure provided that the Registrar may specify specific thresholds in order to distinguish between retail and corporate exposures.
+                (ii) Residential mortgage loans or exposure (#Heading)
+                The exposure shall be secured by mortgage in respect of residential property as envisaged in subregulation (6)(c) above, including first and subsequent liens, term loans and revolving home equity lines of credit, regardless of the extent of the exposure, provided that the Registrar may specify limits in respect of the maximum number of housing units per exposure or persons other than individuals to which the exposure relates.
+                (iii) Loans or lending extended to small businesses and managed as retail exposure (#Heading)
+                The exposure-
+                    (aa) shall be in the form of lending extended to a small business or a small business loan extended or guaranteed by an individual;
+                    (bb) shall be managed by the bank as a retail exposure, that is, the exposure, for example, shall be originated in a manner similar to other retail exposures;
+                    (cc) shall be managed on a portfolio basis and not individually in a manner comparable to corporate exposure, provided that-
+                        (i) the aggregate amount of the exposure of the reporting banking group to the said small business borrower shall at no time exceed an amount of R7,5 million;
+                        (ii) the Registrar may from time to time specify a threshold amount lower than the aforesaid amount of R7,5 million.
+                (iv) Large number of exposures (#Heading)
+                The exposure shall be one of a large pool of exposures, which exposures shall be managed by the bank on a pooled basis, that is, exposures shall be managed as part of a portfolio segment or pool of exposures with similar risk characteristics, provided that the Registrar may specify a minimum number of exposures within a pool.
+            (B) shall subdivide all the relevant exposures that meet the requirements specified in item (A) above into one of the three retail subcategories specified in this item (B), that is, each exposure that meets the requirements specified in item (A) above shall be assigned to one of the three pools of exposure specified below:
+                (i) Exposures secured by residential property (#Heading)
+                A bank shall include in this pool of exposures only those exposures that comply with the requirements specified in item (A) (ii) above.
+                (ii) Qualifying revolving retail exposures (#Heading)
+                In order for a portfolio of exposures to be classified as qualifying revolving retail exposures, the exposures-
+                    (aa) shall be revolving in nature, that is, based on the decision of the relevant obligor to borrow or repay funds within a predetermined limit approved by the bank the outstanding balance of the relevant exposure is permitted to fluctuate;
+                    (bb) shall be unsecured;
+                    (cc) shall be revocable, that is, an uncommitted facility, both contractually and in practice;
+                    (dd) shall be to individuals and the maximum exposure to a single individual counterparty or obligor in the subportfolio shall not exceed an amount of R1 million, provided that the Registrar may specify a lower threshold amount;
+                    (ee) shall exhibit low volatility in loss rates.
+                (iii) Other retail exposures (#Heading)
+                A bank shall classify all exposures that qualify as retail exposures, other than exposures secured by residential property or qualifying revolving retail exposures, as other retail exposures.
+            (C) shall, when the bank assigns an exposure to a particular pool, consider-
+                (i) the risk characteristics relating to the borrower, such as the borrower type or demographics such as age or occupation;
+                (ii) the risk characteristics relating to the transaction, including product and/or collateral types such as the loan or lending-to-value measures, seasoning, guarantees and seniority;
+                (iii)  the delinquency of the exposure, that is, the bank shall distinguish between exposures that are delinquent and those exposures that are not delinquent.
+        (v) Equity exposure (#Heading)
+        Based on-
+            (A) the relevant requirements specified in regulation 31;
+            (B) the economic substance and not the legal form of an instrument,
+        a bank shall categorise its equity exposures or instruments held in the bank's banking book.
+        (vi) Purchased receivables (#Heading)
+        Based on the relevant criteria specified in this paragraph (c), a bank shall subdivide its purchased receivables between retail receivables and corporate receivables.
+        (vii) Cash and cash equivalent items (#Heading)
+        This category of exposure shall include all cash and cash equivalent amounts.
+        For the purposes of this subregulation (11)(c), cash equivalent amounts shall include any amount relating to gold bullion.
+        (vii) Securitisation or resecuritisation exposures (#Heading)
+        This category of exposure shall include any exposure relating to a securitisation scheme or resecuritisation exposure, including asset-backed securities, mortgage-backed securities, credit enhancement, liquidity facilities and relevant interest-rate swaps or currency swaps.
+        (ix) Other exposures (#Heading)
+        A bank shall classify all exposures other than the exposures envisaged in subparagraphs (i) to (viii) above as other exposures.
+    (d) Risk-weighted exposure (#Heading) (02-Regulations-part-2.pdf; pg 48)
+        (i) Unless specifically otherwise provided in this paragraph (d), in order to calculate its risk-weighted credit exposure, a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book-
+            (A) shall in the case of exposures other than retail exposures and purchased retail receivables calculate its own estimate of probability-of-default (“PD”) in respect of each relevant borrower grade or credit exposure;
+            (B) shall in the case of retail exposures and purchased retail receivables calculate its own estimate of PD in respect of each relevant pool of retail exposures;
+            (C) shall in the case of exposures other than retail exposures and purchased retail receivables apply standardised estimates in respect of loss-given-default (“LGD”), exposure-at-default (“EAD”) and maturity (“M”), which standardised estimates-
+                (i) are specified below in respect of each relevant asset class; or
+                (ii) shall be determined by the Registrar;
+            (D) shall in the case of retail exposures and purchased retail receivables calculate its own estimates of LGD and EAD;
+            (E) shall apply the risk-weight functions and risk components in respect of the various exposure categories envisaged in paragraph (c) above in accordance with the relevant requirements specified in this paragraph (d);
+            (F) shall in the case of securitisation exposures apply the risk-weight functions and risk components in respect of the various types of securitisation exposure in accordance with the relevant requirements specified in paragraphs (e) to (p) below.
+        (ii) Corporate, sovereign and bank exposures (#Heading)
+        A bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk shall calculate its risk-weighted assets in respect of corporate, sovereign or bank exposures through the application of the formula and risk components specified below:
+            (A) In the case of an exposure other than an exposure to a small or medium sized entity (“SME”), which exposure is not in default, as follows in formula 11: (02-Regulations-part-2.pdf; pg 49)
+                #Formula 11 (02-Regulations-part-2.pdf; pg 49)
+                $RWA = Kx 12,5 x EAD$
+                where:
+                $RWA$ is the risk weighted asset amount.
+                $K$ is the capital requirement, which capital requirement shall be calculated through the application of the formula specified below
+                    $ K = [LGD \times N [(1 - R)^{-0.5} \times G (PD) + (R/(1 - R))^{0.5} \times G(0.999)] - PD \times LGD] \times (1 - 1.5 x b)^{-1} \times (1 + (M-2.5) x b) $
+                    Provided that when the calculation of K results in a negative capital requirement in respect of a particular exposure, the bank shall apply a capital requirement equal to zero in respect of the relevant exposure
+                $PD$ is the probability of default, and constitutes a ratio
+                    In the case of exposures to-
+                    (i) corporate institutions or banks, the PD ratio shall be equal to the higher of the one-year PD associated with the relevant internal grade to which the exposure is assigned, or 0.03 per cent;
+                    (ii) sovereigns, the PD ratio shall be the one-year PD ratio associated with the relevant internal grade to which the exposure is assigned;
+                    (iii) intragroup banks or other formally regulated intragroup financial entities with capital requirements similar or equivalent to these Regulations, which banks or entities are included in the consolidated amounts calculated in accordance with the relevant requirements specified in these Regulations in respect of consolidated supervision, the PD ratio shall be deemed to be equal to zero.
+                $LGD$ is the loss-given-default ratio
+                    In the case of-
+                    (i) senior claims not secured by eligible collateral, a bank shall apply a ratio of 45 per cent;
+                    (ii) subordinated claims, that is, a facility that is expressly subordinated to another facility, a bank shall apply a ratio of 75 per cent.
+                $M$ is the effective maturity of the relevant exposure, which maturity shall be regarded as being equal to 2.5 years unless the exposure relates to a repurchase or resale transaction in which case an effective maturity equal to six months shall apply, provided that-
+                    (i) the Registrar may require; or
+                    (ii) on prior written application by the reporting bank and subject to such conditions as may be specified in writing, the Registrar may allow,
+                    a bank to calculate the effective maturity of a particular exposure in accordance with the relevant requirements specified in subregulation (13) (d)(ii)(B) below     
+                $R$ is the relevant correlation, which correlation shall be calculated through the application of the formula specified below
+                    $R= 0.12 \times (1 - \exp(-50 x PD)) / (1 - \exp(-50)) + 0.24 \time [1 - (1 - \exp(-50 x PD))/(1 - \exp(-50))]$
+                    Provided that the bank shall apply a multiplication factor of 1.25 to the aforesaid correlation parameter $R$, such that correlation $R_{FI}; = 1.25 x R$,in respect of all relevant exposures to financial institutions, as follows:
+                    (i) any regulated financial institution with total assets greater than or equal to R700 billion,
+                        (aa) which asset amount shall be based on the most recent consolidated audited financial statements of the relevant parent company and its relevant subsidiaries;
+                        (bb) which regulated financial institutions shall forpurposes of these Regulations include any parent institution and its subsidiaries, where any relevant substantial legal entity in the consolidated group is supervised by a regulator that imposes prudential requirements consistent with such international norms as may be specified in writing by the Registrar, which institutions shall include, but are not limited to, prudentially regulated insurance companies, broker/dealers and banks;
+                    (ii) any unregulated financial institution, regardless of size, which unregulated financial institutions shall for purposes of these Regulations include legal entities of which the main business includes-
+                        (aa) the management of financial assets;
+                        (bb) lending;
+                        (cc) factoring;
+                        (dd) leasing;
+                        (ee) provision of credit enhancements;
+                        (ff) securitisation or resecuritisation;
+                        (gg) investments;
+                        (hh) financial custody;
+                        (ii) central counterparty services;
+                        (jj) proprietary trading; or
+                        (kk) such other financial services activities as may be specified or directed in writing by the Registrar
+                $b$ is the relevant maturity adjustment, which maturity adjustment shall be calculated through the application of the formula specified below
+                    $b= (0.11852 - 0.05478 x \ln(PD))^{2}$
+                $N(x)$ denotes the cumulative distribution function for a standard normal random variable, that is, the probability that a normal random variable with a mean equal to zero and variance of one is less than or equal to $x$.
+                $G(z)$ denotes the inverse cumulative distribution function for a standard normal random variable, that is, the value of $x$ such that $N(x) = z$.
+                $EAD$ is the exposure at default, which exposure shall be measured gross of any specific credit impairment raised or partial write-offs made by the reporting bank.
+                    A bank shall measure its exposure at default in accordance with the relevant requirements specified below:
+                        (i) In the case of any drawn amounts, the exposure at default shall be equal to the sum of the drawn amounts after the effect of set-off in accordance with the relevant requirements specified in regulation 13 has been recognised, provided that the said exposure shall not be less than the sum of-
+                            (aa) the amount by which the bank's capital requirement would be reduced when the exposure amounts are written off in full; and
+                            (bb) any specific credit impairment raised or partial write-off made by the reporting bank in respect of the relevant exposure amounts.
+                        (ii) In the case of off-balance-sheet items other than unsettled derivative contracts, the exposure at default shall be equal to the sum of committed but undrawn amounts multiplied by the relevant credit conversion factors specified in subregulation (6)(g), provided that-
+                            (aa) in the case of any irrevocable undrawn commitment, note-issuance facility or revolving underwriting facility, instead of the  credit-conversion factors specified in subregulation (6)(g), the bank shall apply a credit-conversion factor of 75 per cent irrespective of the maturity of such commitments, note-issuance facilities or revolving underwriting facilities, unless the said exposures or a portion of the said exposures constitutes an uncommitted or revocable facility in which case the bank shall apply a_ credit-
+                            conversion factor equal to zero per cent in respect of the said uncommitted or revocable exposure, provided that in the case of-
+                                (i) a constraining condition in respect of an unused committed facility, such as a limit on the available amount, which limit may relate to the financial position of the relevant obligor at a point in time, the bank shall apply the relevant credit-conversion factor to the lower amount of the unused committed facility and the said constraining limit;
+                                (ii) a facility with a constraining condition as envisaged in item (i) above, the reporting bank shall have in place sufficiently robust
+                                line monitoring and management procedures that demonstrate to the satisfaction of the Registrar the ability of the bank to enforce the said constraining limit;
+                                (iii) any uncommitted or revocable facility the reporting bank shall demonstrate to the satisfaction of the Registrar that the bank actively monitors the financial condition of the relevant obligor and that the internal control systems of the bank are adequate to cancel a facility upon receiving evidence of a deterioration in the credit quality of the relevant obligor;
+                            (bb) when a commitment is obtained in respect of another off-balance-sheet exposure, the bank shall apply to the relevant exposure the lower of the relevant credit-conversion factors.
+                        (iii) In the case of unsettled derivative contracts, the exposure amount or exposure at default shall be equal to the sum of amounts calculated in accordance with the relevant requirements specified in subregulations (15) to (19) below.
+                #Formula 11 - end
+            (B) In the case of an exposure that is in default- (02-Regulations-part-2.pdf; pg 54)
+                (i) the capital requirement (K) shall be equal to the higher of zero and the difference between the exposure's LGD and the bank's estimate of expected loss.
+                The risk-weighted amount in respect of the defaulted exposure shall be calculated through the application of the formula 12 specified below.
+                    #Formula 12
+                    $RWA =K x12,5 x EAD$
+                    #Formula 12 - end
+                (ii) a bank shall assign to the relevant exposure a PD ratio equal to 100 per cent.
+            (C) In the case of an exposure to an SME borrower, which SME borrower would otherwise be categorised as a corporate exposure, the bank shall make an adjustment to the formula specified in item (A) above, which adjustment shall be calculated through the application of the formula 13 specified below, provided that the reported sales for the consolidated group of which the SME borrower is a member shall be less than R400 million, provided that, subject to such conditions as may be specified in writing, the Registrar may specify in writing a different threshold amount or base, such as assets instead of sales.
+                #Formula 13
+                $0.04 \times (1 - (S - 40)/360) $
+                where:
+                $S$ shall be the total annual sales expressed in millions of Rand and the values of $S$ falling in the range of R40 million $ \leq S \leq $ R400 million
+                For the purposes of the aforesaid adjustment, sales of less than R40 million shall be deemed to be equal to R 40 million
+                $R$ is the relevant correlation, which correlation shall be calculated through the application of the formula specified below
+                $R= 0.12 \times (1 - \exp(-50 \times PD)) / (1 - \exp(-50)) + 0.24 \times [1 -(1 - \exp(-50 x PD))/(1 - \exp(-50))] - 0.04 \times (1 - (S-40)/360)$
+                #Formula 13 - end
+        (iii)  Specialised lending (#Heading)
+            (A) Subject to the provisions of items (B) and (C) below, a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk shall calculate its risk-weighted exposure in respect of specialised lending in accordance with the relevant requirements relating to corporate exposure specified in subparagraph (ii) above, provided that the bank shall comply with the relevant requirements for the estimation of PD ratios in respect of corporate exposure.
+            (B) In the case of high-volatility commercial real estate exposure, a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk shall apply the asset correlation formula 14 specified below, instead of the asset correlation formula that would otherwise apply to corporate exposures.
+                #Formula 14
+                $R= 0.12 \times (1 - \exp(-50 x PD)) / (1 - \exp(-50)) + 0.30 x [1 - (1 -\exp(-50 x PD))/(1 - \exp(-50))]$
+                #Formula 14 - end
+            (C) When a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk is unable to comply with the prescribed requirements to estimate the probability of default in terms of the foundation IRB approach for corporate exposure or the Registrar directs a bank to map its internal risk grades to the risk grades specified below, the bank shall map its internal risk grades, which internal risk grades shall be based on the bank's own criteria, systems and processes, to the risk grades specified below, which specified risk grades shall be linked to the risk weights for unexpected loss, and are likely to correspond to the range of external credit assessments, specified below:
+                #Table
+                Many from (02-Regulations-part-2.pdf; pg 56) to (02-Regulations-part-2.pdf; pg 74)
+                #Table - end
+
+
+        (iv) Retail exposures (#Heading) (02-Regulations-part-2.pdf; pg 77)
+        A bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk shall calculate its risk-weighted assets in respect of retail exposures through the application of the relevant formulae and risk components specified below:
+            (A) In the case of residential mortgage exposures, which residential mortgage exposures are not in default as per #Formula 15, as follows:
+                #Formula 15
+                $RWA = K \times 12,5 \times EAD$
+                where:
+                $RWA$ is the relevant risk-weighted asset amount
+                $K$ is the capital requirement, which capital requirement shall be calculated through the application of the formula specified below
+                    $K= LGD \times N[(1 - R)^{-0.5} x G(PD) + (R/ (1 - R))^{0.5} \times G(0.999)] - PD \times LGD$
+                $PD$ is the probability of default, and constitutes a ratio
+                A bank shall apply a PD ratio equal to the higher of the one-year PD associated with the relevant internal grade to which the pool of exposures is assigned, or 0.03 per cent.
+                $LGD$ is the loss-given-default ratio estimated by the bank, provided that-
+                    (i) the LGD estimate in respect of retail exposures secured by residential property shall in no case be less than 10 per cent unless the said exposure is protected by a guarantee obtained from a sovereign;
+                    (ii) the Registrar may amend the minimum LGD ratio of 10 per cent subject to such conditions as may be specified in writing by the Registrar.
+                $R$ is the correlation, which correlation shall be a constant number equal to 0.15
+                $EAD$ is the exposure at default, which exposure shall be measured gross of any specific credit impairment raised or partial write-offs made by the reporting bank 
+
+                A bank shall measure its exposure at default as follows:
+                (i) In the case of any drawn amounts, the exposure at default shall be equal to the sum of the drawn amounts after the effect of set-off in accordance with the relevant requirements specified in regulation 13 has been recognised, provided that the said exposure shall not be less than the sum of-
+                    (aa) the amount by which the bank's capital requirement would be reduced when the exposure amounts are written off in full; and
+                    (bb) any specific credit impairment raised or partial write-off made by the reporting bank in respect of the exposure amounts.
+                (ii) In the case of off-balance-sheet items other than foreign exchange or interest rate commitments, the exposure at default shall be equal to the sum of any committed but undrawn amounts multiplied by the credit conversion factors estimated by the reporting bank, provided that-
+                    (aa) when the relevant retail exposures have uncertain future drawdown, such as credit cards, the bank shall take into account its history and/or expectation of additional drawings prior to default;
+                    (bb) when the bank's estimate of EAD does not incorporate credit conversion factors in respect of additional drawings on undrawn lines prior to default, the bank shall make appropriate adjustments to its estimates of LGD;
+                    (cc) when the bank has securitised the drawn balances of retail facilities, the bank shall by way of credit-conversion factors continue to include its exposure in respect of the undrawn balances, that is, the seller's interest, based on the proportions of the sellers and investor's interests of the securitised drawn balances.
+                (iii) In the case of foreign exchange or interest rate commitments, in accordance with the relevant provisions of subregulation (6) relating to the said commitments.
+                #Formula 15 - end
+
+            (B) In the case of qualifying revolving -retail exposures, which qualifying revolving retail exposures are not in default, as per formula 16 as follows:
+                #Formula 16
+                $RWA = K \times 12,5 \times EAD$
+                where:
+                $RWA$ is the relevant risk-weighted asset amount
+                $K$ is the capital requirement, which capital requirement shall be calculated through the application of the formula specified below
+                    $K= LGD \times N{[(1 - R)^{-0.5} x G(PD) + (R/ (1 - R))^{0.5} \times G(0.999)] - PD x LGD$
+                $PD$ is the probability of default, and constitutes a ratio
+                A bank shall apply a PD ratio equal to the higher of the one-year PD ratio associated with the relevant internal grade to which the pool of exposures is assigned, or 0.03 per cent.
+                $LGD$ is the loss-given-default ratio as estimated by the bank
+                $R$ is the correlation, which correlation shall be a constant number equal to 0.04
+                $EAD$ is the exposure at default, which exposure shall be measured in accordance with the relevant directives relating to the measurement of EAD specified in item (A) above.
+                #Formula 16 - end
+
+            (C)  In the case of other retail exposures, which other retail exposures are not in default, as per formula 17 as follows:
+                #Formula 17
+                $RWA = K \times 12,5 \times EAD$
+                where:
+                $RWA$ is the relevant risk-weighted asset amount
+                $K$ is the capital requirement, which capital requirement shall be calculated through the application of the formula specified below
+                    $K= LGD \times N[(1 - R)^{-0.5} x G(PD) + (R/ (1 - R))^{0.5} \times G(0.999)] - PD \times LGD$
+                $PD$ is the probability of default, and constitutes a ratio
+                A bank shall apply a PD ratio equal to the higher of the one-year PD ratio associated with the relevant internal grade to which the pool of exposures is assigned, or 0.03 per cent.
+                $LGD$ is the loss-given-default ratio as estimated by the bank
+                $R$ is the correlation, which correlation shall be calculated through the application of the formula specified below
+                    $R= 0.03 x (1 - \exp(-35 x PD)) / (1 - \exp(-35)) + 0.16 \times [1 - (1 - \exp(-35 x PD))/(1 - \exp(-35))] $
+                $EAD$ is the exposure at default, which exposure shall be measured in accordance with the relevant directives relating to the measurement of EAD specified in item (A) above.
+                #Formula 17 - end
+
+            (D) In the case of retail exposures that are in default-
+                (i) the capital requirement (K) shall be equal to the higher amount of zero and the difference between the exposure's LGD and the bank's estimate of expected loss, provided that-
+                    (aa) the LGD estimate in respect of retail exposures secured by residential property shall in no case be less than 10 per cent unless the said exposure is protected by a guarantee obtained from a sovereign;
+                    (bb) the Registrar may amend the said minimum LGD ratio of 10 per cent subject to such conditions as may be specified in writing by the Registrar;
+                (ii) the bank shall assign to the relevant exposure a PD ratio equal to 100 per cent;
+                (iii) the relevant risk-weighted exposure amount shall be calculated through the application of the formula 18 specified below.
+                    #Formula 18
+                    $RWA =K x12,5 x EAD$
+                    #Formula 18 - end
+
+        (v) Equity exposures (#Heading) (02-Regulations-part-2.pdf; pg 79)
+        A bank shall calculate its risk-weighted assets in respect of equity exposures held in its banking book in accordance with the relevant requirements specified in regulation 31.
+        (vi) Purchased receivables (#Heading)
+            (A) A bank shall separately calculate its risk-weighted assets in respect of purchased retail receivables and purchased corporate receivables, provided that the bank shall in the calculation of its risk-weighted exposure in respect of a particular purchased receivable or pool of purchased receivables distinguish between-
+                (i) the risk of default (#Heading)
+                When purchased receivables unambiguously belong to one asset class, the bank shall calculate the risk of default relating to the said receivables in accordance with the risk- weight function and risk components applicable to that particular exposure type, provided that the bank shall comply with the relevant requirements in respect of the relevant risk-weight function. For example, when the receivables consist of-
+                    (aa) revolving retail exposures but the bank is unable to comply with the requirements relating to qualifying revolving retail exposures, the bank shall apply the risk-weight function relating to other retail exposures;
+                    (bb) hybrid pools containing a mixture of exposure types, that is, the bank is unable to separate the exposures by type, the bank shall apply the risk-weight function producing the highest capital requirement for the exposures included in the pool of purchased receivables.
+                (ii) the risk of dilution (#Heading)
+                In the case of purchased corporate receivables and purchased retail receivables, a bank shall calculate the risk weights relating to the risk of dilution, that is, the risk that a receivable amount may be reduced by way of cash or non-cash credit amounts being made against the receivable account, for example, as a result of the return of goods that were sold or disputes regarding the quality of a product, in accordance with the corporate risk-weight function specified in subparagraph (ii) above, provided that-
+                    (aa) the bank shall estimate the one-year expected loss ratio for dilution risk, expressed as a percentage of the receivable amount, in respect of the pool as a whole or the individual receivables included in the pool on a stand-alone basis, that is, without regard to any assumption of recourse, support or guarantees from the seller or other parties;
+                    (bb) the bank may use relevant external or internal data to estimate the said expected loss ratio;
+                    (cc) the bank shall set the PD estimate equal to the estimated expected loss ratio and the LGD ratio equal to 100 per cent;
+                    (dd) the bank shall apply such a maturity factor as may be specified in writing by the Registrar or, with the prior written approval of the Registrar and provided that the bank manages the risk of dilution in an appropriate manner, a one-year maturity factor;
+                    (ee) when the risk of dilution is immaterial for the purchasing bank, the bank may apply for the approval of the Registrar not to calculate risk weights in respect of the risk of dilution.
+            (B) Purchased retail receivables (#Heading)
+            A bank shall calculate the risk estimates of PD and LGD, or expected loss, in respect of default risk relating to purchased retail receivables on a stand-alone basis, that is, without regard to any assumption of recourse or guarantees from the seller or other parties, provided that-
+                (i) the bank shall comply with the relevant minimum requirements relating to retail exposures specified in paragraphs (b)(v)(D), (b)(vi)(B), (b)(viii)(D), (b)(viii)(E) and (c)(iv) above;
+                (ii) the bank may use external and internal reference data to estimate the PD ratio and LGD ratio relating to the relevant exposure;
+                (iii) when the bank complies with the relevant minimum requirements in respect of retail exposure as envisaged in sub-item (i) above, the bank may apply the “top-down” approach envisaged in paragraph (b)(vi)(F) above in order to calculate the said estimates of PD and LGD, provided that the bank shall in addition to the said requirements in respect of retail exposure comply with the relevant requirements relating to the “top-down” approach, specified in paragraph (b)(vi)(F) above.
+            (C) Purchased corporate receivables (#Heading)
+                (i) A bank shall calculate the risk-weighted assets relating to default risk of individual obligors in respect of purchased corporate receivables in accordance with the formula and risk components specified in subparagraph (ii) above, which formula and risk components relate to corporate exposure, provided that-
+                    (aa) when the bank is unable to decompose the expected loss ratio into its PD and LGD components, the bank-
+                        (i) shall determine the risk weight in respect of the purchased corporate receivable from the corporate risk-weight function using a LGD ratio of 45 per cent provided that the exposures exclusively consist of senior claims in respect of corporate borrowers;
+                        (ii) shall calculate the PD ratio by dividing the expected loss ratio by the LGD ratio of 45 per cent;
+                        (iii) shall calculate the EAD amount as the outstanding amount minus the capital requirement relating to the risk of dilution, before the bank takes into consideration the effect of any risk mitigation instrument, provided that in the case of a revolving facility the EAD amount shall be equal to the purchased receivable amount plus 75 per cent of any undrawn purchased commitments minus the capital requirement relating to the risk of dilution;
+                        (iv) shall in all cases other than the exposures already specified in this sub-item (aa), use a PD ratio equal to the expected loss ratio, a LGD ratio equal to 100 per cent and an EAD amount equal to the outstanding amount minus the capital requirement relating to the risk of dilution, before the bank takes into consideration the effect of any risk mitigation instrument;
+                    (bb) when the bank is able to estimate the PD ratio in a reliable manner, the bank shall determine the risk weight in respect of the relevant exposure from the corporate risk weight function, based on the relevant requirements relating to LGD and M;
+                (ii) Subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, a bank may apply the “top-down” approach envisaged in paragraph (b)(vi)(F) above in order to calculate the risk weight relating to default risk in respect of a pool of purchased corporate receivables, provided that-
+                    (aa) the bank's programme in respect of purchased corporate receivables shall comply with the relevant requirements specified in paragraph (b)(vi)(F) above;
+                    (bb) the receivables-
+                        (i) shall be purchased from unrelated, third party sellers, that is, the receivables shall not be originated, either directly or indirectly, by the reporting bank;
+                        (ii) shall be generated on an arm's-length basis between the seller and the relevant obligor;
+                    (cc) the bank-
+                        (i) shall have a claim in respect of all proceeds from the pool of receivables or a relevant pro-rata interest in the proceeds, which claim shall exclude any first-loss or second-loss positions, that is, the cash flows arising from the purchased corporate receivables shall be the reporting bank's primary protection against default risk;
+                        (ii) shall estimate the pool's one-year expected loss ratio for default risk, expressed as a percentage of the exposure amount, that is, the total EAD amount due to the bank by all obligors in the pool of purchased receivables;
+                        (iii) shall estimate the expected loss ratio in respect of the purchased receivables on a stand-alone basis, that is, without regard to any assumption of recourse or guarantees from the seller or other parties;
+                        (iv) shall, based on the pool's estimated one-year expected loss ratio for default risk, calculate the risk weight for default risk in accordance with the risk-weight function for corporate exposures specified in subparagraph (ii) above;
+                        (v) shall utilise relevant external and internal data to estimate the required PD ratios and LGD ratios;
+                        (vi) shall follow the directives specified in sub-item (i)(aa) above when the bank is unable to decompose the expected loss ratio into its PD and LGD components;
+                    (dd) the Registrar shall grant approval to apply the “top-down” approach only in exceptional cases when the calculation of the bank's risk-weighted exposure in respect of purchased corporate receivables in accordance with the requirements specified in subparagraph (ii) relating to corporate exposure is likely to place an undue burden on the reporting bank;
+            (D) Purchase price discounts in respect of purchased receivables (#Heading)
+            A bank-
+                (i) shall in accordance with the relevant requirements specified in subregulation (6)(j) above risk weight or deduct from the bank's capital and reserve funds, any purchase price discounts relating to purchased receivables, which purchase price discounts-
+                    (aa) provide first loss protection in respect of the risk of default or dilution;
+                    (bb) will be refunded to the seller,
+                (ii) shall ignore any purchase price discounts that were granted in respect of purchased corporate or retail receivables, other than purchase price discounts envisaged in sub-item (i), when the bank calculates its risk-weighted exposure or credit impairments relating to expected loss provided that the said discounts shall constitute non refundable amounts, that is, the said discounts shall not be paid or repaid to the relevant seller of the receivable amounts.
+        (vii) Cash and cash equivalent amounts (#Heading) (02-Regulations-part-2.pdf; pg 84)
+        A bank shall risk weight all cash and cash equivalent amounts such as gold bullion at zero per cent.
+        (viii) Securitisation or resecuritisation exposure (#Heading)
+        A bank shall calculate its risk-weighted assets in respect of a securitisation scheme or resecuritisation exposure in accordance with the relevant requirement specified in paragraphs (e) to (p) below.
+        (ix) Other exposures (#Heading)
+        Unless specifically otherwise stated, a bank shall risk weight all exposures other than the exposures specified above at a risk weight of 100 per cent, which risk weight shall be deemed to represent the unexpected loss in respect of the relevant exposure.
+    (e) Securitisation or resecuritisation exposure: rating-based approach (#Heading) (02-Regulations-part-2.pdf; pg 84)
+    Based on-
+        (i) the external rating or inferred rating of a securitisation or resecuritisation exposure;
+        (ii) whether the external or inferred credit rating represents a long-term or short-term credit rating;
+        (iii) the granularity of the underlying pool of assets or exposures;
+        (iv) the seniority of a particular position,
+        a bank shall calculate its risk-weighted assets in respect of a securitisation scheme or resecuritisation exposure by multiplying the relevant amount relating to a particular exposure-
+            (A) in the case of an exposure with an external long-term credit rating, or when an inferred rating based on an external long-term credit rating is available, by the appropriate risk weights specified in table 12 below:
+                #Table 12 (02-Regulations-part-2.pdf; pg 85)
+                | Resecuritisation |||| Securitisation exposure exposure||
+
+                External - long-term rating (1) | Risk weight - senior, granular position (2,3)| Base risk weight - non senior granular (5) | Risk weight for non-granular (5) | Senior (6) | Non-Senior |
+                ------|------|------|------|------|------|
+                AAA| 7%|12%|20%|20%|30%|
+                AA|8%|15%|25%|25%|40%|
+                A+|10%|18%|35%|35%|50%|
+                A|12%|20%|35%|40%|65%|
+                A-|20%|35%|35%|60%|100%|
+                BBB+|35%|50%|50%|100%|150%|
+                BBB|60%|75%|75%|150%|225%|
+                BBB-|100%|100%|100%|200%|350%|
+                BB+|250%|250%|250%|300%|500%|
+                BB|425%|425%|425%|500%|650%|
+                BB-|650%|650%|650%|750%|850%|
+                Below BB- and unrated (7)| 1250%|1250%|1250%|1250%|1250%|
+
+                1. The notations used in this table relate to the ratings used by a particular credit assessment institution. The use of the rating scale of a particular credit assessment institution does not mean that any preference is given to a particular credit assessment institution. The assessments/ rating scales of other external credit assessment institutions, recognised as eligible institutions in the RSA, may have been used instead.
+                2. Relates to senior positions in a securitisation scheme that consists of an effective number of underlying exposures of no less than 6, which effective number of exposures shall be calculated in accordance with the relevant requirements specified in paragraph (n) below, and where senior position means an effective first claim in respect of the entire amount of the assets/exposures in the underlying securitised pool. For example, in the case of-
+                    (a) a synthetic securitisation scheme the "super-senior" tranche shall be treated as a senior position provided that the bank complies with the relevant conditions specified in paragraph (f) below to infer a rating from a lower tranche.
+                    (b) a traditional securitisation scheme, in which scheme all tranches above the first-loss position are rated, the highest rated position shall be treated as a senior position provided that when several tranches share the same rating the most senior position in the waterfall of payment shall be treated as the senior position.
+                3. Including eligible senior exposures that comply with the relevant requirements specified in Paragraphs (g) and (h) below relating to the internal assessment approach.
+                4. Relates to a senior position in a securitisation scheme in which the effective number of underlying exposures, calculated in accordance with the relevant requirements specified in Paragraph (n) below, is less than 6.
+                5. Relates to all positions other than a senior position, such as a position/facility that, in economic substance, constitutes a mezzanine position and not a senior position in respect of the underlying pool.
+                6. Means a resecuritisation exposure that is a senior position and none of the underlying exposures are resecuritisation exposures, that is, any resecuritisation exposure in respect of which the underlying exposure includes a resecuritisation exposure shall be categorised as a non-senior resecuritisation position or exposure.
+                7. or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds
+                #Table 12 - end
+
+            (B) in the case of an exposure with an external short-term credit rating, or when an inferred rating based on an external short-term credit rating is available, by the appropriate risk weights specified in table 13 below:
+                #Table 13
+                | Securitisation exposure | | | Resecuritisation exposure | |
+
+                External short-term rating (1) | Risk weight - senior granular position (2,3) | Base risk weight - non-senior, granular (5) | Risk weight for non-granular (4) | Senior (6) | Non-senior |
+                ------|------|------|------|------|------|
+                A-1/P-1| 7%|12%|20%|20%|30%|
+                A-2/P-2| 12%|20%|35%|40%|65%|
+                A-3/P-3|60%|75%|75%|150%|225%|
+                All other ratings or unrated positions (7)| 1250%|1250%|1250%|1250%|1250%|
+
+                1. The notations used in this table relate to the ratings used by a particular credit assessment institution. The use of the rating scale of a particular credit assessment institution does not mean that any preference is given to a particular credit assessment institution. The assessments/ rating scales of other external credit assessment institutions, recognised as eligible institutions in the RSA, may have been used instead.
+                2. Relates to senior positions in a securitisation scheme that consists of an effective number of underlying exposures of no less than 6, which effective number of exposures shall be calculated in accordance with the relevant requirements specified in paragraph (n) below, and where senior position means an effective first claim in respect of the entire amount of the assets/exposures in the underlying securitised pool. For example, in the case of-
+                    (a) a synthetic securitisation scheme the “super-senior” tranche shall be treated as a senior position provided that the bank complies with the relevant conditions specified in paragraph (f) below to infer a rating from a lower tranche
+                    (b) a traditional securitisation scheme, in which scheme all tranches above the first-loss position are rated, the highest rated position shall be treated as a senior position provided that when several tranches share the same rating the most senior position in the waterfall of payment shall be treated as the senior position.
+                3. Including eligible senior exposures that comply with the relevant requirements specified in paragraphs (g) and (h) below relating to the internal assessment approach.
+                4. Relates to a senior position in a securitisation scheme in which the effective number of underlying exposures, calculated in accordance with the relevant requirements specified in paragraph (n) below, is less than 6.
+                5. Relates to all positions other than a senior position, such as a position/facility that, in economic substance, constitutes a mezzanine position and not a senior position in respect of the underlying pool.
+                6. Means a resecuritisation exposure that is a senior position and none of the underlying exposures are resecuritisation exposures, that is, any resecuritisation exposure in respect of which the underlying exposure includes a resecuritisation exposure shall be categorised as a non-senior resecuritisation position or exposure.
+                7. or such imputed percentage that will effectively result in an amount equivalent to a deduction against capital and reserve funds
+                #Table 13 - end
+    (f) Securitisation exposure: conditions relating to an inferred rating  (#Heading)
+    A bank that applies the rating-based approach in respect of exposures that arise from a securitisation scheme shall assign an inferred rating to all unrated positions that rank more senior than an externally rated securitisation exposure, which externally rated securitisation exposure shall serve as the reference securitisation exposure, provided that-
+        (i) the reference securitisation exposure shall in all respects be subordinated to the relevant unrated securitisation exposure;
+        (ii) the bank shall take into account any relevant credit enhancement when the bank assesses the relative subordination of the unrated exposure in relation to the reference securitisation exposure. For example, when the reference securitisation exposure benefits from any third-party guarantee or other credit enhancement, which protection is not available to the unrated exposure, the bank shall not assign an inferred rating to the said unrated exposure;
+        (iii) the maturity of the reference securitisation exposure shall be equal to or longer than the maturity of the relevant unrated exposure;
+        (iv) on a continuous basis, the bank shall update any inferred rating in order to reflect any changes in the external rating of the reference securitisation exposure;
+        (v) the external rating of the reference securitisation exposure shall comply with the requirements specified in subregulation (6) above.
+    (g) Securitisation exposure: internal assessment approach (#Heading)
+    When a bank extends facilities such as liquidity facilities or credit-enhancement facilities to a special-purpose institution involved in an asset-backed commercial paper programme, the bank may apply its internal assessment of the credit quality of the said exposures in order to calculate the bank's required amount of capital and reserve funds, provided that-
+        (i) the bank's internal assessment process shall comply with the relevant requirements specified in this paragraph (g) and in paragraph (h) below;
+        (ii) the bank shall map its internal assessment of exposures extended to the asset-backed commercial paper programme to equivalent external ratings issued by an eligible external credit assessment institution, which rating equivalents shall be used by the bank to determine the appropriate risk weights relating to the relevant exposure in terms of the ratings-based approach specified in paragraph (e) above;
+        (iii) based on the credit rating equivalent assigned by the bank to an eligible exposure, the bank shall assign the notional amount of the securitisation exposure extended to the asset-backed commercial paper programme to the appropriate risk weight specified in the rating-based approach in paragraph (e) above;
+        (iv) when, in the opinion of the Registrar, the bank's internal assessment process does not comply with the relevant requirements specified in this paragraph (g), or such further conditions as may be specified in writing by the Registrar, the bank shall in the calculation of its required amount of capital and reserve funds relating to all eligible exposures extended to an asset-backed commercial paper programme apply-
+            (A) the standard formula approach specified in paragraph (i) below; or
+            (B) the approach specified by the Registrar, which approach shall be based on the relevant requirements specified in paragraph (b) (xii) (D) (iil) above, 
+        for such time and on such conditions as may be specified in writing by the Registrar.
+    (h) Securitisation exposure: conditions relating to a bank's internal assessment process (#Heading) (02-Regulations-part-2.pdf; pg 88)
+    For the calculation of a bank's minimum required amount of capital and reserve funds relating to unrated exposures such as liquidity facilities or credit-enhancement facilities, which facilities are extended by the bank to an asset-backed commercial paper programme, the bank may use its internal assessments relating to the said exposures, provided that-
+        (i) the relevant asset-backed commercial paper programme-
+            (A) shall be externally rated, which rated exposures relating to the asset-backed commercial paper programme shall be subject to the ratings-based approach specified in paragraph (e) above;
+            (B) shall have in place-
+                (i) appropriate credit and investment guidelines, that is, underwriting standards;
+                (ii) a duly established collection process, which collection process, amongst other things-
+                    (aa) shall consider the operational capability and credit quality of the relevant servicer;
+                    (bb) shall prevent the co-mingling of funds;
+                (iii) sufficiently robust procedures in order to consider all sources of potential risk, including credit and dilution risk, when estimating the aggregate amount of potential loss relating to the assets/exposures to be purchased by the special-purpose institution, that is, when the credit enhancement provided by the seller is based only on credit-related losses, a separate reserve shall be established to cover any material risk of dilution;
+                (iv) structural features such as wind-down triggers for every pool of purchased assets/exposures in order to reduce the risk relating to a deterioration in the credit quality of the underlying pool of assets/exposures;
+        (ii) the bank's internal assessment-
+            (A) of the credit quality of the said securitisation exposure shall be based on criteria similar to the criteria used by an eligible external credit assessment institution for the particular exposure type and shall be equivalent to at least investment grade when initially assigned by the bank;
+            (B) shall correspond to the external credit ratings used by eligible external credit assessment institutions;
+        (iii) in order to ensure that a credit-enhancement facility is sufficient, the bank shall review historical information in respect of the assets/exposures transferred to the special-purpose institution, which review shall be based on information for a sufficient number of years and shall include matters such as-
+            (A) losses;
+            (B) delinquencies;
+            (C) dilution; and
+            (D) the turnover rate of receivables;
+        (iv) the bank- (02-Regulations-part-2.pdf; pg 89)
+            (A) shall conduct-
+                (i) a credit analysis of the risk profile of the seller of the relevant assets/exposures, which analysis shall include matters such as-
+                    (aa) past and expected future financial performance;
+                    (bb) current market position;
+                    (cc) expected future competitiveness;
+                    (dd) leverage;
+                    (ee) cash flow;
+                    (ff) interest coverage;
+                    (gg) debt rating;
+                (ii) a review of the seller's-
+                    (aa) underwriting standards;
+                    (bb) servicing capabilities;
+                    (cc) collection processes;
+            (B) shall evaluate the characteristics of the underlying pool of assets/exposures, which evaluation shall include matters such as-
+                (i) the weighted average credit score;
+                (ii) any concentrations in respect of a particular obligor, industry or geographical region;
+                (iii) the granularity of the underlying pool of assets/exposures;
+            (C) shall apply the relevant internal assessment in the bank's internal risk management processes, including the bank's management information and economic capital systems;
+            (D) shall, subject to the provisions of item (E) below, demonstrate to the satisfaction of the Registrar-
+                (i) that the criteria, standards and methodology used in the bank's internal assessment process correspond with the relevant criteria, standards and methodology applied by the eligible external credit assessment institution that rated the relevant asset-backed commercial paper programme, provided that when the methodology or stress factors applied by the said eligible external credit assessment institution change, which change adversely affects the external rating of the programme's commercial paper, the bank shall consider the potential impact of the revised rating methodology or stress factors in order to determine whether the bank's internal assessments assigned to eligible exposures extended to the asset-backed commercial paper programme exposures remain relevant;
+                (ii)  which internal assessment category corresponds to which external rating category used by the relevant eligible external credit assessment institution;
+            (E) shall not apply the rating methodology used by an external credit assessment institution to derive an internal assessment unless the rating process and rating criteria applied by the relevant external credit assessment institution are publicly available, provided that, subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, the Registrar may allow a bank in exceptional cases when the rating process and rating criteria applied by the relevant external credit assessment institution are not publicly available, to derive an internal assessment in respect of a particular exposure extended by the bank to an asset-backed commercial paper programme;
+            (F) shall regularly-
+                (i) review its internal assessment process;
+                (ii) assess the validity of its internal assessments,
+            which review or assessment may be conducted by the bank's internal or external auditors, an eligible external credit assessment institution or the bank's risk management function, provided that when the review or assessment is conducted by the bank's internal auditors or risk management function, the said auditors/function shall be independent from the business line involved in the relevant asset-backed commercial paper programme and underlying customer relationships;
+            (G) shall track the performance of its internal assessments over time in order to-
+                (i) evaluate the performance of the bank's assigned internal assessments; and
+                (ii) make timely adjustments to the said internal assessments;
+        (v) the bank's internal assessment process- (02-Regulations-part-2.pdf; pg 91)
+            (A) shall provide a meaningful differentiation and distribution of risk;
+            (B) shall include stress factors relating to credit enhancement, which stress factors shall be at least as conservative as the publicly available rating criteria applied by the major eligible external credit assessment institutions that rate the particular asset/exposure type being purchased into the particular asset-backed commercial paper programme;
+        (vi) when the commercial paper issued in terms of an asset-backed commercial paper programme is rated by two or more eligible external credit assessment institutions, the stress factors of which institutions require different levels of credit enhancement to achieve the same external rating, the bank shall apply the stress factor that requires the most conservative or highest level of credit protection. For example, when one eligible external credit assessment institution requires enhancement of 2,5 to 3,5 times historical losses for an asset type to be assigned a single A rating and another eligible external credit assessment institution requires 2 to 3 times historical losses, the bank shall use the higher range of stress factors in order to determine the appropriate level of credit enhancement;
+        (vii) in respect of each relevant asset-backed commercial paper programme, the programme administrator shall ensure that-
+            (A) the said asset-backed commercial paper programme is subject to prudent underwriting standards;
+            (B) an appropriate structure relating to each potential purchase transaction is in place, which structure-
+                (i) shall be used to determine whether or not the particular assets/ exposures should be purchased by the special-purpose institution;
+                (ii) shall deal comprehensively with-
+                    (aa) the type of asset that may be purchased by the special-purpose institution;
+                    (bb) the type and monetary value of exposures arising from the provision of liquidity facilities and credit-enhancement facilities;
+                    (cc) the manner in which losses shall be absorbed;
+                    (dd) matters relating to the legal and economic isolation of the assets/exposures transferred to the special-purpose institution;
+        (viii) the underwriting policy of the asset-backed commercial paper programme shall contain minimum eligibility criteria, which criteria-
+            (A) shall prevent the purchase of assets/exposures that are significantly past due or defaulted;
+            (B) shall limit-
+                (i) excess concentration to an individual obligor;
+                (ii) excess concentration to a geographic area;
+                (iii) the tenor of the assets to be purchased.
+    (i) Securitisation exposure: risk-weighted exposure calculated in terms of the standard formula approach (#Heading) (02-Regulations-part-2.pdf; pg 93)
+    A bank-
+        (i) shall calculate its risk-weighted exposure in respect of any unrated securitisation exposure, which exposure is not subject to the internal assessment approach specified in paragraph (g) above, through the application of the formula 18 and the risk components specified below.
+            #Formula 18
+            $RWE = K \times 12,5$
+            where:
+            $RWE$ is the relevant risk-weighted exposure amount
+            $K$ is the capital requirement relating to the securitisation exposure, which capital requirement shall be based on the formulae and the risk components specified in paragraphs (j) to (0) below.
+            #Formula 18 - end
+        (ii) may reduce its calculated risk-weighted exposure when the bank obtains eligible risk mitigation instruments against the said securitisation exposure, provided that-
+            (A) the bank shall comply with the relevant requirements specified in subregulation (12);
+            (B) the bank shall only proportionally reduce the bank's capital requirement when the eligible credit risk mitigation instrument covers only first losses or losses on a proportional basis;
+            (C) in the case of proportional cover, the bank shall assume that the eligible credit risk mitigation instrument firstly covers the most senior portion of the securitisation exposure, that is, the most junior portion of the securitisation exposure shall be regarded as unprotected or unsecured.
+                #Example 3
+                For example, in the case of an originator-
+                (i) that obtains proportional cover in the form of cash collateral
+                Assume that-
+                    (aa) the originating bank purchased a securitisation exposure of R10 000;
+                    (bb) the purchased exposure is protected by a credit-enhancement facility in excess of $K_{IRB}$;
+                    (cc) no external or inferred rating in respect of the exposure is available;
+                    (dd) the capital requirement in respect of the purchased securitisation exposure, calculated in terms of the standard formula specified in paragraph (j) below, is equal to R160, that is, the risk-weighted exposure amount is equal to R2 000 (R160 multiplied by 12,5);
+                    (ee) the originating bank obtained collateral in the form of cash equal to R8 000, which cash collateral is denominated in Rand;
+                    (ff) the percentage relating to the minimum capital requirement is equal to 8 per cent.
+                The capital requirement relating to the securitisation exposure is determined by multiplying the capital requirement calculated in terms of the standard formula, that is, R160, by the ratio of the adjusted exposure amount to the original exposure amount as illustrated below.
+                    Step 1
+                        $E^* = \max {0, [E x (1 + He) - C x (1 - He - Hfx)]}$
+                        $E^* = \max {0, [10 000 x (1 + 0) -8 000 x (1 - 0 - 0)]}$
+                        $= R2 000$
+                        where:
+                        $E^*$ is the relevant adjusted exposure amount after risk mitigation (R2 000)
+                        $E$ is the relevant current exposure amount (R10 000)
+                        $He$ is the relevant haircut in respect of the exposure
+                        $C$ is the relevant current value of the collateral (R8 000)
+                        $Hc$ is the relevant haircut in respect of the collateral (0)
+                        $Hfx$ is the relevant haircut in respect of a mismatch between the collateral and the exposure (0)
+                    Step 2
+                        Capital requirement = $(E^* / E)$ x capital requirement determined in terms of the standard formula
+                        That is R2 000 / R10 000 x R160 = R32.
+                (ii) that obtains proportional cover in the form of a guarantee
+                Assume that the information is the same as in the previous example except that the bank obtained a guarantee from a bank that qualifies for a risk weight of 10 per cent instead of cash collateral.
+                The protected portion of the securitisation exposure, that is, R8 000 will be assigned the risk weight of the guarantor, that is, 10 per cent.
+                The capital requirement in respect of the protected portion is equal to R8 000 x 10% x 8% = R64.
+                The capital requirement in respect of the unprotected portion, that is, R2000, is equal to the share of the unprotected portion to the exposure amount, that is, R2 000 / R10 000 = 20%. Therefore the capital requirement is equal to R160 x 20% = R32.
+                The total capital requirement in respect of the protected and unprotected portions is equal to R64 (protected portion) + R32 (unprotected portion) = R96.
+                (iii) that obtains protection in respect of the most senior portion of an exposure
+                Assume that-
+                    (aa) a bank that acts as an originator securitises a pool of loans equal to R100 000;
+                    (bb) the $K_{IRB}$ ratio relating to the underlying pool is equal to 5 per cent, that is, a capital requirement of R5 000;
+                    (cc) the first loss facility is equal to R2 000;
+                    (dd) the originating bank retained only the second most junior tranche, which tranche is unrated and equal to R4 500;
+                    (ee) the risk weight relating to the retained tranche, calculated in terms of the standard formula, is equal to 820 per cent;
+                    The position may be summarised as follows:
+                        a. Portion of exposure above $K_{IRB}$: R1 500
+                        b. Remaining portion of exposure: R3 000
+                        c. First loss position: R2 000
+                        Unrated retained tranche = a + b = R4 500
+                        $K_{IRB}$ = b+c = R5 000
+                    The bank's capital requirement without any protection is equal to the sum of the capital requirements for the portion of the tranche above Krg and the portion of the tranche below Kirg, that is, R1500 x 820% x 8%= R984 plus the portion of the tranche below Ks that constitutes an impairment equal to R3 000 x 1 250% x 8% = R3000 equals a total capital requirement for the unrated tranche of R3 984.
+                    When the originating bank obtains cash collateral denominated in Rand equal to R2 500, the collateral will be deemed firstly to cover the most senior portion of the tranche, that is, the portion above $K_{IRB}$, which portion is fully protected and equal to R1 500.
+                        Step 1
+                            $E^* = \max {0, [E x (1 + He) - C x (1 - He - Hfx)]} = max {0, [1500 - 1 500]} = RO$
+                            where:
+                            $E^*$ is the relevant exposure value after risk mitigation (RO)
+                            $E$ is the relevant current value of the exposure (R1 500)
+                            $C$ is the relevant current value of the collateral (R1 500)
+                            $He$ is the relevant haircut in respect of the exposure
+                            $Hc$ and $Hfx$ is the relevant haircut in respect of the collateral
+                        Step 2
+                            Capital requirement = (E* / E) x capital requirement determined in terms of the standard formula.
+                            That is 0 x R984 = RO
+                            The portion of the tranche below $K_{IRB}$ is equal to R3 000, which portion is protected by the remaining cash collateral equal to R1 000.
+                            The R1 000 cash collateral is allocated to the most senior portion of the R3 000 tranche.
+                        Step 1
+                            $E^* = \max {0, [8 000 x (1 + 0) - 1 000 \times (1 - 0 - 0)]} = R2 000$
+                        Step 2
+                            Capital requirement = (E* / E) x capital requirement determined in terms of the standard formula
+                            That is R2 000/R3 000 x R3 000 = R2 000
+                            The total capital requirement in respect of the unrated tranche is equal to RO + R2 000 = R2 000
+                            When the bank obtains an eligible unsecured guarantee of R2 500 instead of cash collateral the capital requirement is determined as specified below.
+                            The most senior portion of the tranche is equal to R1 500, which portion is protected by the guarantee, that is, the portion is fully protected and is assigned a risk weight equivalent to an unsecured exposure to the guarantor, which risk weight is assumed to be equal to 20 per cent.
+                            The capital requirement in respect of the most senior protected portion is R1 500 x 20% x 8%= R24.
+                            The remaining portion of the tranche is equal to R3 000, the most senior part of which portion is protected by the remaining part of the guarantee, which remaining part is equal to R1 000.
+                            Accordingly, the protected portion of the remaining portion is equal to R1 000 and the unprotected portion is equal to R2 000.
+                            The risk weight of the guarantor is assigned to the protected portion, the capital requirement of which portion is equal to R1 000 x 20% x 8%= R16.
+                            The capital requirement for the unprotected portion is equal to R2 000 x 1 250% x 8%= R2 000.
+                            The total capital requirement in respect of the unrated tranche is equal to R24 (protected portion above KIRB) plus R16 (protected portion below KIRB) plus R2000 (unprotected portion below KIRB) is equal to R2 040.
+                #Example 3 - end
+
+    (j) Securitisation exposure: calculation of IRB capital requirement relating to a specific tranche (#Heading) (02-Regulations-part-2.pdf; pg 99)
+    The capital requirement relating to a specific tranche shall be equal to the amount of exposures that have been securitised multiplied by the higher of-
+        (i) 0,0056 x T; or
+        (ii) = (S[L + T]- S[L)
+    provided that when the bank holds only a proportional interest in a particular tranche, the bank's capital requirement in respect of the specific portion held shall be equal to the pro-rata share of the capital requirement calculated in respect of the entire tranche.
+    where:
+    $S[.]$ is a standard formula, which standard formula is defined in formula 19 as
+        #Formula 19
+        $$
+        S[L] = 
+        \begin{cases}
+            L & \text{when } L \leq K_{IRB} \\ 
+            K_{IRB} + K[L]-K[K_{IRB}] +(d \cdot K_{IRB}/\omega)(1-e^{\omega(K_{IRB}-L)/K_{IRB}}) & \text{when } L > K_{IRB}
+        \end{cases}
+        $$
+        where:
+        $h = (1- K_{IRB}/ LGD)^N$
+        $c = K_{IRB} /(1 - h)$
+        $v = \frac{ (LGD - K_{IRB})K_{IRB} + 0.25(1 - LGD) K_{IRB}}{N}
+        $f = \left( \frac{v+K_{IRB}^2}{1-h} - c^2\right) + \frac{(1-K_{IRB})K_{IRB} - v}{(1-h)\tau} $
+        $g=\frac{(1-c)c}{f}-1$
+        $a =g-c$
+        $b =g \cdot (1-c)$
+        $d =1- (1 -h) \cdot (1-Beta[K_{IRB}, a,b])$
+        $K[L] = (1-h) \cdot ((1-Beta[L, a,b])L + Beta[L,a+1,b]c)$
+        $h$ shall be equal to nil when the securitisation scheme relates to retail exposures
+        $v$ shall be equal to nil when the securitisation scheme relates to retail exposures
+        $Beta [L; a, b]$ is the cumulative beta distribution with parameters a and b evaluated at L
+        $\tau$ is a constant value equal to 1 000
+        $\omega$ is a constant value equal to 20
+        $K_{IRB}$ is the capital requirement relating to the underlying exposure, which capital requirement shall be expressed as a ratio calculated in accordance with the relevant
+        requirements specified in paragraph (k) below
+        $L$ is the credit-enhancement level, which credit-enhancement level shall be expressed as a ratio calculated in accordance with the relevant requirements specified in paragraph (I) below
+        $T$ is the thickness of the exposure, which thickness shall be expressed as a ratio calculated in accordance with the relevant requirements specified in paragraph (m) below
+        $N$ is the effective number of exposures in the pool calculated in accordance with the formula specified in paragraph (n) below
+        $LGD$ is the exposure-weighted average loss-given-default ratio calculated in accordance with the formula specified in paragraph (0) below
+        #Formula 19 - end
+    (k) Securitisation exposure: IRB capital requirement relating to an underlying exposure, denoted by $K_{IRB}$ (#Heading) (02-Regulations-part-2.pdf; pg 101)
+    The variable $K_{IRB}$-
+        (i) is a ratio, which ratio shall be calculated as-
+            (A) the capital requirement relating to the relevant underlying exposures in the pool, that is, the amount of capital that the bank would have been required to maintain if the bank directly held or was directly exposed to the underlying assets/exposures included in the pool, which amount of required capital-
+                (i) shall be calculated in accordance with the relevant IRB approach envisaged in subregulation (10);
+                (ii) shall include the amount of expected loss relating to any of the said underlying exposures;
+                (iii) shall include the effects of any eligible risk-mitigation instruments held against the underlying assets/ exposures included in the pool,
+            divided by
+            (B) the aggregate amount of exposures included in the pool, that is, the sum of all drawn amounts relating to the relevant securitised exposures plus the EAD amount associated with any undrawn commitments related to the securitised exposures.
+        (ii) shall be expressed in decimal form, that is, a capital requirement equal to 15 per cent of the pool shall be expressed as 0,15
+        provided that-
+            (A) in the case of a structure that involves a special-purpose institution, all the assets of the special-purpose institution that are related to the securitisation scheme shall be included in the bank's calculation of exposures included in the pool, including assets in which the special-purpose institution invested for a reserve account, such as a cash collateral account;
+            (B)  when the risk weight relating to the relevant securitisation exposure is equal to 1 250 per cent, the bank shall risk weight the relevant securitisation exposure in accordance with the relevant requirements specified in paragraph (q) read with the relevant provisions of subregulation (6)(j), or deduct the relevant securitisation exposure amount from its common equity tier 1 capital and reserve funds;
+            (C) when the bank raised a specific credit impairment or received a non-refundable purchase price discount in respect of an exposure included in the pool, the bank shall in the calculation of the amounts specified in paragraph (k)(i) above apply the gross amount relating to the exposure, that is, the amount before the relevant specific credit impairment and/or non-refundable purchase price discount is taken into consideration, provided that the bank may in the case of an asset that defaulted reduce the amount that constitutes an impairment against the capital and reserve funds of the bank, which impairment relates to the said securitisation exposure, with the said credit impairment raised or non-refundable purchase price discount.
+    (l) Securitisation exposure: matters relating to the extent of credit enhancement, denoted by L (#Heading) (02-Regulations-part-2.pdf; pg 102)
+    The variable L-
+        (i) is a ratio, which ratio shall be calculated as-
+            (A) the aggregate amount relating to all securitisation exposures that are subordinated in favour of the relevant securitisation tranche in respect of which the capital requirement is calculated;
+            divided by
+            (B) the aggregate amount of exposures included in the pool;
+        (ii) shall be expressed in decimal form;
+        shall exclude-
+            (A) the effects of any tranche-specific credit enhancement such as third-party guarantees that benefit only a single tranche;
+            (B) any amount relating to gain-on-sale and/or credit enhancing interest-only strips that are associated with the securitisation scheme;
+            (C) any instrument in respect of which the bank is unable to determine the current fair value;
+            (D) any unfunded reserve accounts, that is, accounts that will be funded by future receipts from the underlying exposures;
+        (iv) may include-
+            (A) the fair value, that is, the current value prior to the amount that relates to future exposure, of any interest-rate or currency swap contract, which contract is subordinated to the securitisation exposure in question;
+            (B) the amount relating to any reserve account funded by accumulated cash flows from the underlying exposures provided that the said account shall be subordinated to the tranche in question.
+    (m) Securitisation exposure: matters relating to thickness of exposure, denoted by T (#Heading) (02-Regulations-part-2.pdf; pg 103)
+    The variable T-
+        (i) is a ratio, which ratio shall be calculated as-
+            (A) the nominal amount relating to the particular tranche;
+            divided by
+            (B) the notional amount of exposures included in the pool of exposures;
+        (ii) shall include-
+            (A) the potential future exposure arising from an interest-rate contract or currency swap contract;
+            (B) any positive current value of an interest-rate contract or currency swap contract.
+    (n) Securitisation exposure: matters relating to effective number of exposures, denoted by N (#Heading) (02-Regulations-part-2.pdf; pg 103)
+    The effective number of exposures shall be calculated in accordance with the formula specified below.
+        #Formula 20
+        $N = \frac{\left( \sum_{i}EAD_i\right)^2}{\sum_i EAD_i^2}$
+        where:
+        $EAD_i$ is the exposure-at-default amount associated with the $i$-th instrument in the pool of exposures, provided that-
+            (i) the bank shall consolidate multiple exposures to the same obligor, that is, the aggregate amount shall be treated as a single instrument;
+            (ii) in the case of re-securitisation, that is, the securitisation of securitised exposures, the formula shall apply to the number of securitisation exposures in the securitised pool and not the number of underlying exposures in the original pools;
+            (iii) when-
+                (A) the share of the portfolio associated with the largest exposure, $C_1$ is available, the bank may compute $N$ as $1/C_1$;
+                (B) the share of the portfolio associated with the largest exposure, $C_1$, is no more than 0,03, that is, 3 per cent of the underlying pool, the bank may deem the LGD ratio to be equal to 0,50, that is, 50 per cent, instead of the exposure-weighted average LGD ratio calculated in accordance with the relevant requirements specified in paragraph (0) below, and calculate the effective number of exposures, that is, $N$, in accordance with the formula specified below:
+                $N=\left( C_1C_m + \frac{C_m-C_1}{m-1} \max(1-mC_1, 0) \right)^{-1} $
+                where:
+                $C_m$  is the share of the pool that corresponds to the sum of the largest “m” exposures. For example, a 15 per cent share corresponds to a value of 0.15.
+                $m$ is the threshold determined by the bank
+                (C) $C_1$  is available and does not exceed 3 per cent of the underlying pool, the bank may deem $N$ to be equal to $1/C_1$ and the LGD ratio to be equal to 50 per cent, instead of calculating the respective variables in accordance with the relevant requirements respectively specified in paragraphs (n) and (0).
+        #Formula 20 - end
+    (o) Securitisation exposure: matters relating to exposure-weighted average loss-given-default ratio, denoted by LGD (#Heading) (02-Regulations-part-2.pdf; pg 105)
+    The exposure-weighted average loss-given-default ratio (“LGD”) shall be calculated in accordance with the formula 21 specified below:
+        #Formula 21
+        $$LGD = \frac{\sum_i LGD_i \cdot EAD_i}{\sum_i EAD_i}$$
+        where:
+        $LGD_i$; is the average LGD ratio associated with all exposures relating to the $i$-th obligor, provided that-
+            (i) in the case of re-securitisation, that is, the securitisation of a securitisation exposure, the LGD ratio relating to the underlying securitised exposures shall be deemed to be equal to 100 per cent;
+            (ii) when the risk of default and the risk of dilution relating to purchased receivables are treated in an aggregate manner, that is, a single reserve or over-collateralisation was established to absorb losses relating to the risk of default and the risk of dilution within the securitisation scheme, the calculation of the relevant LGD ratio shall be based on the weighted average LGD ratio relating to default risk and a 100 per cent LGD ratio relating to dilution risk, that is, the resultant weights shall be the standalone IRB capital requirement relating to default risk and dilution risk.
+        #Formula 21 - end
+    (p) Securitisation exposures subject to an early amortisation mechanism (#Heading) (02-Regulations-part-2.pdf; pg 105)
+    A bank that acts as an originator shall comply with the relevant requirements specified in subregulation (6)(h)(xi) above relating to the investors’ interest, provided that the bank's capital requirement relating to the investors’ interest shall be equal to-
+        (i) the investors’ interest, multiplied by
+        (ii) the appropriate credit-conversion factor, multiplied by
+        (iii) $K_{IRB}$.
+    (q) Risk weighted exposure equivalent to a deduction against capital and reserve funds (#Heading) (02-Regulations-part-2.pdf; pg 106)
+    A bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk shall in addition to any relevant exposure and/or amount specified in subregulation (6)(j), risk weight such exposures as may be specified in table 14 below at a risk weighting of 1250 per cent, or such imputed risk weighting that effectively results in a risk weighted exposure amount equivalent to a deduction against capital and reserve funds:
+        #Table 14
+        Risk weight of 1250 per cent (1)
+        Any amount relating to expected loss in respect of equity exposures subject to the PD/LGD approach specified in regulation 31
+        1. Or such imputed percentage that effectively results in a risk weighted exposure amount equivalent to a deduction against capital and reserve funds
+        #Table 14 - end
+
+(12) Credit-risk mitigation: foundation IRB approach (#Heading) (02-Regulations-part-2.pdf; pg 106)
+    (a) On-balance-sheet netting (#Heading) (02-Regulations-part-2.pdf; pg 106)
+    When a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book enters into a netting agreement in respect of loans and deposits as envisaged in subregulation (7)(a) above, the bank shall calculate its risk exposure in accordance with the provisions of the comprehensive approach specified in subregulation (9)(b) above, provided that the bank-
+        (i) shall at all times comply with the relevant conditions specified in subregulation (7)(a) above;
+        (ii) shall recognise the effect of any currency mismatch in accordance with the relevant requirements specified in subregulation (9)(b) above;
+        (iii) shall recognise the effect of a maturity mismatch in accordance with the relevant requirements specified in subregulation (9)(e) above.
+    (b) Collateral (#Heading) (02-Regulations-part-2.pdf; pg 106)
+        (i) Unless specifically otherwise provided, a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk in respect of positions held in the bank's banking book-
+            (A) shall apply the comprehensive approach prescribed in subregulation (9)(b) above in order to calculate the bank's adjusted exposure;
+            (B) shall at all times comply with the relevant minimum requirements-
+                (i) prescribed in subregulation (7)(b)(iii) above in respect of eligible financial collateral;
+                (ii) prescribed in subparagraph (ii)(B) below in respect of the further categories of collateral qualifying as eligible collateral in terms of the foundation IRB approach.
+        (ii) Eligible collateral (#Heading)
+            (A) Instruments qualifying as eligible financial collateral in terms of the standardised approach shall qualify as eligible collateral in terms of the foundation IRB approach, provided that a bank that adopted the foundation IRB approach-
+                (i) shall at all times comply with the relevant minimum requirements specified in subregulation (7) (b) (iii) above; or
+                (ii) shall be able to calculate and comply with the relevant minimum requirements relating to its own estimates of LGD and EAD specified in subregulations (13)(b)(v)(C) and (13)(b)(v)(D) below.
+            Provided that, irrespective of its credit rating, a resecuritisation instrument shall in no case constitute an eligible instrument for risk mitigation purposes in terms of these Regulations
+            (B) In addition to eligible financial collateral recognised in terms of the standardised approach, in subregulation (7)(b), the collateral instruments specified below shall be recognised as eligible collateral in terms of the foundation IRB approach in respect of a bank's exposures to corporate institutions, sovereigns or banks, provided that the bank shall comply with the requirements specified below:
+                (i) Financial receivables, excluding receivables arising from securitisation schemes,  sub-participations or credit-derivative instruments.
+                When a bank obtains as collateral in respect of its exposure to a corporate institution, sovereign or bank financial receivables other than receivables arising from securitisation schemes, sub-participations or credit-derivative instruments, such collateral shall be recognised as eligible collateral, provided that-
+                    (aa) the said financial receivables-
+                        (i) shall consist of claims with an original maturity of less than or equal to one year, the repayment of which claim shall be dependent upon the commercial or financial flows related to the underlying assets of the obligor;
+                        (ii) may include self-liquidating debt arising from the sale of goods or services linked to a commercial transaction or general amounts owed by buyers, suppliers, renters, national and local government authorities, or other non-affiliated persons not related to the sale of goods or services linked to a commercial transaction;
+                    (bb) the legal mechanism in terms of which the collateral was obtained shall be robust and shall ensure that the bank has clear rights over the proceeds from the collateral.
+                    The bank shall take all steps necessary to fulfil requirements relating to the enforceability of the
+                    bank's security interest, such as the registration of a security interest with a registrar.
+                    (cc) the collateralised transaction shall be duly documented, which documentation-
+                        (i) shall be binding on all relevant parties;
+                        (ii) shall be legally enforceable in all relevant jurisdictions;
+                        (iii) shall be legally well founded;
+                        (iv) shall be reviewed on a regular basis in order to ensure the transaction's continued enforceability;
+                        (v) shall provide the bank with legal authority to sell or assign the receivables to other parties without the consent of the receivables’ obligors;
+                        (vi) shall comprehensively deal with the collection of receivable amounts in distressed situations;
+                    (dd) the bank shall have in place clear and robust procedures, adequate-
+                        (i) to timely collect the proceeds of the relevant collateral;
+                        (ii) to observe any legal conditions required to identify any default event of the obligor;
+                        (iii) to identify any event of financial distress of the relevant obligor;
+                        (iv) to monitor-
+                            (a) reports relating to ageing;
+                            (b) control over trade documents;
+                            (c) the frequency of audits relating to collateral;
+                            (d) the confirmation of accounts;
+                            (e) the control over the proceeds of accounts paid;
+                            (f) the analyses in respect of dilution;
+                    (ee) the bank shall have in place sound and robust risk-management processes, which risk-management processes-
+                        (i) shall be adequate to determine the credit risk inherent in the receivables, including concentration risk.
+                        (ii) When the bank relies on the obligor to determine the credit risk relating to its customers, the bank shall review the credit policy of the obligor to determine the policy's soundness and credibility.
+                        (iii) shall include an analysis of the borrower's business and industry type;
+                        (iii) shall be adequate to identify any correlation between the obligor and the receivables pledged as security, provided that no receivables relating to affiliates of a particular obligor, including subsidiaries and employees, shall be recognised as eligible collateral;
+                    (ff) the bank shall ensure that the margin between the amount of the exposure and the value of the receivables takes into account all relevant factors, including the cost of collection, correlations, concentration within the receivables pool pledged as security and potential concentration risk within the bank's total exposures.
+                (ii) Commercial real estate and residential real estate, excluding income producing real estate that meets the requirements relating to specialised lending specified in subregulation (11)(c)(i)(D) above.
+                When a bank obtains as collateral in respect of its exposure to a corporate institution, sovereign or bank commercial real estate or residential real estate, such collateral shall be recognised as eligible collateral, provided that-
+                    (aa) the risk relating to the obligor shall not materially be dependent upon the performance of the underlying property or project but rather on the underlying capacity of the obligor to repay the debt due from other sources, that is, the repayment of the facility shall not materially be dependent on any cash flow generated by the underlying commercial real estate or residential real estate serving as collateral;
+                    (bb) the value of the said collateral shall not materially be dependent on the performance of the obligor;
+                    (cc) the bank's claim in respect of the said collateral-
+                        (i) shall be legally enforceable in all relevant jurisdictions;
+                        (ii) shall reflect a perfected lien, that is, all legal requirements shall be fulfilled in order to enforce the bank's claim;
+                        (iii) shall be  realisable within a reasonable timeframe;
+                    (dd) the bank-
+                        (i) shall determine and apply the fair value of the collateral, that is, the value at which the property may be sold under private contract between a willing seller and a willing buyer on an arms-length basis, or less than the said fair value;
+                        (ii) shall monitor the value of the collateral on a regular basis but not less frequently than once every year;
+                        (iii) may use statistical methods such as reference to house price indices or sampling in order to update the bank's estimates of fair value or identify collateral that may have declined in value;
+                        (iv) shall make use of the services of a qualified professional person to value a particular property when information indicates that the value of the said property may have materially declined relative to general market prices, or when a credit event such as a default has occurred;
+                        (v) shall duly document-
+                            (a) the types of commercial real estate and residential real estate that the bank is willing to accept as collateral; 
+                            (b) the bank's lending policies, including the advance rates, in respect of commercial real estate or residential real estate as collateral;
+                        (vi) shall ensure that the property is adequately insured against damage or deterioration;
+                        (vii) shall monitor on an ongoing basis-
+                            (a) the extent of any permissible preferred claims such as tax in respect of the property;
+                            (b) the risk of environmental liability arising in respect of the collateral such as the presence of toxic material on the property.
+                (iii) Leases other than leases that expose the bank to residual risk
+                When a bank obtains collateral in the form of a lease agreement in respect of instruments/ assets that qualify as eligible collateral in terms of the foundation IRB approach, such a lease agreement shall be recognised as eligible collateral, provided that the bank shall in addition to the relevant minimum requirements relating to the relevant type of instrument/asset ensure that-
+                    (aa) the lessor has in place a robust risk-management process, which risk management process shall comprehensively address matters relating to-
+                        (i) the location of the asset;
+                        (ii) the use of the asset;
+                        (iii) | the age and condition of the asset;
+                        (iv) the asset's planned obsolescence;
+                    (bb) the lessor has in place a robust legal framework, which legal framework shall ensure that-
+                        (i) the legal ownership of the lessor in respect of the asset is well established;
+                        (ii) the lessor is able to exercise its rights as owner in a timely manner;
+                    (cc) the difference between the rate of depreciation of a physical asset and the rate of amortisation of the lease payments is not material, causing the risk mitigation effect of the leased asset to be overstated;
+                (iv) Leases that expose the bank to residual risk
+                When a bank obtains collateral in the form of a lease agreement in respect of instruments/ assets that qualify as eligible collateral in terms of the foundation IRB approach, which lease agreement exposes the bank to residual risk, that is, the bank is exposed to a potential loss due to, for example, a decline in the fair value of the equipment below the residual estimate at the inception of the lease agreement, the bank shall risk weight the relevant exposure in accordance with the relevant requirements specified in subparagraph (iii)(C) below.
+                (v) Physical collateral other than the types of collateral specified above, excluding any physical assets acquired by the reporting bank as a result of default by an obligor in respect of an underlying exposure, specified in writing by the Registrar, provided that-
+                    (aa) a liquid market shall exist in respect of the said collateral in order to ensure that the  collateral can be liquidated in an expeditious and economically efficient manner;
+                    (bb) a well established market with publicly available market prices relating to the said collateral shall exist and the amount realised by the reporting bank in respect of the said collateral shall not substantially deviate from the said market prices;
+                    (cc) except for preferential rights in respect of tax obligations or wages of employees, the bank shall have a priority claim in respect of the proceeds of the said collateral;
+                    (dd) the relevant loan agreement shall include a detailed description of the said collateral and detailed specifications in respect of the manner and frequency of revaluation;
+                    (ee) the bank shall have in place robust policies, processes and procedures relating to physical collateral, which policies, processes and procedures-
+                        (i) shall in the case of inventories such as raw materials or work-in-progress, and equipment, ensure that the bank conducts regular physical inspections of the said collateral;
+                        (ii) shall be subject to regular and appropriate independent review;
+                    (ff) the bank-
+                        (i) shall duly document the types of physical collateral and loan-to-value or lending-to-value ratios acceptable to the bank;
+                        (ii) shall comply with all the relevant minimum requirements relating to commercial real estate and residential real estate specified in sub-item
+                        (ii) above and such further conditions as may be specified in writing by the Registrar in respect of such a further category of physical assets qualifying as eligible collateral.        
+        (iii) Risk weighting (#Heading) (02-Regulations-part-2.pdf; pg 114)
+        When a bank that adopted the foundation IRB approach for the measurement of the bank's exposure to credit risk obtains-
+            (A) eligible financial collateral in respect of its exposures to corporate institutions, sovereigns or banks, the bank-
+                (i) shall calculate an adjusted exposure (E*) in accordance with the relevant formulae specified in subregulation (9)(b) above, provided that the bank shall comply with the relevant requirements that apply to the said formulae;
+                (ii) shall in the case of transactions other than repurchase and resale agreements subject to master netting agreements, calculate an effective loss-given-default ratio applicable to the collateralised transaction through the application of the formula 22 specified below.
+                    #Formula 22
+                    LGD* = LGD x (E*/E)
+                    where:
+                    LGD* is the effective loss-given-default ratio
+                    LGD shall be equal to 45 per cent, that is, the LGD ratio that applies to a senior unsecured exposure
+                    E is the relevant current value of the exposure
+                    #Formula 22 - end
+                (iii) shall in the case of repurchase and resale agreements subject to master netting agreements calculate an adjusted exposure (E*) in accordance with the relevant directives specified in subregulation (9)(b)(ix), which adjusted exposure shall be deemed to represent EAD, that is, the
+                bank shall not recognise the impact of collateral obtained in respect of the said transactions through an adjustment to LGD.
+                Similar to a bank that adopted the comprehensive approach in respect of collateral obtained in terms of the standardised approach, a bank that complies with the relevant requirements specified in subregulation (9)(b)(xv) relating to repurchase and resale agreements, may apply a haircut of zero per cent in respect of the said agreements.
+            (B) collateral in respect of the bank's corporate exposure, which collateral is recognised as eligible collateral in terms of the foundation IRB approach but not in terms of the standardised approach, the bank shall, subject to the provisions of item (C) below, in the case of a senior corporate exposure, divide the senior exposure into-
+                (i) a fully collateralised portion
+                The bank shall subsequently calculate the ratio of the current value of the collateral received to the current value of the exposure through the application of the formula 23 specified below.
+                    #Formula 23
+                    Ratio = C/E
+                    where:
+                    C is the relevant current value of the collateral received
+                    E is the relevant current value of the exposure
+                    #Formula 23 - end
+                When the said calculated ratio is below the threshold levels denoted C*, specified in table 15 below, the LGD ratio shall be 45 per cent, that is, the LGD ratio shall be similar to the LGD ratio in respect of an unsecured corporate exposure. When the said calculated ratio exceeds a higher threshold denoted C**, that is, the bank has an over-collateralised position, the bank shall, based on relevant type of collateral, assign to the relevant exposure the LGD ratios specified in table 15 below:
+                    #Table 15
+                    ||Minimum LGD|Required minimum collateralisation level of the exposure (C*)|Required level of over-collateralisation for full LGD recognition (C*)|
+                    ------|------|------|------|
+                    Receivables|35%|0%|125%|
+                    Commercial real estate and/or residential real estate| 35%|30%|140%|
+                    Other collateral|40%|30%|140%|
+                    #Table 15 - end
+                (ii)  an uncollateralised portion
+                The portion of the exposure not covered in terms of sub-item (i) above shall be regarded as unsecured and the bank shall assign to the said portion a LGD ratio equal to 45 per cent.
+            (C) eligible collateral in the form of a lease agreement, which lease agreement exposes the bank to residual risk, the bank shall risk weight-
+                (i) the discounted lease payments based on the financial strength, that is, the PD ratio, of the lessee, and the LGD ratio specified by the Registrar;
+                (ii) the residual value at 100 per cent.
+
+    (c) Pools of collateral (#Heading) (02-Regulations-part-2.pdf; pg 116)
+    When a bank obtained both eligible financial collateral and other eligible collateral, that is, collateral that is regarded as eligible collateral in terms of the foundation IRB approach but not in terms of the standardised approach, in respect of the bank's exposure to corporate institutions, sovereigns or banks, the bank-
+        (i) shall subdivide the adjusted value of the exposure, after the bank has applied the relevant haircut relating to eligible financial collateral, into the relevant portions covered by only one type of collateral, that is, the bank shall divide the exposure into a portion covered by-
+            (A) eligible financial collateral;
+            (B) receivables;
+            (C) collateral consisting of commercial real estate or residential real estate;
+            (D) other collateral;
+        and, when relevant, an unsecured portion.
+        When the ratio of the sum of the values of commercial real estate or residential real estate, and other collateral, to the reduced exposure, after the effect of eligible financial collateral and collateral consisting of receivables has been recognised, is below the relevant threshold level specified in paragraph (b)(iii)(B)(i) above, the bank shall assign to the relevant exposure an LGD ratio relating to an unsecured exposure, that is, 45 per cent.
+        (ii) shall separately calculate the risk-weighted exposure in respect of each fully secured portion of exposure in order to calculate the exposure's effective LGD and aggregated risk-weighted amount.
+    (d) Guarantees (#Heading) (02-Regulations-part-2.pdf; pg 117)
+        (i) Minimum requirements (#Heading)
+        As a minimum, a bank that adopted the foundation IRB approach for the recognition of risk mitigation in respect of guarantees-
+            (A) shall continuously comply with the relevant requirements specified in subregulation (7)(c)(iv) above;
+            (B) shall, except in the case of retail exposures and purchased retail receivables, use the LGD ratios specified in writing by the Registrar in respect of the bank's various exposures;
+            (C) shall not in the calculation of the bank's risk-weighted exposure reflect the effect of double default otherwise than in accordance with the relevant requirements specified in paragraph (g) below, that is, the adjusted risk weight relating to a particular exposure shall not be less than a comparable direct exposure to the relevant guarantor unless the bank calculates the said adjusted risk weight in accordance with the relevant requirements specified in paragraph (g) below,
+        provided that whenever a guarantee obtained in respect of an exposure results in a higher capital requirement for the reporting bank than before the recognition of such guarantee, the reporting bank may ignore the effect of the said guarantee.
+        (ii) Eligible guarantors (#Heading)
+        In addition to the eligible guarantors specified in the standardised approach in subregulation (7)(c), a bank that adopted the foundation IRB approach for the recognition of risk mitigation relating to guarantees obtained in respect of its exposures to corporate institutions, sovereigns, banks or purchased receivables may also recognise the effect of a guarantee obtained from a guarantor internally rated by the bank, provided that-
+            (A) the said guarantee shall comply with the relevant minimum requirements specified in subregulation (7)(c) above;
+            (B) for purposes of calculating the minimum required amount of capital and reserve funds of a branch in terms of the provisions of the Banks Act, 1990, read with these Regulations, no guarantee received from the parent foreign institution or any other branch of the parent foreign institution in respect of an exposure incurred by the branch in the Republic shall be regarded as an eligible guarantee.
+        (iii) Risk weighting (#Heading)
+        When a bank that adopted the foundation IRB approach for the measurement of the bank's risk-weighted credit exposure obtains-
+            (A) protection from an eligible guarantor in respect of the bank's credit exposure to a corporate institution, sovereign or bank the bank-
+                (i) shall divide the relevant exposure into a protected portion and an unprotected portion;
+                (ii) shall in respect of the protected portion apply-
+                    (aa) the risk-weight function relating to the relevant guarantor; and
+                    (bb) the PD ratio relating to the relevant guarantor, or a higher PD ratio relating to a risk grade between the underlying obligor and the relevant guarantor when the bank deems a complete substitution approach inappropriate,
+                provided that, based on its seniority or any collateralisation of a guaranteed commitment, the bank may replace the LGD ratio of the underlying transaction with the relevant LGD ratio relating to the said guaranteed position;
+                (iii) shall in respect of the unprotected portion, apply the risk weight relating to the underlying obligor;
+                (iv) shall in the case of-
+                    (aa) proportional protection comply with the relevant requirements specified in subregulation (9)(c)(v) above;
+                    (bb) a currency mismatch between the underlying obligation and the protection obtained comply with the relevant requirements specified in subregulation (9) (c)(vi) above.
+            (B) protection in the form of a guarantee in respect of a retail exposure or pool of retail exposures, the bank may reflect the risk reducing effect of the guarantee through an adjustment to the relevant PD ratio or LGD ratio, provided that the bank-
+                (i) shall comply with the relevant minimum requirements specified in subregulation (14)(c)(i) below;
+                (ii) shall apply the relevant adjustment to the PD ratio or LGD ratio in a consistent manner in respect of a given type of guarantee, and over time.
+            (C) protection in the form of a guarantee in respect of purchased receivables, the bank shall in the case of a guarantee-
+                (i) that covers both default risk and dilution risk, substitute the risk weight relating to default risk and dilution risk for the risk weight of the guarantor;
+                (ii) that covers only default risk or dilution risk, but not both, substitute the relevant risk weight relating to default risk or dilution risk for the risk weight of the guarantor, and add the relevant capital requirement for the other component;
+                (iii) that covers only a portion of the default risk and/or dilution risk, substitute the risk weight in respect of the protected exposure in accordance with the relevant directives specified above, and add the relevant risk weights relating to the unprotected exposure.
+            (D) protection against dilution risk in respect of purchased receivables, the bank may apply the double default approach specified in paragraph (g) below in order to calculate the required risk-weighted asset amount for dilution risk, provided that-
+                (i) the bank shall at all times comply with the relevant requirements specified in paragraph (g) below;
+                (ii) $PD_0$ shall be equal to the estimated EL amount;
+                (iii) $LGD_g$ shall be equal to 100 percent;
+                (iv) the bank shall determine the effective maturity of the relevant exposure in accordance with the relevant requirements specified in subregulation (11)(d)(vi)(A)(ii).
+    (e) Credit-derivative instruments (#Heading) (02-Regulations-part-2.pdf; pg 120)
+        (i) Minimum requirements (#Heading)
+        As a minimum, a bank that adopted the foundation IRB approach for the recognition of risk mitigation relating to credit protection obtained in the form of a credit-derivative instrument-
+            (A) shall comply with the relevant requirements specified in subregulation (9)(d);
+            (B) shall, except in the case of retail exposures and purchased retail receivables, use the LGD ratios in respect of its various exposures as specified in writing by the Registrar;
+            (C) shall not in the calculation of the bank's risk-weighted exposure reflect the effect of double default otherwise than in accordance with the relevant requirements specified in paragraph (g) below, that is, the adjusted risk weight relating to a particular exposure shall not be less than a comparable direct exposure to the relevant protection provider unless the bank calculates the said adjusted risk weight in accordance with the relevant requirements specified in paragraph (g) below,
+        provided that whenever credit protection obtained in respect of an exposure results in a higher capital requirement for the reporting bank than before the recognition of such credit protection, the reporting bank may ignore the effect of the said credit protection.
+        (ii) Eligible protection providers (#Heading)
+        In addition to the eligible protection providers specified in the standardised approach in subregulation (9)(d)(iii), a bank that adopted the foundation IRB approach for the recognition of risk mitigation relating to credit-derivative instruments obtained in respect of corporate institutions, sovereigns or banks may also recognise the effect of protection obtained from a protection provider that is internally rated, provided that the said protection shall comply with the relevant minimum requirements specified in subregulation (9) (d) (xi) above.
+        (iii) Risk weighting (#Heading)
+        When a bank that adopted the foundation IRB approach for the measurement of the bank's risk-weighted credit exposure obtains-
+            (A) protection from an eligible protection provider in respect of the bank's credit exposure to a corporate institution, sovereign or bank, the bank-
+                (i) shall divide the relevant exposure into a protected portion and an unprotected portion;
+                (ii) shall in respect of the protected portion, apply-
+                    (aa) the risk-weight function relating to the relevant protection provider; and
+                    (bb) the PD ratio relating to the relevant protection provider, or a higher PD ratio relating to a risk grade between the underlying obligor and the relevant protection provider when the bank deems a complete substitution approach inappropriate,
+                provided that, based on its seniority or any collateralisation of a protected exposure, the bank may replace the LGD ratio of the underlying transaction with the relevant LGD ratio relating to the said protected position;
+                (iii) shall in respect of the unprotected portion, apply the risk weight relating to the underlying obligor;
+                (iv)shall in the case of-
+                    (aa) proportional protection comply with the relevant requirements specified in subregulation (9)(d)(x) above;
+                    (bb) a currency mismatch between the underlying obligation and the protection obtained comply with the relevant requirements specified in subregulation (9)(d)(xi) above;
+            (B) protection in respect of a retail exposure or pool of retail exposures, the bank may reflect the risk reducing effect of the protection through an adjustment to the relevant PD ratio or LGD ratio, provided that the bank-
+                (i) shall comply with the relevant minimum requirements specified in subregulation (14)(d)(i) below;
+                (ii) shall apply the relevant adjustment to the PD ratio or LGD ratio in a consistent manner in respect of a given type of credit-derivative instrument, and over time.
+            (C) protection against dilution risk in respect of purchased receivables, the bank may apply the double default approach specified in paragraph (g) below in order to calculate the required risk-weighted asset amount for dilution risk, provided that-
+                (i) the bank shall at all times comply with the relevant requirements specified in paragraph (g);
+                (ii) $PD_0$ shall be equal to the estimated EL amount;
+                (iii) $LGD_g$ shall be equal to 100 percent;
+                (iv) the effective maturity of the relevant exposure shall be determined in accordance with the relevant requirements specified in subregulation (11)(d)(vi)(A) (ii).
+    (f) Maturity mismatches (#Heading) (02-Regulations-part-2.pdf; pg 122)
+    A bank that adopted the foundation IRB approach for the recognition of risk mitigation shall comply with the relevant requirements specified in subregulation (9)(e) in respect of any maturity mismatches between the bank's exposure to credit risk and the risk mitigation obtained in respect of the said credit exposure.
+    (g) Double default (#Heading) (02-Regulations-part-2.pdf; pg 122)
+        (i) In respect of each eligible exposure, a bank that obtained the prior written approval of the Registrar to adopt the foundation IRB approach for the measurement of the bank's exposure to credit risk may apply either the substitution approach envisaged in paragraphs (d) and (e) above or double default approach specified in this paragraph (g), provided that a bank that wishes to apply the double default approach-
+            (A) shall continuously comply with the relevant minimum requirements specified in this paragraph (g);
+            (B) in respect of the said eligible exposure shall calculate the relevant risk-weighted exposure amount and any related required amount of capital and reserve funds in accordance with the formulae and requirements specified in subparagraph (iv) below;
+            (C) shall calculate the risk weights and required amount of capital and reserve funds relating to all exposures to a particular obligor, other than eligible exposures envisaged in this paragraph (g), in accordance with the relevant requirements’ specified in subregulations (11) and (12), including any risk weight or required amount of capital and reserve funds relating to any unhedged or unprotected portion of an exposure in respect of which the hedged or protected portion of the said exposure is subject to the provisions of this paragraph (g);
+            (D) may apply the said double default approach to any eligible exposure, irrespective whether the exposure is held in the bank's banking book or trading book.
+        (ii) Eligible exposure (#Heading)
+        A bank that obtained the prior written approval of the Registrar to adopt the IRB approach for the measurement of the bank's exposure to credit risk may apply the double default approach only when-
+            (A) the relevant underlying obligation or exposure constitutes-
+                (i) a corporate exposure as envisaged in subregulation (11)(c)(i), provided that no specialised lending exposure subject to and mapped into the risk grades specified in subregulation (11)(d)(iii)(C) shall be eligible for treatment in terms of the double default approach;
+                (ii) a claim on a public-sector entity, provided that no sovereign exposure shall be eligible for treatment in terms of the double default approach;
+                (iii) a loan extended to a small business and categorised as a retail exposure as envisaged in  subregulation (11)(c)(iv)(A) (iii),
+                Provided that in no case shall any exposure in respect of which the underlying obligation relates to-
+                    (aa) a financial entity or institution as envisaged in subparagraph (iii)(B) (i) below; or
+                    (bb) a member of the same group as the protection provider,
+                    be eligible for treatment in terms of the double default approach.
+            (B) the protection provider is a financial entity or institution specified in subparagraph (iii) (B)(i) below;
+            (C) the bank obtained protection in respect of the said underlying exposure and the protection obtained relates to-
+                (i) a single-name unfunded credit-derivative instrument such as a credit-default swap;
+                (ii) a single name guarantee;
+                (iii) a first-to-default basket product, in which case the double default approach shall be applied to the asset within the basket with the lowest risk-weighted amount;
+                (iv) an nth-to-default basket product, in which case the protection obtained shall be eligible in terms of the double default approach only when the reporting bank also obtained eligible (n-1)th default protection or (n-1) of the assets within the basket have already defaulted,
+                that is, under no circumstances shall protection relating to-
+                    (aa) multiple name credit derivative instruments, other than nth-to-default basket products;
+                    (bb) multiple name guarantees;
+                    (cc) index-based products;
+                    (dd) synthetic securitisation and other tranched products that fall within the scope of the exemption notice relating to securitisation schemes;
+                    (ee) covered bonds to the extent such instruments are externally rated; and
+                    (ff) funded credit derivative instruments such as a credit linked note,
+                be eligible for the double default approach.
+
+        (iii) Specific minimum requirements relating to the double default approach (#Heading)
+        A bank that obtained the prior written approval of the Registrar to adopt the IRB approach for the measurement of the bank's exposure to credit risk, which bank wishes to apply the double default approach envisaged in this paragraph (g), shall continuously comply with the requirements specified in this subparagraph (iii).
+            (A) The PD ratio, LGD ratio, internal rating, external rating or risk weight associated with the relevant exposure prior to the application of the double default approach shall not already factor in any aspect relating to the relevant credit protection obtained, that is, credit protection shall under no circumstances be double counted.
+            (B) The protection provider-
+                (i) shall be a financial entity or institution, which financial entity or institution may be-
+                    (aa) a bank, but under no circumstances any public-sector entity or multilateral development bank that is treated in a manner similar to a bank in terms of these Regulations;
+                    (bb) an investment company or institution;
+                    (cc) an insurance or re-insurance company or entity the business of which includes the provision of credit protection on a regular basis;
+                    (dd) any non-sovereign credit export agency, that is, the credit protection shall not in any manner benefit from any sovereign guarantee or counter-guarantee;
+                (ii) shall be regulated in a manner similar to a bank, that is, the protection provider shall be subject to minimum required capital or solvency requirements, appropriate supervisory oversight and transparency, that is, minimum requirements relating to market discipline, or the protection provider shall have an external rating from an eligible external credit assessment institution of no less than investment grade;
+                (iii) at the time the credit protection for the relevant exposure was originally obtained, or for any period of time thereafter, had an internal rating with a PD ratio equivalent to or lower than the PD ratio associated with an external credit assessment or rating of A-; and
+                (iv) shall have an internal rating with a PD ratio equivalent to or lower than the PD ratio associated with an external investment grade rating or assessment.
+            (C) The credit protection obtained shall comply with the relevant minimum operational requirements envisaged in paragraphs (d) and (e) above.
+            (D) The reporting bank shall have the legal right and expect to receive payment from the relevant protection provider without first having to pursue the relevant obligor for payment, that is, the reporting bank shall take all reasonable steps in order to ensure that the protection provider is willing and able to promptly pay when a credit event occurs.
+            (E) Once a credit event occurs, the purchased credit protection shall make provision for immediate payment in respect of all credit losses incurred by the reporting bank in respect of the hedged portion of the relevant exposure.
+            (F) When the payout structure of the relevant credit protection obtained makes provision for physical settlement, the reporting bank shall have legal certainty regarding the deliverability of the relevant loan, instrument or contingent liability and when the bank intends to deliver an obligation other than the underlying exposure, the bank shall ensure that the deliverable obligation is sufficiently liquid in order for the bank to purchase the said obligation for delivery in accordance with the relevant requirements of the contract.
+            (G) The terms and conditions of the relevant credit protection shall be duly documented and legally confirmed in writing by the credit protection provider and the reporting bank.
+            (H) In the case of protection obtained against dilution risk, the seller of the purchased receivables shall not be a member of the same group as the protection provider.
+            (I) The reporting bank shall have in place a sufficiently robust process to monitor and control situations in which the performance of the protection provider and the protected obligor or exposure are dependent upon common factors, that is, the reporting bank shall have in place a sufficiently robust process to ensure that the double default approach is not applied to any exposure in respect of which excessive correlation exists between the creditworthiness of the protection provider and the obligor of the relevant underlying exposure.
+            For example, situations in which a protection provider guarantees the debt of a supplier of goods or services when the supplier derives a high proportion of its income or revenue from the protection provider shall not be eligible for the double default approach.
+        (iv) Matters specifically related to risk-weighted exposure and the required amount of capital and reserve funds (#Heading)
+        In respect of any hedged or protected exposure subject to the double default approach, the reporting bank shall calculate its risk-weighted exposure and related required amount of capital and reserve funds through the application of the formulae 24 specified below, which formulae take into account the relevant risk components related to the said protected exposure.
+            #Formula 24
+            $RWA_{DD} = K_{DD} \times 12.5 \times EAD_g$,
+            where:
+            $RWA_{DD}$ is the risk-weighted asset amount relating to the protected exposure subject to the double default approach
+            $EAD_{g}$ is the relevant exposure at default amount, that is, the protected or hedged exposure amount
+            and
+            $K_{DD} = K_0 \times (0.15+160 \times PD_g)$
+            where:
+            $K_{DD}$ is the capital requirement in respect of the hedged or protected exposure subject to the double default approach
+            $PD_g$ is the PD ratio of the protection provider or guarantor, which PD ratio shall be subject to a minimum of 0,03 per cent
+            $K_0$ shall be calculated through the application of the relevant formula and in a manner similar to unprotected corporate exposure as envisaged in subregulation (11)(d)(ii), even when the underlying obligation or eligible exposure is a loan extended to a small business qualifying as a retail exposure, provided that in respect of the relevant hedged exposure the risk components specified in the formula below, which risk components relate to the LGD ratio and the maturity adjustment, shall be applied instead of the said risk components specified in the said formula in subregulation (11)(d)(ii).
+            $$ K_0 = LGD_g \cdot \left[ N\left( \frac{G(PD_0 + \sqrt{\rho_{os}} \cdot G(0.999))}{\sqrt{1-\rho_{os}}} \right) \right] \cdot \frac{1+(M-2.5) \cdot b}{1-1.5 \cdot b}$$
+            where:
+            $PD_0$ is the PD ratio of the obligor, which PD ratio shall be subject to a minimum of 0,03 per cent
+            $\rho_{os}$ is a correlation factor, which correlation factor shall be calculated in accordance with the relevant formula and requirements for the calculation of "R", specified in subregulation (11)(d)(ii), with PD being equal to $PD_{0}$
+            $LGD_{g}$ is the LGD ratio associated with the protected or hedged exposure, that is, the LGD ratio relating to a direct exposure to the relevant protection provider or guarantor, provided that when evidence indicates that in the event both the guarantor and the obligor default during the life of the protected exposure the amount recovered depends upon the financial condition of the obligor, the bank shall apply the LGD ratio relating to an unprotected and direct exposure to the said obligor
+            $b$ is the maturity adjustment coefficient, calculated according to the relevant formula specified in subregulation (11)(d)(ii), provided that PD shall be the lower of PD, and $PD_g$
+            $M$ is the effective maturity of the credit protection, which maturity shall in no case be less than one year
+            #Formula 24 - end
+
+

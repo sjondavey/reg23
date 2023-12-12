@@ -1,0 +1,438 @@
+(18) Method 2: Calculation of counterparty credit exposure in terms of the standardised method (#Heading) (03-Regulations-part-3.pdf; pg 27)
+    (a) Matters relating to the exposure amount or EAD (#Heading)
+    A bank that adopted the standardised method for the measurement of the bank's exposure to counterparty credit risk-
+        (i) shall separately calculate its counterparty credit exposure or EAD amount in respect of each relevant netting set through the application of the formula 34 specified below:
+            #Formula 34
+            The exposure amount or EAD shall be equal to-
+            $$ \beta- max\left(CMV - CMC; \sum_j \left| \sum_i RPT_{ij} - \sum_l RPC_{lj} \right| \times CCF_j \right)$$    
+            where:
+            $CMV$ is the relevant current market value of the relevant portfolio of transactions within the netting set with a particular counterparty, gross of any collateral, that is, $CMV = \sum_i CMV_i$  
+            where:
+            $CMV_i$ is the relevant current market value of transaction $i$  
+            $CMC$ is the relevant current market value of the collateral assigned to the relevant netting set, that is, $CMC = \sum_l CMC_l$  
+            where:
+            $CMC$ is the relevant current market value of collateral l  
+            $i$ is the index designating transaction  
+            $l$ is the index designating collateral  
+            $j$ is the index designating specified hedging sets, which hedging sets correspond to risk factors for which risk positions of opposite sign may be offset to yield a net risk position on which the exposure measure is based  
+            $RPT_{ij}$ is the relevant risk position from transaction i with respect to hedging set j, that is, for example, a short-term FX forward contract with one leg denominated in the domestic currency shall be mapped into three risk positions, which is, firstly an FX risk position, secondly a foreign currency interest rate risk position and finally a domestic currency risk position 
+            $RPC_{lj}$ is the risk position from collateral | with respect to hedging set j
+            $CCF_j$ is the specified credit conversion factor with respect to the hedging set j
+            $\beta$ is the beta factor, which beta factor shall be equal to 1.4, provided that based on the reporting bank's exposure to counterparty credit risk and the related risk factors, the Registrar may specify a beta factor higher than 1.4
+
+            #Formula 34 - end
+        (ii) shall in the calculation of the exposure amount or EAD include collateral received from a counterparty as a positive amount and collateral posted to a counterparty as a negative amount, provided that only instruments qualifying as eligible collateral in accordance with the relevant provisions of subregulation (9)(b)(iv) shall be recognised as eligible collateral in terms of the provisions of this subregulation (18);
+        (iii) shall assign to any risk position that reflects a long position in respect of a transaction with a linear risk profile a positive sign, and to any risk position that reflects a short position in respect of a transaction with a linear risk profile a negative sign;
+        (iv) shall in the case of an OTC derivative transaction with a linear risk profile, such as a forward contract, future contract or swap contract, which contract requires an exchange of a financial instrument such as a bond, an equity instrument or a commodity against payment, treat the payment part of the transaction in accordance with the relevant requirements relating to payment legs specified in this subregulation (18);
+        (v) shall in the case of transactions that require the exchange of payment against payment, such as an interest-rate-swap contract or foreign-exchange forward contract, identify the relevant payment legs of the contract, which payment legs shall be represented by the contractually agreed gross payments, including the notional amount of the transaction, provided that for purposes of calculating the bank's exposure to counterparty credit risk-
+            (A) the bank may in the case of payment legs with a remaining maturity of less than one year disregard any relevant interest rate risk;
+            (B) the bank may treat transactions that consist of two payment legs denominated in the same currency, such as an interest-rate swap contract, as a single aggregate transaction;
+        (vi) shall in the case of transactions with linear risk profiles with equity, equity indices, gold, other precious metals or other commodities as the underlying financial instruments, map-
+            (A) the relevant component of the transaction to a risk position in the relevant equity, equity index or commodity hedging set, which commodity hedging set may relate to gold or other precious metals;
+            (B) the relevant payment leg of the transaction to an interest rate risk position within the appropriate interest rate hedging set, provided that when the payment leg is denominated in a foreign currency the bank shall also map the relevant component of the transaction to a foreign exchange risk position in the relevant currency;
+        (vi) shall in the case of transactions with linear risk profiles with a debt instrument such as a bond or loan as the underlying instrument, map the relevant transaction to an interest rate risk position with one risk position in respect of the relevant debt instrument and another risk position in respect of the payment leg, provided that-
+            (A) any transaction with a linear risk profile that requires an exchange of payment against payment, including any relevant foreign exchange forward contract, shall be mapped to an interest rate risk position in respect of each of the relevant payment legs;
+            (B) when the underlying debt instrument is denominated in a foreign currency, the bank shall map the relevant debt instrument to a foreign exchange risk position in the relevant currency;
+            (C) when a payment leg is denominated in a foreign currency, the bank shall map the relevant payment leg to a foreign exchange risk position in the said currency, that is, the bank, for example, shall map a short-term FX forward contract with one leg denominated in domestic currency into three risk positions, which is, firstly an FX risk position, secondly a foreign currency interest rate risk position and finally a domestic currency risk position;
+            (D) the bank shall assign to any foreign-exchange basis swap transaction an exposure amount or EAD of zero;
+        (viii) shall determine the size and sign of all relevant risk positions in accordance with the relevant formulae and requirements specified in paragraph (b) below, provided that in the case of-
+            (A) any transaction with a non-linear risk profile in respect of which the reporting bank is unable to determine the required delta value; or
+            (B) any payment leg or transaction with a debt instrument as the underlying instrument and in respect of which payment leg or transaction the reporting bank is unable to determine the required modified duration,
+        through the application of the bank's internal model approved by the Registrar for the measurement of the bank's exposure to market risk, the Registrar may determine the size of the relevant risk position or require the bank to instead use the current exposure method, provided that in the said cases the reporting bank shall not apply any netting and shall determine the relevant exposure amount or EAD as if the netting set comprised of only the said individual transaction;
+        (ix) shall group all relevant risk positions into the appropriate hedging sets specified in paragraph (c) below, provided that in respect of each relevant hedging set the reporting bank-
+            (A) shall calculate the absolute amount of the sum of the relevant risk positions, which sum shall constitute the net risk position and in the formula specified in subparagraph (i) above be represented by the variable in formula 35-
+                #Formula 35  
+                $ \left| \sum_i RPT_{ij} - \sum_l RPC_{lj} \right|$  
+                #Formula 35 - end
+            (B)  shall in the case of option contracts include in the relevant net risk position any sold option that may increase the current market value of the relevant netting set;
+        (x) shall in respect of the net risk position relating to a specific hedging set apply the relevant credit conversion factors specified in paragraph (d) below, provided that in the case of-
+            (A) any transaction with a non-linear risk profile in respect of which the reporting bank is unable to determine the required delta value; or
+            (B) any payment leg or transaction with a debt instrument as the underlying instrument and in respect of which payment leg or transaction the reporting bank is unable to determine the required modified duration,
+        through the application of the bank's internal model approved by the Registrar for the measurement of the bank's exposure to market risk, the Registrar may determine the relevant credit conversion factor relating to the relevant risk position or require the bank to instead use the current exposure method, provided that in the said cases the reporting bank shall not apply any netting and shall determine the relevant exposure amount or EAD as if the netting set comprised of only the said individual transaction.
+    (b) Further matters relating to the size and sign of an exposure amount or EAD (#Heading)
+    In respect of any bank that adopted the standardised method for the measurement of the bank's exposure to counterparty credit risk, the size of a risk position arising from-
+        (i) any instrument other than a debt instrument, which risk position relate to a transaction with a linear risk profile, shall be the effective notional value, that is, the relevant market price multiplied by the relevant quantity, of the relevant underlying financial instrument, which instrument may include a commodity, converted to the bank's domestic currency;
+        (ii) a debt instrument, and the payment legs of all transactions, shall be the effective notional value of the outstanding gross payments, including the notional amount, converted to the bank's domestic currency, multiplied by the modified duration of the relevant debt instrument or payment leg;
+        (iii) a credit-default swap, shall be the notional value of the relevant reference debt instrument multiplied by the remaining maturity of the said credit-default swap;
+        (iv) an OTC derivative instrument with a non-linear risk profile, including options and swaptions, shall be the delta equivalent effective notional value of the relevant financial instrument underlying the transaction provided that the underlying financial instrument is an instrument other than a debt instrument;
+        (v) an OTC derivative instrument with a non-linear risk profile, including options and swaptions, in respect of which instrument the underlying is a debt instrument or payment leg, shall be the delta equivalent effective notional value of the relevant financial instrument or payment leg multiplied by the modified duration of the relevant debt instrument or payment leg,
+    provided that the reporting bank may use the formulae 36 and 37 specified below in order to determine the size and sign of a specific risk position.
+            (A) In the case of all instruments other than debt instruments, through the application of the formula specified below:
+            The effective notional value or delta equivalent notional value shall be equal to-
+                #Formula 36  
+                $ p_{ref} \frac{\partial V}{\partial p}$  
+                where:
+                $P_{ref}$ is the relevant price of the underlying instrument, expressed in the reference currency
+                $V$ is the relevant value of the financial instrument, that is, in the case of an option contract, the option price, and in the case of a transaction with a linear risk profile, the value of the underlying instrument itself
+                $p$ is the price of the underlying instrument, expressed in the same currency as "v"
+
+                #Formula 36 - end
+            (B) In the case of all debt instruments, and the payment legs of all transactions, through the application of the formula specified below:
+            Effective notional value multiplied by the modified duration, or
+            Delta equivalent in notional value multiplied by the modified duration
+                #Formula 37  
+                $ \frac{\partial V}{\partial r} $  
+                where:
+                $V$ is the relevant value of the financial instrument, that is, in the case of an option contract, the option price, and in the case of a transaction with a linear risk profile, the value of the underlying instrument itself or of the relevant payment leg
+                Provided that when "v" is denominated in a currency other than the reference currency, the bank shall convert the derivative into the reference currency by multiplying the relevant amount with the relevant exchange rate  
+                $r$ is the relevant interest level
+
+                #Formula 37 - end
+    (c) Matters relating to hedging sets (#Heading)
+    A bank that adopted the standardised method for the measurement of the bank's exposure to counterparty credit risk-
+        (i) shall in the case of any interest rate position arising from debt instruments of low specific risk, that is, any debt instrument subject to a specific risk capital requirement of 1,6 per cent or lower in terms of the relevant requirements relating to the standardised approach for market risk envisaged in regulation 28(4) read with the relevant requirements specified in regulation 28(7), and in respect of each relevant currency, map the relevant position into one of six hedging sets specified in table 20 below, provided that-
+            (A) the bank shall assign relevant interest rate positions arising from the payment legs to the same hedging sets as interest rate risk positions from debt instruments of low specific risk;
+            (B) the bank shall assign interest rate positions arising from money deposits received from a counterparty as collateral to the same hedging sets as interest rate risk positions from debt instruments of low specific risk;
+            (C) in the case of any underlying debt instrument such as a floating rate note, or payment legs such as floating rate legs relating to interest swaps, in respect of which the interest rate is linked to a reference interest rate that represents a general market interest level such as a government bond yield, a money market rate or swap rate, the bank shall base the rate adjustment frequency on the length of the time interval up to the next re-adjustment of the reference interest rate. Otherwise, the remaining maturity shall be the remaining life of the underlying debt instrument or, in the case of any payment leg, the remaining life of the transaction;
+            (D) there shall be one hedging set in respect of each relevant issuer of a reference debt instrument that underlies a credit-default swap;
+            (E) there shall be one hedging set in respect of each relevant issuer of a debt instrument of high specific risk, that is, any debt instrument subject to a specific risk capital requirement of more than 1,6 per cent in terms of the relevant requirements relating to the standardised approach for market risk envisaged in regulation 28(4) read with the relevant requirements specified in regulation 28(7), or when deposits are placed as collateral with a counterparty with no debt obligations outstanding of low specific risk;
+            (F) when a payment leg emulates a debt instrument of high specific risk, such as a total-return swap contract with one leg emulating a bond, there shall be one hedging set in respect of each relevant issuer of the said reference debt instrument provided that the reporting bank may assign risk positions that arise from debt instruments relating to a specific issuer or from reference debt instruments of the same issuer that are emulated by payment legs or that underlie a credit-default swap to the same hedging set,
+        which hedging sets shall be defined per currency, based on a combination of-
+                (i) the nature of the reference interest rate, that is, a sovereign rate or a rate other than a sovereign rate;
+                (ii) the remaining maturity or rate adjustment frequency of the relevant instrument, that is, one year or less, more than one year to five years, and more than five years, as specified in table 19 below:
+                    #Table 19
+                    Hedging sets for interest rate risk positions, per currency
+                    Remaining maturity or rate-adjustment frequency| Sovereign-referenced interest rates|Non-sovereign referenced interest rates|
+                    -------|-------|-------|
+                    $\leq$ 1 year|X|X|
+                    (1 year, 5 years]|X|X|
+                    $>$ 5 years |X|X|  
+
+                    #Table 19 - end
+        (ii) shall in the case of underlying financial instruments other than debt instruments, such as equity instruments, precious metals or commodities, assign the relevant instrument to the same hedging set only when the said instruments are identical or similar instruments, where similar instruments in the case of-
+            (A) equity instruments mean instruments issued by the same issuer provided that the reporting bank shall treat an equity index as a separate issuer;
+            (B) precious metals mean instruments relating to the same metal provided that the reporting bank shall treat a precious metal index as a separate precious metal;
+            (C) commodities mean instruments relating to the same commodity provided that the reporting bank shall treat a commodity index as a separate commodity;
+            (D) electric power include delivery rights and obligations that relate to the same peak or off-peak load time interval within any relevant 24 hour interval.
+    (d) Matters relating to credit conversion factors (#Heading)
+    In respect of the net risk position relating to a specific hedging set, a bank that adopted the standardised method for the measurement of the bank's exposure to counterparty credit risk shall in the case of-
+        (i) a net risk position arising from a debt instrument or reference debt instrument apply a credit conversion factor of-
+            (A) 0.6 percent when the risk position relates to a debt instrument or reference debt instrument of high specific risk;
+            (B) 0.3 percent when the risk position relates to a reference debt instrument that underlies a credit-default swap, which instrument is of low specific risk;
+            (C) 0.2 percent when the risk position relates to a net position other than a position envisaged in item (A) or (B) above.
+        (ii) underlying financial instruments other than debt instruments, and in respect of foreign exchange rates, apply the credit conversion factors specified in table 20 below:
+            #Table 20
+            Exchange rates| Gold| Equity | Precious metals (excluding gold) | Electric power | Other commodities (excluding precious metals)
+            -------|-------|-------|-------|-------|-------|
+            2.5%|5.0%|7.0%|8.5%|4%|10.0%|
+
+            #Table 20 - end
+        (iii) underlying instruments of OTC derivative instruments, which instruments are not included in any one of the categories specified in subparagraph (i) or (ii) above, apply to the relevant notional equivalent amount a credit conversion factor of 10 per cent, provided that the reporting bank shall assign the said instrument to a separate individual hedging set in respect of each relevant category of underlying instrument.
+
+
+
+(19) Method 3: Calculation of counterparty credit exposure in terms of the internal model method  (#Heading) (03-Regulations-part-3.pdf; pg 36)
+    (a) Matters relating to the exposure amount or EAD, and matters related thereto (#Heading) (03-Regulations-part-3.pdf; pg 36)
+    A bank that obtained the approval of the Registrar to adopt the internal model method for the measurement of the bank's exposure to counterparty credit risk-
+        (i) shall calculate its counterparty credit exposure or EAD amount at the level of each relevant netting set and through the application of the formulae specified below, provided that-
+            (A) the bank shall in no case capture the effect of a reduction of EAD due to a clause in a collateral agreement that requires receipt of collateral when counterparty credit quality deteriorates;
+            (B) when the bank's internal model includes the effect of collateral on changes in the market value of the netting set, the bank shall jointly model collateral other than cash of the same currency as the exposure itself with the exposure in its EAD calculations for securities financing transactions;
+            (C) when the bank is unable to jointly model any relevant eligible collateral with the exposure to recognise in its EAD calculations for OTC derivatives the effect of collateral, other than cash of the same currency as the exposure itself, the bank shall apply either haircuts that meet the standards of the financial collateral comprehensive approach specified in subregulation (9) of these Regulations with own haircut estimates or the standard haircuts specified in subregulation (9) (b) (xi);
+            (D) when the bank identified specific wrong way risk in respect of a counterparty, the bank shall calculate its relevant counterparty credit exposure or EAD amount, see formula 38, and any related amount of required capital and reserve funds in accordance with the relevant requirements specified in subparagraph (ii) below.
+                #Formula 38  
+                $\text{Exposure amount or } EAD = \alpha \times EEPE$  
+                where:
+                $EAD$ is the relevant exposure amount or exposure at default   
+                $\alpha$ is an alpha factor, which alpha factor shall be equal to 1.4 if the bank complies with all the relevant qualitative requirements specified in regulations 39(8) to 39(12) of these Regulations, provided that-
+                (i) based on the reporting bank's exposure to counterparty credit risk, the bank's backtesting results of its model, the bank's level of compliance with the qualitative requirements specified in regulations 39(8) to 39(12) of these Regulations, and the related risk factors, the Registrar may specify a higher alpha factor, which related risk factors may include low granularity of counterparties, high exposures to general wrong-way risk or high correlation of market values across counterparties;
+                (ii) subject to the prior written approval of the Registrar and in accordance with the relevant requirements specified in paragraph (b) below, the bank may estimate its own alpha factor 
+                $EEPE$ is the effective expected positive exposure, which effective expected positive exposure is the weighted average effective expected exposure during the first year of future exposure calculated across possible future values of relevant market risk factors such as interest rates or foreign exchange rates and in accordance with the formula specified below, provided that when all contracts in the relevant netting set mature before one year, effective expected positive exposure shall be the weighted average of effective expected exposure until all contracts in the netting set mature  
+                $\text{Effective } EPE = \sum_{k=1}^{\min(1 \text{ year}, \text{maturity})} \text{effective }EE_{tk} \times \Delta t_k$  
+                where:
+                $EE$ is the expected exposure amount estimated by the bank's internal model at the relevant series of future dates  
+                and  
+                the weights $\Delta t_k = t_k-t_{k-1}$ make provision for the cases when future exposure is calculated at dates that are not equally spaced over time
+                effective expected exposure shall be calculated recursively through the application of the formula specified below  
+                $\text{Effective }EE_{tk} = \max(\text{effective }EE_{tk-1}, EE_{tk})$  
+                where:
+                current date shall be denoted by $t_0$  
+                and  
+                Effective $EE_{t_0}$ shall be equal to the current exposure  
+                #Formula 38 - end
+        (ii) shall in the case of an instrument where a connection exists between the counterparty and the underlying issuer, and for which specific wrong way risk has been identified, calculate its relevant counterparty credit exposure or EAD amount and any related required amount of capital and reserve funds in accordance with the relevant requirements specified in this subparagraph (ii), provided that-
+            (A) when calculating its relevant required amount of capital and reserve funds for counterparty credit risk, the relevant aforesaid instrument in respect of which a connection exists between the counterparty and the underlying issuer shall be regarded as not being part of the same netting set as other transactions with that counterparty;
+            (B) in the case of a single-name credit default swap, the exposure or EAD amount in respect of that swap counterparty shall be equal to the full expected loss in the remaining fair value of the underlying instruments assuming the underlying issuer is in liquidation;
+            The use of the full amount of expected loss in remaining fair value of the underlying instrument allows the bank to recognise, in respect of such swap, the market value that has already been lost and any expected recoveries.
+            Accordingly, for such swap transactions, a bank that adopted-
+                (i) the standardised approach for the measurement of the bank's exposure to credit risk shall apply the relevant risk weight applicable to an unsecured transaction;
+                (ii) the foundation or advanced IRB approach for the measurement of the bank's exposure to credit risk shall set LGD equal to 100 per cent.
+            Recoveries may be possible on the underlying instrument beneath such a swap. The relevant capital requirement for such underlying exposure shall be calculated without reduction for the swap that introduces wrong way risk. Normally this will result in the underlying exposure being risk weighted equivalent to an unsecured transaction, that is, assuming the underlying exposure is an unsecured credit exposure.
+            (C) in the case of equity derivatives, bond options, securities financing transactions, etc., referencing a single company, EAD shall be equal to the value of the transaction under the assumption of a jump-to-default of the underlying security, provided that when this results in the re-use of possibly existing market risk calculations for IRC that already contain an LGD assumption, the LGD shall be set equal to 100 per cent;
+        (iii) shall calculate an expected exposure amount or peak exposure amount based on a distribution of exposures that accounts for any non-normality in the said distribution of exposures, including any leptokurtosis, that is, fat tails;
+        (iv) may, subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, instead of calculating the exposure amount or EAD by multiplying effective expected positive exposure with the specified alpha factor specified in subparagraph (i) above, use a more conservative measure than effective expected positive exposure, such as a VaR model for counterparty exposure or another measure based on peak exposure instead of average exposure;
+        (v) may in the calculation of its counterparty credit exposure or EAD apply any form of internal model, including a simulation model or analytical model, provided that-
+            (A) the said internal model adopted by the reporting bank shall specify the forecasting distribution for changes in the market value of a netting set attributable to changes in market variables such as interest rates or foreign exchange rates, which forecasting distribution for changes in the market value of a netting set may include eligible financial collateral specified in subregulation (9)(b)(iv), provided that the bank shall in respect of the said collateral comply with the relevant quantitative, qualitative and data requirements relating to the internal model method, specified in this subregulation (19);
+            (B) in respect of each relevant future date and based on the changes in the market variables, the model shall compute the bank's exposure to counterparty credit risk relating to a particular netting set;
+            (C) in the case of a counterparty subject to a margining agreement, the model may capture future movements in the value of collateral;
+            (D) to the extent that the reporting bank recognises collateral in the estimation of an exposure amount or EAD via current exposure, the bank shall not recognise the said benefit of collateral in its estimates of LGD, that is, the bank shall apply an LGD ratio of an otherwise similar uncollateralised facility when the bank recognises the value of collateral obtained in the estimation of an exposure amount or EAD;
+            (E) the bank shall at all times comply with the relevant requirements specified in paragraph (f) below.
+        (vi) shall determine the effective maturity relating to a particular netting set in accordance with the relevant requirements specified in paragraph (c) below;
+        (vii) shall not in the calculation of its exposure amount or EAD apply any cross-product netting otherwise than in accordance with the relevant requirements specified in paragraph (d) below.
+        (viii) shall in respect of any netting set subject to margining calculate the relevant exposure in accordance with the relevant requirements specified in paragraph (e) below;
+        (ix) may in respect of any OTC derivative transaction or contract subject to novation or a legally enforceable bilateral netting agreement recognize the effect of the said novation or netting agreement in accordance with the relevant requirements specified in subregulation (17) above.
+    (b) Matters relating to own estimates of alpha (#Heading) (03-Regulations-part-3.pdf; pg 41)
+    Subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, a bank that adopted the internal model method for the measurement of the bank's exposure to counterparty credit risk may calculate its own internal estimates of alpha, provided that-
+        (i) the alpha factor shall in no case be less than 1.2, that is, any internally estimated alpha factor shall be subject to an absolute minimum of 1.2;
+        (ii) alpha shall constitute a ratio, calculated as-
+            (A) economic capital derived from a joint simulation of all relevant market and credit risk factors relating to counterparty exposure across all relevant counterparties, as the numerator; divided by
+            (B) economic capital based on expected positive exposure, as the denominator,
+        (iii) any internal estimate of alpha shall take into account the granularity of the relevant exposures;
+        (iv) the bank-
+            (A) shall comply with all relevant operating requirements relating to internal estimates of expected positive exposure specified in paragraph (f) below;
+            (B) shall demonstrate to the satisfaction of the Registrar that its internal estimate of alpha captures in the numerator the material sources of stochastic dependency of distributions of market values of transactions or portfolios of transactions across counterparties, such as the correlation of defaults across counterparties and between market risk and default;
+            (C) shall in respect of the denominator, apply expected positive exposure in a manner similar to a fixed outstanding loan amount;
+            (D) shall ensure that the numerator and denominator of alpha are calculated in a consistent manner with respect to the modelling methodology, parameter specifications and portfolio composition;
+            (E) shall ensure that the approach applied by the bank in order to determine alpha is based on the internal economic capital approach adopted by the bank, which approach-
+                (i) shall be duly documented;
+                (ii) shall be subject to independent validation.
+            (F) shall frequently review its internal estimates of alpha, but in no case less frequently than once a quarter or more frequently when the composition of the relevant portfolio varies over time;
+            (G) shall continuously assess its model risk;
+        (v) when appropriate, any volatility and correlation of market risk factors used in the joint simulation of market risk and credit risk shall be conditioned on the credit risk factor in order to reflect potential increases in volatility or correlation in an economic downturn situation.
+
+    (c) Matters relating to effective maturity (#Heading) (03-Regulations-part-3.pdf; pg 42)
+    A bank that obtained the approval of the Registrar to adopt the internal model method for the measurement of the bank's exposure to counterparty credit risk shall in the case of-
+        (i) a netting set in respect of which the original maturity of the longest-dated contract contained in the said netting set is equal to or exceeds one year, calculate the effective maturity of the relevant exposure through the application of the formula specified below, instead of the formula specified in subregulation (13) (d)(ii)(B), provided that subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, a bank that uses an internal model, amongst other things, to calculate a one-sided credit valuation adjustment relating to its counterparty credit exposure may apply the effective credit duration estimated by the bank in respect of the said exposure instead of the effective maturity calculated in accordance with the formula 39 specified below:
+            #Formula 39   
+            $$
+            M = \frac{\sum_{k=1}^{t_k \leq 1 \text{} year} \text{Effective }EE_k \times \Delta t_k \times df_k + \sum_{t_k \geq 1 \text{ year}}^{\text{maturity}}EE_k \times \Delta t_k \times df_k}{\sum_{k=1}^{t_k \leq 1 \text{ year}} \text{Effective }EE_k \times \Delta t_k \times df_k}
+            $$  
+            where  
+            $M$ is the effective maturity, which effective maturity shall be subject to a maximum of five years
+            $df_k$ is the risk-free discount factor relating to future time period $t_k$   
+            #Formula 39 - end
+        (ii) a netting set in respect of which all contracts have an original maturity of less than one year, other than any short-term exposure as envisaged in subparagraph (iii) below, calculate the effective maturity of the relevant exposure in accordance with the formula and requirements specified in subregulation (13) (d)(ii)(B), provided that the bank shall in respect of the said exposures apply a maturity floor equal to one year;
+        (iii) any short-term exposure calculate the effective maturity of the relevant exposure in accordance with the formula and requirements specified in subregulation (13) (d) (ii) (B) (ii).
+
+    (d) Matters relating to cross-product netting (#Heading) (03-Regulations-part-3.pdf; pg 43)
+        (i) A bank that obtained the approval of the Registrar to adopt the internal model method for the measurement of the bank's exposure to counterparty credit risk may include in a particular netting set relating to a particular counterparty any exposure arising from a securities financing transaction or both a securities financing transaction and an OTC derivative contract, provided that-
+            (A) in all cases the bank shall have in place a legally sound bilateral netting agreement, which agreement shall comply with the relevant requirements and criteria specified in subparagraph (ii) below;
+            (B) at all times, the bank shall comply with such procedural requirements or additional requirements as may be specified in writing by the Registrar.
+        (ii) Legal and operational criteria (#Heading) (03-Regulations-part-3.pdf; pg 43)
+        A bank that wishes to include in a netting set relating to a particular counterparty, exposures that arise from securities financing transactions or both securities financing transactions and OTC derivative contracts shall have in place a legally sound written bilateral netting agreement with the said counterparty, which agreement shall create a single legal obligation covering all relevant bilateral master agreements and transactions, such that the bank would have either a claim to receive or obligation to pay only the net sum of the relevant positive and negative close-out amounts and mark-to-market values in the event of any failure of the counterparty to perform in accordance with the said transactions, contracts or agreements, irrespective whether or not the said failure relates to default, bankruptcy, liquidation or similar circumstances, provided that-
+            (A) the bank shall have in place written and reasoned legal opinion that conclude with a high degree of certainty that in the event of legal challenge the relevant courts or administrative authorities would find the bank's exposure in terms of the said cross-product netting agreement to be the cross-product net amount under the laws of all relevant jurisdictions-
+                (i) which legal opinions-
+                    (aa) as a minimum, shall address the validity and enforceability of the said cross-product netting agreement under its terms and the impact of the cross-product netting agreement on the material provisions of any included bilateral master agreement;
+                    (bb) shall generally be recognised in all relevant jurisdictions or communities.
+                (ii) which laws of all relevant jurisdictions include-
+                    (aa) the law of the jurisdiction in which the counterparty is chartered or incorporated and if the foreign branch of a counterparty is involved, the law of the jurisdiction in which the branch is located;
+                    (bb) the law that governs the relevant individual transactions;
+                    (cc) the law that governs any contract or agreement necessary to effect the netting.
+            (B) the bank shall have in place robust internal procedures to verify, prior to including a transaction in a netting set, that the transaction is covered by legal opinions that comply with the aforesaid criteria;
+            (C) the bank shall regularly update all relevant legal opinions in order to ensure continued enforceability of the cross-product netting agreement in light of any possible changes in relevant law;
+            (D) the cross-product netting agreement shall not contain any walk-away clause, that is, any provision that permits a non-defaulting counterparty to make only limited payments or no payment at all to the estate of the person that defaulted, even when the defaulting person is a net creditor;
+            (E) each relevant bilateral master agreement and transaction included in across-product netting agreement shall continuously comply with any relevant legal requirement specified in these Regulations that may have an impact on the legal recognition or enforceability of the said bilateral agreement, contract or transaction;
+            (F) the reporting bank shall duly maintain record of all relevant and required documentation;
+            (G) the reporting bank shall aggregate the relevant credit risk amounts relating to each relevant counterparty in order to obtain the single legal exposure amount across products and transactions covered by the cross-product netting agreement, which aggregated amount, amongst other things, shall form part of the bank's risk management processes relating to credit risk, credit limits and economic capital;
+            (H) the reporting bank shall demonstrate to the satisfaction of the Registrar that the bank effectively integrates the risk-mitigating effects of cross-product netting into its risk management and other information technology systems.
+    (e) Matters relating to margin agreements (#Heading) (03-Regulations-part-3.pdf; pg 45)
+        (i) Subject to the provisions of subparagraphs (ii) and (iii) below, when-
+            (A) a particular netting set is subject to a margin agreement and the reporting bank's internal model is able to capture the effect of margining in its estimation of expected exposure, the bank may apply for the approval of the Registrar to use the said estimated expected exposure amount directly in the formula relating to effective expected exposure, specified in paragraph (a) above;
+            (B) a particular counterparty exposure is subject to a margin agreement and the reporting bank's model is able to calculate expected positive exposure without margin agreements but the model is not sufficiently sophisticated to calculate expected positive exposure with margin agreements, the effective expected positive exposure of a counterparty that is subject to a margin agreement, re-margining and daily mark-to-market as envisaged in subparagraph (ii) below, shall be deemed to be equal to the lesser of-
+                (i) effective expected positive exposure without any held or posted margining collateral, plus any collateral that has been posted to the counterparty independent of the daily valuation and margining process or current exposure, that is, initial margin or independent amount; or
+                (ii) an add-on that reflects the potential increase in exposure over the margin period of risk plus the larger of-
+                    (aa) the current exposure net of and including all collateral currently held or posted, excluding any collateral called or in dispute; or
+                    (bb) the largest net exposure, including all collateral held or posted under the margin agreement that would not trigger a collateral call, which amount shall reflect all relevant thresholds, minimum transfer amounts, independent amounts and initial margins under the margin agreement,
+                    which add-on shall be calculated as formula 40:
+                        #Formula 40  
+                        $E[\max(\Delta MtM, 0)]$  
+                        where:
+                        $E[...]$ is the expectation, that is, the average over scenarios
+                        $\Delta MtM$ is the possible change of the mark-to-market value of the transactions during the margin period of risk  
+                        Provided that-
+                        (i) changes in the value of collateral shall be reflected using the standard haircut method or own estimates of haircut method envisaged in subregulation (9)(b) of these Regulations, but no collateral payments are assumed during the margin period of risk;
+                        (ii) the margin period of risk shall be subject to the relevant floor specified in subparagraph (ii) below;
+                        (iii) through backtesting, the bank shall test whether realised exposures are consistent with the shortcut method prediction over all relevant margin periods within one year envisaged in this item (B), provided that when backtesting indicates that effective EPE is underestimated, the bank shall take appropriate action to make the method more conservative, such as, for example, scaling up risk factor moves;
+                        (iv) when some of the trades in the netting set have a maturity of less than one year, and the netting set has higher risk factor sensitivities without these trades, the bank shall take this fact into
+                        account;   
+                        #Formula 40 - end
+        (ii) In the case of transactions subject to daily re-margining and mark-to-market valuation, when the bank calculates its exposure or EAD amount subject to margin agreements, the bank shall apply a floor margin period of risk of five business days for netting sets consisting only of repo-style transactions, and a floor margin period of risk of 10 business days for all other netting sets, provided that-
+            (A) in respect of all netting sets where the number of trades exceeds 5,000 at any point during a quarter, the bank shall apply a floor margin period of risk of 20 business days for the following quarter;
+            (B) in respect of netting sets containing one or more trades involving either illiquid collateral, or an OTC derivative that cannot be easily replaced, the bank shall apply a floor margin period of risk of 20 business days.
+            For purposes of this paragraph (e), “illiquid collateral” and “OTC derivatives that cannot be easily replaced” shall be determined in the context of stressed market conditions and shall be characterised by the absence of continuously active markets where a counterparty would, within two or fewer days, obtain multiple price quotations that would not move the market or represent a price reflecting a market discount in the case of collateral, or premium in the case of an OTC derivative.
+            Examples of situations where trades shall be deemed illiquid include, but are not limited to, trades that are not marked daily and trades that are subject to specific accounting treatment for valuation purposes, such as OTC derivatives or repo-style transactions referencing securities of which the fair value is determined by models with inputs that are not observed in the market.
+            (C) in all cases the bank shall duly consider whether trades or securities held as collateral are concentrated in a particular counterparty, and if that counterparty suddenly exited the market, whether the bank would be able to replace its trades;
+            (D) when the bank experienced more than two margin call disputes on a particular netting set during the preceding two quarters, and the disputes lasted longer than the applicable margin period of risk, before consideration of this provision, the bank shall in respect of the following two quarters apply a margin period of risk at least double the floor specified hereinbefore for that netting set;
+            (E) in the case of re-margining with a periodicity of N-days, irrespective of the shortcut method or full internal model method envisaged hereinbefore, the bank shall apply a margin period of risk of at least the aforesaid specified floor plus the N days minus one day, that is, formula 41:
+                #Formula 41  
+                Margin Period of Risk = $F + N- 1$.
+                where:
+                $F$ is the floor number of days specified hereinbefore  
+                $N$ is the said periodicity of N-days for re-margining  
+                #Formula 41 - end
+        (iii) The requirements specified in subregulation (7)(b)(iii) of these Regulations regarding legal certainty, documentation, correlation and a robust risk management process shall, insofar as the said provisions are relevant, mutatis mutandis apply in respect of all relevant margin agreements.
+    (f) Matters relating to model validation and operational requirements (#Heading) (03-Regulations-part-3.pdf; pg 48)
+    A bank that wishes to adopt the internal model method for the measurement of the bank's exposure to counterparty credit risk by estimating expected positive exposure, that is, a bank that wishes to apply its EPE model, shall in addition to such requirements as may be specified in writing by the Registrar comply with-
+        (i) the qualitative requirements specified in regulation 39(8), which qualitative requirements include matters relating to-
+            (A) the bank's EPE model;
+            (B) board and senior management oversight and involvement;
+            (C) an independent risk control function or unit; and
+            (D) backtesting.
+        (ii) the operational requirements specified in regulations 39(9) to 39(12), which operational requirements include matters relating to-
+            (A) the use test;
+            (B) stress testing;
+            (C) the identification of wrong-way risk; and
+            (D) internal controls and model integrity.
+    (g) Matters related to minimum required capital and reserve funds for default risk  (#Heading) (03-Regulations-part-3.pdf; pg 49)
+    In order to determine the minimum required amount of capital and reserve funds for default risk in respect of a bank's exposure to counterparty credit risk, a bank that obtained the approval of the Registrar to adopt the internal model method shall use the greater of-
+        (i) the portfolio-level capital requirement, excluding the requirement related to credit valuation adjustments (CVA) envisaged in paragraph (h) below, based on Effective EPE using current market data; and
+        (ii) the portfolio-level capital requirement based on Effective EPE using a stress calibration, provided that the stress calibration shall be a single consistent stress calibration for the whole portfolio of relevant counterparties,
+    Provided that the greater of Effective EPE using current market data and the stress calibration shall be applied on a total portfolio level and not on a counterparty by counterparty basis.
+    (h) Matters related to minimum required capital and reserve funds for credit valuation adjustments (CVA) for a bank that obtained approval for the internal model method for the measurement of the bank's exposure to counterparty credit risk and the internal models approach for the measurement of specific risk as part of the bank's exposure to market risk (#Heading) (03-Regulations-part-3.pdf; pg 49)
+        (i) A bank that obtained the approval of the Registrar for the use of the internal model method for the measurement of the bank's exposure to counterparty credit risk and the internal models approach for the measurement of specific risk as part of the bank's exposure to market risk shall calculate the relevant additional required amount of capital and reserve funds by modelling the impact of changes in the counterparties’ credit spreads on the CVAs of all relevant OTC derivative counterparties, together with all relevant eligible CVA hedges, using the bank's value-at-risk (VaR) model for bonds, which VaR model is restricted to changes in the counterparties’ credit spreads and does not model the sensitivity of CVA to changes in other market factors, such as changes in the value of the reference asset, commodity, currency or interest rate of a derivative, provided that-
+            (A) regardless of its accounting valuation method used to determine CVA, the additional required amount of capital for CVA shall for each relevant counterparty be based on the formula 42 specified below, in which formula the first factor within the sum represents an approximation of the market implied marginal probability of a default occurring between times t., and t, acknowledging that market implied default probability or risk neutral probability represents the market price of buying protection against a default, which may differ from the actual probability of a default.
+                #Formula 42  
+                $$  
+                CVA=(LGD_{MKT}) \cdot \sum_{i=1}^T \max \left(0, \exp\left( -\frac{s_{i-1} \cdot t_{i-1}}{LGD_{MKT}}\right) - \exp \left( \frac{s_i \cdot t_i}{LGD_{MKT}} \right)  \right) \cdot \left( \frac{EE_{i-1} \cdot D_{i-1} + EE_i \cdot D_i}{2} \right)
+                $$  
+                where:
+                $t_i$ is the time of the i-th revaluation time bucket, starting from $t_0=0$  
+                $t_T$ is the longest contractual maturity across the netting sets with the counterparty  
+                $s_i$ is the credit spread of the counterparty at tenor $t_i$ used to calculate the CVA of the counterparty, provided that the bank shall use-  
+                (i) the CDS spread of the relevant counterparty whenever it is available; or  
+                (ii) an appropriate proxy spread that is based on the rating, industry and region of the counterparty when the relevant CDS spread is not available  
+                $LGD_{MKT}$ is the loss given default of the counterparty, which shall be based on-
+                (i) the spread of a market instrument of the relevant counterparty; or
+                (ii) the appropriate proxy spread that is based on the rating, industry and region of the counterparty when a counterparty instrument is not available  
+                The aforesaid $LGD_{MKT}$ is different from the LGD used to determine the IRB and CCR default risk requirement, as this $LGD_{MKT}$ is a  market assessment rather than an internal estimate  
+                $EE_i$ is the expected exposure to the counterparty at revaluation time t, as defined in paragraph (a) above, where exposures of different netting sets for such counterparty are added, and where the longest maturity of each netting set is given by the longest contractual maturity inside the netting set, provided that a bank that adopted the short-cut method envisaged in paragraph (e) above for margined trades shall apply the relevant requirements and formula specified in subparagraph (ii) below  
+                $D_i$ is the default risk-free discount factor at time $t_i$ where $D_0 = 1$    
+                #Formula 42 - end
+        (ii) When a bank's approved VaR model-
+            (A) is based on credit spread sensitivities for specific tenors, the bank shall base each relevant  credit spread sensitivity on the formula 43 specified below:
+                #Formula 43  
+                $$ \text{Regulatory } CS01_{i} = 0.0001 \cdot t_i \cdot \exp\left( \frac{s_i \cdot t_i}{LGD_{MKT}} \right) \cdot \left( \frac{EE_{i-1} \cdot D_{i-1}  - EE_{i+1} \cdot D_{i+1}}{2} \right) 
+                $$   
+                This derivation assumes positive marginal default probabilities before and after time bucket $t_i$ and is valid for $i<T$.  
+                For the final time bucket $i = T$, the corresponding formula is:
+                $$
+                \text{Regulatory } CS01_{T} = 0.0001 \cdot t_T \cdot \exp\left( \frac{s_T \cdot t_T}{LGD_{MKT}} \right) \cdot \left( \frac{EE_{T-1} \cdot D_{T-1} - EE_{T} \cdot D_{i}}{2} \right) 
+                $$  
+                #Formula 43 - end
+            (B) uses credit spread sensitivities to parallel shifts in credit spreads, which shall for purposes of these Regulations be referred to as regulatory CS01, the bank shall use the formula 44 specified below, which derivation assumes positive marginal default probabilities;
+                #Formula 44  
+                $$ \text{Regulatory } CS01 = 0.0001 \cdot \sum_{i=1}^T 
+                \left( 
+                    t_i \cdot \exp 
+                    \left( 
+                        \frac{s_i \cdot t_i}{LGD_{MKT}} 
+                    \right)  - 
+
+                    t_{i-1} \cdot \exp 
+                    \left( 
+                        \frac{s_{i-1} \cdot t_{i-1}}{LGD_{MKT}} 
+                    \right)  
+
+                \right)
+                \cdot
+                \left( 
+                        \frac{EE_{i-1} \cdot D_{i-1}  - EE_{i} \cdot D_{i}}{2} 
+                    \right) 
+                $$   
+                #Formula 44 - end
+        (iii) Any hedge used and managed by the bank to mitigate its exposure to CVA risk, shall be included in the bank's calculation of the relevant required amount of capital for CVA risk in accordance with the relevant requirements specified in subregulation (15)(b).
+
+(20) Specific matters relating to delivery-versus-payment transactions, and non-delivery-versus-payment or free-delivery transactions (#Heading) (03-Regulations-part-3.pdf; pg 51)
+    (a) A bank shall in respect of-
+        (i) any delivery-versus-payment transaction, that is, any transaction settled through a delivery-versus-payment system-
+            (A) which system makes provision for the simultaneous exchanges of securities for cash, including payment versus payment;
+            (B) which transaction exposes the reporting bank to a risk of loss equal to the difference between the transaction valued at the agreed settlement price and the transaction valued at current market price, that is, the positive current exposure amount;
+            (C) which transaction may include-
+                (i) the settlement of commodities;
+                (ii) the settlement of foreign exchange;
+                (iii) the settlement of securities;
+                (iv) settlement through a licensed exchange, clearing house or central counterparty, and which transactions are subject to daily mark-to-market, payment of daily variation margins and involve a mismatched trade;
+        (ii) any non-delivery-versus-payment or free-delivery transaction, that is, any transaction in respect of which cash is paid out without receipt of the contracted receivable, which receivable may include a security, foreign currency, gold or a commodity, or conversely, any transaction in respect of which deliverables were delivered without receipt of the contracted cash payment, which transaction exposes the reporting bank to a risk of loss equal to the full amount of the cash amount paid or deliverables delivered,
+        calculate its required amount of capital and reserve funds in accordance with the relevant requirements specified in paragraph (b) below, provided that-
+            (A) the provisions of this subregulation (20) shall not apply-
+                (i) to any repurchase agreement, resale agreement, securities lending transaction or securities borrowing transaction that has failed to settle,
+                (ii) to any forward contract or one-way cash payment due in respect of an OTC derivative transaction,
+            which agreement, contract or transaction shall be subject to the relevant requirements specified in subregulations (16) to (19) above, or subregulations (6) to (14);
+            (B) in the case of a system wide failure of a settlement or clearing system, or a central counterparty, the Registrar may, subject to such conditions as may be specified in writing by the Registrar, exempt a bank from the requirements specified in paragraph (b) below;
+            (C) a failure of a counterparty to settle a trade as envisaged in this subregulation (20) will not necessarily fall within the ambit of default for the purpose of measuring the reporting bank's exposure to credit risk as envisaged in this regulation 23.
+
+    (b) Minimum required amount of capital and reserve funds (#Heading) (03-Regulations-part-3.pdf; pg 53)
+    A bank shall in the case of-
+        (i) any delivery-versus-payment transaction in respect of which payment has not taken place in the period of five business days after the contracted settlement date calculate its required amount of capital and reserve funds by multiplying the relevant positive current exposure amount with the relevant percentage specified in table 21 below.
+            #Table 21
+            Number of working days after the contracted settlement date | Risk multiplier |
+            -------|-------|
+            From 5 to 15| 8%|
+            From 16 to 30| 50%|
+            From 31 to 45| 75%|
+            46 or more| 100%|  
+            #Table 21 - end
+
+        (ii) any non-delivery-versus-payment or free-delivery transaction, after the first contractual date relating to payment or delivery when the relevant second leg has not been received at the end of the relevant business day, treat the relevant payment made as a loan exposure, that is, a bank that adopted-
+            (A) the IRB approach shall calculate its risk-weighted exposure and related required amount of capital and reserve funds in accordance with the relevant formulae and requirements specified in subregulations (11) and (13);
+            (B) the standardised approach shall calculate its risk-weighted exposure and related required amount of capital and reserve funds in accordance with the relevant requirements specified in subregulations (6) and (8),
+            provided that-
+                (i) when the relevant exposure amount is not material, the reporting bank may choose to apply a risk weight of 100 per cent to the said exposure amount;
+                (ii) when five business days have lapsed following the second contractual payment or delivery date and the second leg has not effectively taken place, the bank that made the first payment leg shall deduct from its common equity tier 1 capital and reserve funds the full amount of value transferred plus any relevant replacement cost until the said second payment or delivery leg is effectively made;
+                (iii) when determining a risk weight in respect of any failed free-delivery exposure, a bank that adopted-
+                    (aa) the IRB approach for the measurement of the bank's exposure to credit risk may in respect of a counterparty in respect of which the bank has no other banking book exposure assign a PD ratio, based on the relevant counterparty's external rating;
+                    (bb) the advanced IRB approach for the measurement of the bank's exposure to credit risk may apply an LGD ratio of 45 per cent, in lieu of estimating an LGD ratio, provided that the bank shall apply the said ratio to all failed trade exposures; or
+                    (cc) the IRB approach for the measurement of the bank's exposure to credit risk may apply the risk weights specified in the standardised approach, in subregulation (8), or a risk weight of 100 per cent.
+
+
+(21) Expected Loss (#Heading) (03-Regulations-part-3.pdf; pg 54)
+A bank that adopted the IRB approach for the measurement of the bank's exposure to credit risk shall calculate an aggregate amount in respect of the bank's expected losses, which aggregate expected loss amount-
+    (a) shall exclude any expected losses in respect of-
+        (i) the bank's equity exposures subject to the PD/LGD approach prescribed in regulation 31 (6)(c);
+        (ii) credit exposures resulting from a securitisation scheme;
+    (b) shall be determined by multiplying the expected loss ratio relating to a particular credit exposure with the relevant EAD amount;
+    (c) shall in the case of-
+        (i) credit exposures relating to corporate institutions other than specialised lending mapped into the standardised risk grades specified in subregulation (11)(d)(iii)(C), sovereigns, banks and the bank's retail portfolios, which exposures-
+            (A) are not in default, and
+            (B) do not constitute protected exposures or eligible exposures subject to the double default approach,
+        be calculated by multiplying the exposure's relevant PD ratio with its LGD ratio;
+        (ii) credit exposures relating to corporate institutions, sovereigns, banks and the bank's retail portfolios, which exposures are in default, be calculated by estimating the expected loss amount through the application of the relevant LGD ratio;
+        (iii) exposures relating to specialised lending mapped into the standardised risk grades specified in subregulation (11)(d)(iii)(C), excluding exposures relating to high-volatility commercial real estate, be calculated by multiplying the relevant EAD amount with the minimum required capital adequacy ratio prescribed in accordance with the relevant provisions of regulation 38(8)(b), and the risk weights specified in table 22 below:
+            #Table 22
+            Rating Grade
+            Strong | Good | Satisfactory | Weak | Default |
+            -------|-------|-------|-------|-------|
+            5%|10%|35%|100%|625%|  
+
+            #Table 22 - end
+
+        (iv) exposures relating to high-volatility commercial real estate mapped into the standardised risk grades specified in subregulation (11)(d)(iii)(C), be calculated by multiplying the relevant EAD amount with the minimum required capital adequacy ratio prescribed in accordance with the relevant provisions of regulation 38(8)(b),and the risk weights specified in table 23 below:
+            #Table 23
+            Rating Grade
+            Strong | Good | Satisfactory | Weak | Default |
+            -------|-------|-------|-------|-------|
+            5%|5%|35%|100%|625%|  
+
+            #Table 23 - end
+
+        (v) other exposures, including any protected exposure or eligible exposure subject to the double default approach, be deemed to be equal to nil.
+
+(22) Credit Impairment (#Heading) (03-Regulations-part-3.pdf; pg 55)
+    (a) As a minimum, every bank-
+        (i) shall have in place a sufficiently robust system for the calculation of credit impairment in accordance with the relevant requirements specified in Financial Reporting Standards issued from time to time;
+        (ii) shall have in place sufficiently robust processes and board-approved policies, and sufficient dedicated resources, to ensure-
+            (A) the early identification of assets of deteriorating credit quality;
+            (B) ongoing oversight of problem assets or credit exposure;
+            (C) that the bank periodically reviews and assesses-
+                (i) all relevant problem assets at an individual level, or a portfolio level in the case of credit exposures with homogenous characteristics;
+                (ii) the adequacy of the bank's asset classification, provisioning and write-offs;
+                (iii) the value, adequacy and enforceability of all relevant risk mitigation instruments or contracts, including guarantees, credit-derivative instruments or other forms of collateral or credit protection;
+            (D) that all relevant off-balance-sheet exposures are duly considered;
+            (E) that the bank's credit impairments and write-offs reflect realistic repayment and recovery expectations;
+            (F) ongoing collection of past due obligations;
+            (G) that the bank's board of directors receives timely and appropriate information on the condition of the bank's relevant credit portfolios, including the classification of credit exposures, the level of provisioning and major problem assets;
+        (iii) shall base its decisions in respect of credit impairment primarily on an assessment of the recoverability of individual on-balance-sheet and off-balance-sheet items or portfolios of items with similar characteristics, such as credit card receivables;
+        (iv) shall identify and recognise impairments in on-balance-sheet and off-balance-sheet items when it is probable that the bank will not be able to collect, or there is no longer a reasonable assurance that the bank will collect, all amounts due according to the contractual terms of the written agreement.
+    (b) When the Registrar is of the opinion that the policies and procedures applied by a bank during its assessment of asset quality, risk mitigation and related credit impairment are inadequate, the Registrar may require the relevant bank to raise a specified credit impairment amount against potential credit losses, for example, by requiring in writing the said bank to transfer a specified amount from retained earnings or distributable reserves to a non-distributable reserve.
+    (c) Standardised approach  (#Heading) (03-Regulations-part-3.pdf; pg 57)
+    A bank that-
+        (i) adopted the standardised approach for the measurement of a portion of its exposure to credit risk shall determine the relevant portion of any general allowance for credit impairment or general loan-loss reserve that relate to the credit exposures measured in terms of the standardised approach, that is, the bank shall allocate its general allowance for credit impairment or general loan-loss reserve on a pro-rata basis based on the proportion of risk-weighted credit exposure subject to the standardised approach;
+        (ii) makes exclusive use of the standardised approach to determine its risk-weighted credit exposure shall attribute the relevant total amount of general allowance for credit impairment or general loan-loss reserve raised to the standardised approach;
+        (iii) adopted the standardised approach for the measurement of its exposure to credit risk may include in tier 2 unimpaired reserve funds, up to a maximum amount of 1.25 per cent of the bank's relevant risk-weighted credit exposure, the relevant gross amount of general allowance for credit impairment or general loan-loss reserve.
+    (d) IRB approach (#Heading) (03-Regulations-part-3.pdf; pg 57)
+        (i) A bank that-
+            (A) makes exclusive use of the IRB approach to determine its risk- weighted credit exposure shall attribute to eligible provisions the aggregate amount of any relevant general allowance or general loan-loss reserve raised for credit impairment;
+            (B) adopted the IRB approach for the measurement of the bank's exposure to credit risk shall deduct from its eligible provisions the aggregate amount relating to expected loss calculated in accordance with the relevant requirements specified in subregulation (21) above, provided that when the aggregate amount relating to expected losses-
+                (i) exceeds the bank's eligible provisions, the bank shall in accordance with the relevant requirements specified in regulation 38(5) of these Regulations deduct from its capital and reserve funds the said excess amount;
+                (ii) is less than the bank's eligible provisions, the bank may include in tier 2 unimpaired reserve funds, in item 85 of the form BA 700, up to a maximum amount of 0.6 per cent of the bank's relevant risk weighted exposure amount, or such a lower percentage as may be specified in writing by the Registrar, the relevant surplus amount;
+        (ii) Subject to the prior written approval of and such conditions as may be specified in writing by the Registrar, a bank that adopted both the standardised approach and the IRB approach for the measurement of the bank’s risk-weighted credit exposure may apply the bank’s internal methods to allocate any general allowance for credit impairment or general loan-loss reserve for recognition in capital under either the standardised or IRB approach.
+
